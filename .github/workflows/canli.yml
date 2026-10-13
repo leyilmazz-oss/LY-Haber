@@ -1,0 +1,34 @@
+name: Canlı veri (son dakika + piyasa)
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # her 30 dakikada bir
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: canli
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verileri topla
+        run: python scripts/canli.py data/canli.json
+      - name: Kaydet
+        run: |
+          git config user.name "LY Haber Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/canli.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Canlı veri güncellendi"
+          git pull --rebase --autostash || true
+          git push

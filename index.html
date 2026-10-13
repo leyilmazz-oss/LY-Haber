@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LY Haber</title>
+<meta name="description" content="LY Haber: Türkiye, dünya, ekonomi, finans, spor, kripto ve lastik-filo gündemi tek ekranda.">
+<meta name="theme-color" content="#0e1b2a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/favicon-64.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="LY Haber">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Manrope:wght@400;500;600;700;800&display=swap">
+<style>
+  /* Düzen: telefon öncelikli tek sütun; geniş ekranda manşet + yan sütun.
+     Üstte künye, piyasa şeridi, yapışkan konu sekmeleri; altında seçilmiş haberler ve canlı akış. */
+  :root {
+    --paper: #f5f6f8;
+    --card: #ffffff;
+    --ink: #0e1b2a;
+    --ink-2: #33445a;
+    --muted: #66768a;
+    --rule: #dde3ea;
+    --red: #d7303f;
+    --red-ink: #b3202e;
+    --red-soft: #fbe8ea;
+    --up: #17804b;
+    --down: #c42b39;
+    --chip: #e9edf2;
+    --note: #eef4f9;
+    --note-ink: #164a6e;
+    --mast: #0e1b2a;
+    --mast-ink: #eef2f6;
+    --serif: "Newsreader", "Iowan Old Style", "Georgia", serif;
+    --sans: "Manrope", "Segoe UI", system-ui, -apple-system, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0a121b; --card: #111c28; --ink: #edf2f7; --ink-2: #c3cfdb; --muted: #8fa0b2; --rule: #223244;
+      --red: #f0596a; --red-ink: #ff8592; --red-soft: #3a1c25; --up: #6fd29a; --down: #ff8a95; --chip: #182636;
+      --note: #13283a; --note-ink: #9cd0f2; --mast: #070d14; --mast-ink: #edf2f7; color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 var(--sans); }
+  a { color: inherit; }
+  button { font: inherit; color: inherit; cursor: pointer; }
+  :focus-visible { outline: 3px solid var(--red); outline-offset: 2px; border-radius: 6px; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+  /* Künye */
+  .mast { background: var(--mast); color: var(--mast-ink); padding-top: env(safe-area-inset-top, 0px); }
+  .mast-in { max-width: 1080px; margin: 0 auto; padding: 14px 16px 12px; display: flex; align-items: center; gap: 12px; }
+  .logo { width: 42px; height: 42px; flex: 0 0 auto; border-radius: 11px; display: block; }
+  .brand { min-width: 0; flex: 1; }
+  .brand h1 { margin: 0; font: 700 26px/1 var(--serif); letter-spacing: -0.01em; }
+  .brand h1 span { color: var(--red); }
+  .brand p { margin: 3px 0 0; font-size: 12.5px; color: #a9b7c6; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mast-actions { display: flex; gap: 8px; align-items: center; }
+  .btn { border: 1px solid #2c3d51; background: #13243a; color: var(--mast-ink); border-radius: 10px; min-height: 38px; padding: 0 12px;
+    display: inline-flex; align-items: center; gap: 6px; font-size: 14px; font-weight: 700; }
+  .btn.install { background: var(--red); border-color: var(--red); color: #fff; }
+  .btn svg { width: 18px; height: 18px; }
+  .btn.spin svg { animation: spin .9s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Piyasa şeridi */
+  .ticker { background: var(--mast); border-top: 1px solid #1d2c3e; }
+  .ticker-in { max-width: 1080px; margin: 0 auto; display: flex; overflow-x: auto; scrollbar-width: none; }
+  .ticker-in::-webkit-scrollbar { display: none; }
+  .tk { flex: 0 0 auto; padding: 8px 16px 9px; border-right: 1px solid #1d2c3e; min-width: 118px; }
+  .tk b { display: block; font-size: 11.5px; font-weight: 600; color: #95a6b9; letter-spacing: .02em; }
+  .tk strong { display: block; color: #fff; font-size: 16px; font-weight: 800; font-variant-numeric: tabular-nums; }
+  .tk i { font-style: normal; font-size: 12px; font-weight: 700; font-variant-numeric: tabular-nums; color: #95a6b9; }
+  .tk i.up { color: #6fd29a; } .tk i.down { color: #ff8a95; }
+
+  /* Sekmeler */
+  .tabs { position: sticky; top: 0; z-index: 20; background: var(--paper); border-bottom: 1px solid var(--rule); }
+  .tabs-in { max-width: 1080px; margin: 0 auto; display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; padding: 0 8px; }
+  .tabs-in::-webkit-scrollbar { display: none; }
+  .tab { flex: 0 0 auto; border: 0; background: none; padding: 13px 10px 11px; font-size: 14.5px; font-weight: 700; color: var(--muted);
+    border-bottom: 3px solid transparent; }
+  .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--red); }
+
+  main { max-width: 1080px; margin: 0 auto; padding: 18px 16px 40px; display: grid; gap: 28px; }
+  .status { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+  .status b { color: var(--ink-2); font-weight: 700; }
+  .status .off { color: var(--down); font-weight: 700; }
+
+  .kicker { font-size: 11.5px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--red-ink); }
+  .sec-h { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-top: 2px solid var(--ink); padding-top: 9px; margin-bottom: 4px; }
+  .sec-h h2 { margin: 0; font: 700 22px/1.15 var(--serif); }
+  .more { border: 0; background: none; padding: 4px 0; font-size: 13.5px; font-weight: 700; color: var(--red-ink); white-space: nowrap; }
+
+  /* Manşet */
+  .lead { display: grid; gap: 22px; }
+  @media (min-width: 900px) { .lead { grid-template-columns: 1.55fr 1fr; align-items: start; } }
+  .headline { background: var(--card); border: 1px solid var(--rule); border-radius: 16px; padding: 20px 20px 18px; display: grid; gap: 10px; min-width: 0; }
+  .headline h2 { margin: 0; font: 700 clamp(26px, 6.4vw, 38px)/1.1 var(--serif); letter-spacing: -0.015em; text-wrap: balance; }
+  .headline .dek { margin: 0; font-size: 17px; color: var(--ink-2); }
+  .glance { display: grid; gap: 0; min-width: 0; }
+  .glance ol { margin: 0; padding: 0; list-style: none; counter-reset: g; }
+  .glance li { counter-increment: g; display: grid; grid-template-columns: 26px 1fr; gap: 8px; padding: 11px 0; border-bottom: 1px solid var(--rule); font-size: 15px; }
+  .glance li::before { content: counter(g); font: 700 20px/1.1 var(--serif); color: var(--red); }
+
+  /* Haber kartları */
+  .grid { display: grid; gap: 12px; }
+  @media (min-width: 760px) { .grid.two { grid-template-columns: 1fr 1fr; } }
+  .story { background: var(--card); border: 1px solid var(--rule); border-radius: 14px; padding: 15px 16px 14px; display: grid; gap: 7px; min-width: 0; align-content: start; }
+  .story h3 { margin: 0; font: 600 20px/1.22 var(--serif); letter-spacing: -0.005em; text-wrap: balance; }
+  .story p { margin: 0; color: var(--ink-2); font-size: 15.5px; }
+  .story .detay { display: grid; gap: 8px; }
+  .note { background: var(--note); color: var(--ink); border-radius: 10px; padding: 9px 11px; font-size: 14.5px; }
+  .note b { color: var(--note-ink); }
+  .src { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 13px; color: var(--muted); align-items: center; }
+  .src a { color: var(--muted); text-underline-offset: 2px; font-weight: 600; }
+  .toggle { justify-self: start; border: 1px solid var(--rule); background: none; border-radius: 999px; padding: 5px 12px; font-size: 13px; font-weight: 700; color: var(--ink-2); }
+
+  /* Canlı akış */
+  .live { background: var(--card); border: 1px solid var(--rule); border-radius: 14px; padding: 4px 16px; }
+  .live a { display: grid; grid-template-columns: 58px 1fr; gap: 10px; padding: 11px 0; border-bottom: 1px solid var(--rule); text-decoration: none; }
+  .live a:last-child { border-bottom: 0; }
+  .live time { font-size: 13px; font-weight: 800; color: var(--red-ink); font-variant-numeric: tabular-nums; padding-top: 1px; }
+  .live span { display: block; font-size: 15px; font-weight: 600; line-height: 1.4; }
+  .live small { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+  .empty { color: var(--muted); font-size: 14.5px; padding: 14px 0; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--red); margin-right: 6px; vertical-align: 1px; animation: pulse 1.8s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: .35; } }
+
+  footer { max-width: 1080px; margin: 0 auto; padding: 0 16px calc(28px + env(safe-area-inset-bottom, 0px)); color: var(--muted); font-size: 12.5px; display: grid; gap: 4px; }
+  .toast { position: fixed; left: 50%; bottom: calc(18px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--paper);
+    padding: 10px 16px; border-radius: 12px; font-size: 14px; font-weight: 700; z-index: 50; max-width: calc(100% - 32px); }
+  @media (max-width: 420px) { .btn .lbl { display: none; } .btn { padding: 0 10px; } .brand h1 { font-size: 23px; } }
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="mast-in">
+    <img class="logo" src="icons/icon-192.png" alt="" width="42" height="42">
+    <div class="brand">
+      <h1>LY <span>Haber</span></h1>
+      <p id="dateline">Gündem yükleniyor…</p>
+    </div>
+    <div class="mast-actions">
+      <button class="btn install" id="installBtn" type="button" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="lbl">Yükle</span>
+      </button>
+      <button class="btn" id="refreshBtn" type="button" aria-label="Haberleri yenile">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7"/></svg><span class="lbl">Yenile</span>
+      </button>
+    </div>
+  </div>
+</header>
+<div class="ticker" aria-label="Piyasalar"><div class="ticker-in" id="ticker"></div></div>
+<nav class="tabs" aria-label="Konular"><div class="tabs-in" id="tabs" role="tablist"></div></nav>
+
+<main id="main">
+  <div class="status" id="status"></div>
+  <div id="view"></div>
+</main>
+
+<footer>
+  <span>Seçilmiş haberler her gün 08:45, 12:45 ve 18:45'te hazırlanır. Son dakika ve piyasa verileri yaklaşık 30 dakikada bir yenilenir.</span>
+  <span>Haberler kaynaklarından özetlenmiştir. Her haberin altında özgün kaynağın linki vardır.</span>
+</footer>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script>
+(function () {
+  "use strict";
+  var TABS = [
+    { id: "gundem", ad: "Gündem" },
+    { id: "sondakika", ad: "Son Dakika" },
+    { id: "turkiye", ad: "Türkiye" },
+    { id: "dunya", ad: "Dünya" },
+    { id: "ekonomi", ad: "Ekonomi" },
+    { id: "finans", ad: "Finans" },
+    { id: "spor", ad: "Spor" },
+    { id: "kripto", ad: "Kripto" },
+    { id: "sektor", ad: "Lastik & Filo" }
+  ];
+  var KAT_AD = { gundem: "Gündem", turkiye: "Türkiye", dunya: "Dünya", ekonomi: "Ekonomi", finans: "Finans", spor: "Spor", kripto: "Kripto", sektor: "Lastik & Filo" };
+  var state = { tab: "gundem", haber: null, canli: null, lastFetch: 0, offline: false };
+  var $ = function (id) { return document.getElementById(id); };
+
+  function el(tag, cls, text) { var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
+  function safeUrl(u) { try { var x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x.href : ""; } catch (e) { return ""; } }
+  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+  function fmtTime(iso) {
+    var d = new Date(iso); if (isNaN(d)) return "";
+    return d.toLocaleTimeString("tr-TR", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Istanbul" });
+  }
+  function ago(iso) {
+    var d = new Date(iso); if (isNaN(d)) return "";
+    var m = Math.round((Date.now() - d.getTime()) / 60000);
+    if (m < 1) return "az önce";
+    if (m < 60) return m + " dk önce";
+    var h = Math.floor(m / 60);
+    if (h < 24) return h + " saat önce";
+    return d.toLocaleDateString("tr-TR", { day: "numeric", month: "long", timeZone: "Europe/Istanbul" });
+  }
+  function toast(msg) { var t = $("toast"); t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(function () { t.hidden = true; }, 2600); }
+
+  async function getJson(path) {
+    var r = await fetch(path + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(path + " " + r.status);
+    return r.json();
+  }
+
+  async function load(manual) {
+    var btn = $("refreshBtn"); btn.classList.add("spin"); btn.disabled = true;
+    var results = await Promise.allSettled([getJson("data/haber.json"), getJson("data/canli.json")]);
+    if (results[0].status === "fulfilled") state.haber = results[0].value;
+    if (results[1].status === "fulfilled") state.canli = results[1].value;
+    state.offline = results[0].status !== "fulfilled" && results[1].status !== "fulfilled";
+    state.lastFetch = Date.now();
+    btn.classList.remove("spin"); btn.disabled = false;
+    render();
+    if (manual) toast(state.offline ? "İnternet yok, son kaydedilen haberler gösteriliyor" : "Haberler yenilendi");
+  }
+
+  /* ---------- Bölümler ---------- */
+  function renderHeader() {
+    var h = state.haber;
+    $("dateline").textContent = h ? (h.tarih + " · " + (h.baski || "") + " baskısı") : "Gündem yükleniyor…";
+  }
+
+  function marketRows() {
+    var live = state.canli && state.canli.piyasa && state.canli.piyasa.length ? state.canli.piyasa : null;
+    var fresh = live && state.canli.guncelleme && (Date.now() - new Date(state.canli.guncelleme).getTime() < 6 * 3600 * 1000);
+    var curated = (state.haber && state.haber.piyasa) || [];
+    if (!fresh) return curated.length ? curated : (live || []);
+    return live.map(function (row) {
+      if (row.deger && row.deger !== "—") return row;
+      var alt = curated.filter(function (c) { return c.ad === row.ad; })[0];
+      return alt || row;
+    });
+  }
+  function renderTicker() {
+    var box = $("ticker"); box.textContent = "";
+    marketRows().forEach(function (p) {
+      var d = el("div", "tk");
+      d.appendChild(el("b", "", p.ad));
+      d.appendChild(el("strong", "", p.deger || "—"));
+      d.appendChild(el("i", p.yon || "", p.degisim || " "));
+      box.appendChild(d);
+    });
+  }
+
+  function renderTabs() {
+    var box = $("tabs"); box.textContent = "";
+    TABS.forEach(function (t) {
+      var b = el("button", "tab", t.ad);
+      b.type = "button"; b.setAttribute("role", "tab"); b.id = "tab-" + t.id;
+      b.setAttribute("aria-selected", String(state.tab === t.id));
+      b.addEventListener("click", function () { go(t.id); });
+      box.appendChild(b);
+    });
+    var cur = $("tab-" + state.tab); if (cur) cur.scrollIntoView({ inline: "nearest", block: "nearest" });
+  }
+
+  function renderStatus() {
+    var s = $("status"); s.textContent = "";
+    if (state.haber && state.haber.guncelleme) {
+      var a = el("span"); a.appendChild(document.createTextNode("Seçki: ")); a.appendChild(el("b", "", fmtTime(state.haber.guncelleme) + " (" + ago(state.haber.guncelleme) + ")")); s.appendChild(a);
+    }
+    if (state.canli && state.canli.guncelleme) {
+      var b = el("span"); b.appendChild(document.createTextNode("Son dakika: ")); b.appendChild(el("b", "", ago(state.canli.guncelleme))); s.appendChild(b);
+    }
+    if (state.offline) s.appendChild(el("span", "off", "Çevrimdışı"));
+  }
+
+  function story(n, kat, open) {
+    var a = el("article", "story");
+    if (kat) a.appendChild(el("span", "kicker", KAT_AD[kat] || kat));
+    a.appendChild(el("h3", "", n.baslik));
+    if (n.ozet) a.appendChild(el("p", "", n.ozet));
+    var hasMore = n.detay || n.onem;
+    var det = el("div", "detay");
+    if (n.detay) det.appendChild(el("p", "", n.detay));
+    if (n.onem) { var w = el("div", "note"); w.appendChild(el("b", "", "Bizim için: ")); w.appendChild(document.createTextNode(n.onem)); det.appendChild(w); }
+    var src = el("div", "src"); src.appendChild(el("span", "", "Kaynak:"));
+    (n.kaynaklar || []).forEach(function (k) {
+      var u = safeUrl(k.url); if (!u) return;
+      var l = el("a", "", k.ad); l.href = u; l.target = "_blank"; l.rel = "noopener noreferrer"; src.appendChild(l);
+    });
+    det.appendChild(src);
+    if (hasMore && !open) {
+      det.hidden = true;
+      var t = el("button", "toggle", "Devamını oku");
+      t.type = "button"; t.setAttribute("aria-expanded", "false");
+      t.addEventListener("click", function () {
+        det.hidden = !det.hidden; t.textContent = det.hidden ? "Devamını oku" : "Kapat"; t.setAttribute("aria-expanded", String(!det.hidden));
+      });
+      a.appendChild(det); a.appendChild(t);
+    } else { a.appendChild(det); }
+    return a;
+  }
+
+  function liveList(items, limit) {
+    var box = el("div", "live");
+    var list = (items || []).slice(0, limit || 999);
+    if (!list.length) { box.appendChild(el("div", "empty", "Şu an gösterilecek son dakika başlığı yok. Akış her 30 dakikada bir yenilenir.")); return box; }
+    list.forEach(function (it) {
+      var u = safeUrl(it.url); if (!u) return;
+      var a = el("a"); a.href = u; a.target = "_blank"; a.rel = "noopener noreferrer";
+      a.appendChild(el("time", "", fmtTime(it.zaman)));
+      var t = el("div"); t.appendChild(el("span", "", it.baslik));
+      t.appendChild(el("small", "", it.kaynak + " · " + (KAT_AD[it.kategori] || "Gündem") + " · " + ago(it.zaman)));
+      a.appendChild(t); box.appendChild(a);
+    });
+    return box;
+  }
+
+  function section(title, moreTab, children) {
+    var s = el("section", ""); s.style.display = "grid"; s.style.gap = "12px";
+    var h = el("div", "sec-h"); var h2 = el("h2"); h2.textContent = title; h.appendChild(h2);
+    if (moreTab) { var m = el("button", "more", "Tümü →"); m.type = "button"; m.addEventListener("click", function () { go(moreTab); }); h.appendChild(m); }
+    s.appendChild(h); children.forEach(function (c) { s.appendChild(c); });
+    return s;
+  }
+
+  function katHaberleri(id) {
+    var k = state.haber && (state.haber.kategoriler || []).filter(function (x) { return x.id === id; })[0];
+    return k ? (k.haberler || []) : [];
+  }
+  function canliKat(id) {
+    var all = (state.canli && state.canli.sonDakika) || [];
+    if (id === "turkiye") return all.filter(function (x) { return x.kategori === "turkiye" || x.kategori === "gundem"; });
+    if (id === "ekonomi") return all.filter(function (x) { return x.kategori === "ekonomi" || x.kategori === "finans"; });
+    if (id === "sektor") return all.filter(function (x) { return x.sektor; });
+    return all.filter(function (x) { return x.kategori === id; });
+  }
+
+  function viewHome() {
+    var v = []; var h = state.haber;
+    if (!h) { v.push(el("div", "empty", state.offline ? "İnternet bağlantısı yok ve kaydedilmiş haber bulunamadı." : "Haberler yükleniyor…")); return v; }
+    var lead = el("div", "lead");
+    if (h.manset) {
+      var m = story(h.manset, h.manset.kategori, true); m.className = "headline";
+      var t = m.querySelector("h3"); var h2 = el("h2", "", t.textContent); m.replaceChild(h2, t);
+      var p = m.querySelector("p"); if (p) p.className = "dek";
+      lead.appendChild(m);
+    }
+    if (h.birBakista && h.birBakista.length) {
+      var g = el("div", "glance"); var hh = el("div", "sec-h"); hh.appendChild(el("h2", "", "Bir bakışta")); g.appendChild(hh);
+      var ol = el("ol"); h.birBakista.forEach(function (x) { ol.appendChild(el("li", "", x)); }); g.appendChild(ol);
+      lead.appendChild(g);
+    }
+    v.push(lead);
+    var sd = section("", "sondakika", [liveList((state.canli && state.canli.sonDakika) || [], 6)]);
+    var sh = sd.querySelector("h2"); sh.textContent = ""; sh.appendChild(el("span", "dot")); sh.appendChild(document.createTextNode("Son dakika"));
+    v.push(sd);
+    TABS.forEach(function (t) {
+      if (t.id === "gundem" || t.id === "sondakika") return;
+      var list = katHaberleri(t.id); if (!list.length) return;
+      var g2 = el("div", "grid two"); list.slice(0, 2).forEach(function (n) { g2.appendChild(story(n)); });
+      v.push(section(t.ad, t.id, [g2]));
+    });
+    return v;
+  }
+
+  function viewCategory(id) {
+    var v = []; var list = katHaberleri(id);
+    var g = el("div", "grid two");
+    if (list.length) list.forEach(function (n) { g.appendChild(story(n)); });
+    else g.appendChild(el("div", "empty", "Bu konuda bugün seçilmiş haber yok."));
+    v.push(section(KAT_AD[id] + " · Günün seçkisi", null, [g]));
+    var live = canliKat(id);
+    var s = section("", null, [liveList(live, 25)]);
+    var sh = s.querySelector("h2"); sh.appendChild(el("span", "dot")); sh.appendChild(document.createTextNode("Son dakika · " + KAT_AD[id]));
+    v.push(s);
+    return v;
+  }
+
+  function viewLive() {
+    var s = section("", null, [liveList((state.canli && state.canli.sonDakika) || [], 120)]);
+    var sh = s.querySelector("h2"); sh.appendChild(el("span", "dot")); sh.appendChild(document.createTextNode("Son dakika · tüm kaynaklar"));
+    return [s];
+  }
+
+  function render() {
+    renderHeader(); renderTicker(); renderTabs(); renderStatus();
+    var view = $("view"); view.textContent = ""; view.style.display = "grid"; view.style.gap = "30px";
+    var parts = state.tab === "gundem" ? viewHome() : state.tab === "sondakika" ? viewLive() : viewCategory(state.tab);
+    parts.forEach(function (p) { view.appendChild(p); });
+  }
+
+  function go(id, fromHash) {
+    if (!KAT_AD[id] && id !== "sondakika") id = "gundem";
+    state.tab = id; store("ly-tab", id);
+    if (!fromHash && location.hash.slice(1) !== id) history.pushState(null, "", "#" + id);
+    render(); window.scrollTo({ top: 0 });
+  }
+
+  /* ---------- Başlat ---------- */
+  var initial = location.hash.slice(1) || store("ly-tab") || "gundem";
+  state.tab = (KAT_AD[initial] || initial === "sondakika") ? initial : "gundem";
+  window.addEventListener("popstate", function () { go(location.hash.slice(1) || "gundem", true); });
+  $("refreshBtn").addEventListener("click", function () { load(true); });
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "visible" && Date.now() - state.lastFetch > 10 * 60 * 1000) load(false);
+  });
+  setInterval(function () { if (document.visibilityState === "visible") load(false); }, 15 * 60 * 1000);
+
+  var deferred = null;
+  window.addEventListener("beforeinstallprompt", function (e) { e.preventDefault(); deferred = e; $("installBtn").hidden = false; });
+  $("installBtn").addEventListener("click", async function () {
+    if (!deferred) return; deferred.prompt();
+    try { await deferred.userChoice; } catch (e) {}
+    deferred = null; $("installBtn").hidden = true;
+  });
+  window.addEventListener("appinstalled", function () { $("installBtn").hidden = true; toast("LY Haber telefona yüklendi"); });
+
+  if ("serviceWorker" in navigator) { navigator.serviceWorker.register("sw.js").catch(function () {}); }
+  render();
+  load(false);
+})();
+</script>
+</body>
+</html>
