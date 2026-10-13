@@ -32,6 +32,8 @@ FEEDS = [
     ("BBC Türkçe", "dunya", "https://feeds.bbci.co.uk/turkce/rss.xml"),
     ("Bloomberg HT", "finans", "https://www.bloomberght.com/rss"),
     ("Cointelegraph TR", "kripto", "https://tr.cointelegraph.com/rss"),
+    ("Investing.com", "kripto", "https://tr.investing.com/rss/news_301.rss"),
+    ("NTV Spor", "spor", "https://www.ntvspor.net/rss"),
 ]
 
 KRIPTO = re.compile(r"bitcoin|kripto|ethereum|btc\b|blockchain|stablecoin|altcoin", re.I)
@@ -173,7 +175,7 @@ def market():
             p, prev = yahoo(sym)
             if key == "USD":
                 usd = p
-            rows.append(row(ad, tr_num(p, 4 if p < 100 else 2), pct(p, prev)))
+            rows.append(row(ad, tr_num(p, 2), pct(p, prev)))
         except Exception as e:
             print(ad, e, file=sys.stderr)
             try:
@@ -181,7 +183,7 @@ def market():
                 v = float(fx["rates"]["TRY"])
                 if key == "USD":
                     usd = v
-                rows.append(row(ad, tr_num(v, 4), None))
+                rows.append(row(ad, tr_num(v, 2), None))
             except Exception as e2:
                 print(ad, "yedek", e2, file=sys.stderr); rows.append(row(ad, None, None))
     # Gram altın (TL) = ons altın (USD) * dolar / 31,1035
