@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T02:49+03:00",
+ "guncelleme": "2026-10-16T07:23+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -15,32 +15,32 @@
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,56",
-   "degisim": "+%0,47",
+   "deger": "55,63",
+   "degisim": "+%0,60",
    "yon": "up"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.654 ₺",
-   "degisim": "−%0,25",
-   "yon": "down"
+   "deger": "6.683 ₺",
+   "degisim": "+%0,18",
+   "yon": "up"
   },
   {
    "ad": "Brent",
-   "deger": "105,60 $",
-   "degisim": "−%0,98",
+   "deger": "105,36 $",
+   "degisim": "−%1,21",
    "yon": "down"
   },
   {
    "ad": "Bitcoin",
-   "deger": "82.115 $",
-   "degisim": "+%0,68",
+   "deger": "81.982 $",
+   "degisim": "+%1,15",
    "yon": "up"
   },
   {
    "ad": "Ethereum",
    "deger": "2.439 $",
-   "degisim": "+%0,83",
+   "degisim": "+%2,95",
    "yon": "up"
   }
  ],
@@ -51,7 +51,106 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-16-ekim-2026-1746509",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-16T02:30+03:00",
+   "zaman": "2026-10-16T07:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "UEA, piyasaya 20 milyon varilden fazla dizel sürecek",
+   "ozet": "Uluslararası Enerji Ajansı (UEA), arzı artırmak ve hızla yükselen fiyatları düşürmek amacıyla mart ayında taahhüt edilen rekor düzeydeki acil rezerv salımından kalan petrolün yanı sıra piyasaya 20 milyon varilden fazla dizel sunulması konus",
+   "url": "https://www.bloomberght.com/uea-piyasaya-20-milyon-varilden-fazla-dizel-surecek-3791531",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-16T06:40+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Altın, tahvil getirilerindeki düşüşle kazançlarını korudu",
+   "ozet": "Altın, iki haftayı aşkın sürenin en güçlü günlük yükselişini kaydettiği perşembe günkü kazançlarını korudu.",
+   "url": "https://www.bloomberght.com/altin-tahvil-getirilerindeki-dususle-kazanclarini-korudu-3791530",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-16T06:29+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Petrol, Orta Doğu'daki gerilim ve arz önlemleriyle geriledi",
+   "ozet": "Petrol, yatırımcıların Orta Doğu'daki çatışma risklerini ve ABD'nin küresel \"gölge filo\" tankerlerine yönelik kısıtlamaları hafifletme olasılığını değerlendirmesiyle cuma günü geriledi.",
+   "url": "https://www.bloomberght.com/petrol-orta-dogudaki-gerilim-ve-arz-onlemleriyle-geriledi-3791529",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-16T06:24+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Ekonomi ve siyaset gündemi- 16 Ekim 2026",
+   "ozet": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+   "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-ekim-2026-3791528",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-16T06:10+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sel faciasında can kaybı 3'e yükseldi. İki ilde 6 kişi kayıp",
+   "ozet": "İstanbul'da sel felaketinde can kaybı 3'e yükseldi. İstanbul'da 5, Kocaeli'de ise 1 kişi ise aranıyor.",
+   "url": "https://www.ntv.com.tr/turkiye/istanbuldaki-sel-faciasinda-can-kaybi-3e-yukseldi-4-kisi-araniyor-1746453",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-16T05:08+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD’de seçim öncesi gizemli mektup alarmı. Kimyasal saldırı mı?",
+   "ozet": "ABD’de 3 Kasım’da yapılacak ara seçimler öncesi eyalet seçim yetkililerine ve bazı senatörlerin ofislerine şüpheli toz bulunan mektuplar gönderildi.",
+   "url": "https://www.ntv.com.tr/dunya/abdde-secim-oncesi-gizemli-mektup-alarmi-kimyasal-saldiri-mi-1746516",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-16T04:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD’de ilkokula silahlı saldırı. 3 çocuk, 1 öğretmen öldü",
+   "ozet": "ABD’de bir ilkokulda düzenlenen silahlı saldırıda şüpheli öldürüldü. 5, 8 ve 11 yaşlarındaki üç çocuk ile bir öğretmen hayatını kaybetti. Saldırganı silahlı bir mahalle sakini öldürdü.",
+   "url": "https://www.ntv.com.tr/dunya/abdde-ilkokula-silahli-saldiri-3-cocuk-1-ogretmen-oldu-1746515",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-16T04:24+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail basını: Ordu, İran veya Hizbullah ile olası bir gerilime hazırlanıyor",
+   "ozet": "İsrail ordusunun, 27 Ekim'de yapılması planlanan genel seçimlere iki haftadan az bir süre kala İran veya Lübnan'daki Hizbullah ile olası gerilim ihtimaline karşı son günlerde askeri teyakkuz seviyesini yükselttiği bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor/4090464",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-16T03:27+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırısında 4 Filistinli yaralandı",
+   "ozet": "İsrail ordusunun, Gazze Şeridi'nde yürürlükte olan ateşkesi ihlal etmeye devam ederek insansız hava aracıyla (İHA) düzenlediği hava saldırısında 1'i ağır 4 Filistinli yaralandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridine-duzenledigi-hava-saldirisinda-4-filistinli-yaralandi/4090458",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-16T02:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail askerleri Suriye'nin Dera kenti kırsalında evlerde arama yaptı, tarım arazilerine ateş açtı",
+   "ozet": "İsrail ordusuna ait 10 askeri aracın, Suriye'nin güneyinde yer alan Dera ilinin batısındaki Abidin Barajı yakınlarındaki bir köye sızdığı bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-askerleri-suriyenin-dera-kenti-kirsalinda-evlerde-arama-yapti-tarim-arazilerine-ates-acti/4090459",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-16T02:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail askerleri, Batı Şeria'daki baskında 1 Filistinliyi başından yaraladı",
+   "ozet": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Tulkerim kentine düzenlediği baskında bir Filistinli başından yaralandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskinda-1-filistinliyi-basindan-yaraladi/4090460",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-16T02:48+03:00",
    "sektor": false
   },
   {
@@ -124,15 +223,6 @@
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-16T01:28+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Sel faciasında can kaybı 3'e yükseldi. İki ilde 6 kişi aranıyor",
-   "ozet": "İstanbul'da sel felaketinde can kaybı 3'e yükseldi. İstanbul'da 5, Kocaeli'de ise 1 kişi ise aranıyor.",
-   "url": "https://www.ntv.com.tr/turkiye/istanbuldaki-sel-faciasinda-can-kaybi-3e-yukseldi-4-kisi-araniyor-1746453",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-16T01:08+03:00",
    "sektor": false
   },
   {
@@ -428,7 +518,7 @@
    "ozet": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının ikinci haftasında TSİ 19.45'te başlayan karşılaşmalar sona erdi.",
    "url": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ikinci-haftasinda-8-mac-yapildi/4090346",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-10-15T22:19+03:00",
    "sektor": false
   },
@@ -446,7 +536,7 @@
    "ozet": "Fransa'da sarı yelekliler 17 Ekim'de ülke genelinde 1000'den fazla noktada eylem düzenleyecek.",
    "url": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-17-ekimde-1000den-fazla-noktada-eylem-yapacak/4090343",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-15T22:10+03:00",
    "sektor": false
   },
@@ -460,20 +550,11 @@
    "sektor": true
   },
   {
-   "baslik": "Bakan Çiftçi: İstanbul ve Kocaeli’deki yağışlarda 3 kişi hayatını kaybetti, kayıp 6 kişi aranıyor",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, İstanbul'da şiddetli yağış sonucu 3 kişinin hayatını kaybettiğini, hakkında kayıp ihbarı yapılan İstanbul'da 5, Kocaeli'de 1 olmak üzere 6 kişi için arama çalışmalarının aralıksız sürdürüldüğünü bildirdi.",
-   "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybetti-kayip-6-kisi-araniyor/4090333",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-15T21:59+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "BM: Batı Şeria'da zeytin hasadı döneminde yapılan saldırılar, şimdiden geçen yılın rakamlarını geçti",
    "ozet": "Birleşmiş Milletler (BM), işgal altındaki Batı Şeria'da zeytin hasadıyla uğraşan halka, Filistinlilerin topraklarını gasbeden İsrailliler tarafından yapılan saldırıların sayısının geçen yılki rakamları aştığını bildirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/bm-bati-seriada-zeytin-hasadi-doneminde-yapilan-saldirilar-simdiden-gecen-yilin-rakamlarini-gecti/4090329",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-15T21:50+03:00",
    "sektor": false
   },
@@ -766,15 +847,6 @@
    "sektor": false
   },
   {
-   "baslik": "BM: Gazze'de ateşkesin 1. yılında İsrail'in saldırıları sonlanmadı, 1500 Filistinli öldü",
-   "ozet": "BM Orta Doğu Barış Süreci Özel Koordinatör Yardımcısı Alakbarov, Gazze'de ateşkesin üzerinden yaklaşık bir yıl geçmesine rağmen İsrail saldırılarının sürdüğünü, 320'den fazlası çocuk 1500 Filistinlinin hayatını kaybettiğini bildirdi.",
-   "url": "https://www.aa.com.tr/tr/dunya/bm-gazzede-ateskesin-1-yilinda-israilin-saldirilari-sonlanmadi-1500-filistinli-oldu/4090147",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-15T18:38+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Borsa günü düşüşle tamamladı",
    "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,40 değer kaybederek 12.070,17 puandan tamamladı.",
    "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4090133",
@@ -790,15 +862,6 @@
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-10-15T18:23+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Arap Koalisyonu: Husilerin Riyad'daki havalimanına ekim ayındaki saldırılarında 17 kişi hayatını kaybetti",
-   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Husilerin 7-11 Ekim tarihlerinde başkent Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlediği 20 saldırıda 17 kişinin hayatını kaybettiğini, 333 kişinin yaralandığını duyurdu.",
-   "url": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyaddaki-havalimanina-ekim-ayindaki-saldirilarinda-17-kisi-hayatini-kaybetti/4090121",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-15T18:16+03:00",
    "sektor": false
   },
   {
@@ -862,15 +925,6 @@
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
    "zaman": "2026-10-15T17:44+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrailli firmanın internet reklamlarıyla kullanıcıların cihazlarına casus yazılım yerleştirildi",
-   "ozet": "Kanada'da Toronto Üniversitesine bağlı siber güvenlik araştırma grubu Citizen Lab, İsrail merkezli Discover-Tech firmasının internette verdiği reklamlar aracılığıyla kullanıcıların cihazlarına casus yazılım yerleştirildiğini belirtti.",
-   "url": "https://www.aa.com.tr/tr/dunya/israilli-firmanin-internet-reklamlariyla-kullanicilarin-cihazlarina-casus-yazilim-yerlestirildi/4090007",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-15T17:29+03:00",
    "sektor": false
   },
   {
@@ -1340,60 +1394,6 @@
    "kategori": "finans",
    "zaman": "2026-10-15T12:58+03:00",
    "sektor": true
-  },
-  {
-   "baslik": "MSB: Beklentimiz CAATSA yaptırımlarının kaldırılmasıdır",
-   "ozet": "Milli Savunma Bakanlığı (MSB) Amerika Birleşik Devletleri'ne (ABD) müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımlarının kaldırılmasına yönelik bir çağrı yaptı.",
-   "url": "https://www.ntv.com.tr/turkiye/msb-beklentimiz-caatsa-yaptirimlarinin-kaldirilmasidir-1746438",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-15T12:33+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye Innovation Week'te \"sanat ve teknoloji\" buluşuyor",
-   "ozet": "Türkiye Innovation Week 2026 (Türkiye İnovasyon Haftası-TIW26) kapsamında Ayşe Demirci küratörlüğünde hazırlanan Creative Tech Zone sergisi, insan ve teknoloji arasındaki değişen ilişkiyi ele alıyor.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-weekte-sanat-ve-teknoloji-bulusuyor/4089505",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-15T12:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Rusya'da petrol rafinerisine saldırı",
-   "ozet": "Ukrayna'nın Rus işleme tesislerine yönelik saldırıları yeniden başlatma taahhüdünün ardından, Ryazan'daki büyük bir petrol rafinerisinde gece düzenlenen insansız hava aracı saldırısı sonrası yangın çıktığı bildirildi.",
-   "url": "https://www.bloomberght.com/rusyada-petrol-rafinerisine-saldiri-3791455",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-15T12:27+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ticaret Bakanlığı taksitli satışlarda süre ve kısıtlamaları belirleyebilecek",
-   "ozet": "Bu kapsamda alınacak kararlar, Bakanlığın resmi internet sitesinde ilan edilecek ve ilgili üst meslek kuruluşlarına iletilecek.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksitli-satislarda-sure-ve-kisitlamalari-belirleyebilecek/4089479",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-15T12:19+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Dışişleri Bakanı Fidan, Bakü’de gerçekleştirilen CICA 7. Zirvesi’ne katıldı",
-   "ozet": "Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı'nın (CICA) 7. Zirvesi Azerbaycan'ın başkenti Bakü'de başladı. Zirvede Türkiye'yi Dışişleri Bakanı Hakan Fidan temsil ediyor",
-   "url": "https://www.ntv.com.tr/dunya/disisleri-bakani-fidan-bakude-gerceklestirilen-cica-7-zirvesine-katildi-1746430",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-15T12:05+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye'nin ilk yüzer üretim platformu Osman Gazi görev yerine uğurlanıyor",
-   "ozet": "Türkiye'nin ilk yüzer üretim platformu Osman Gazi, 17 Ekim Cumartesi günü Zonguldak Filyos'tan Karadeniz'e uğurlanacak.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ilk-yuzer-uretim-platformu-osman-gazi-gorev-yerine-ugurlaniyor/4089447",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-15T11:59+03:00",
-   "sektor": false
   }
  ],
  "kaynaklar": [
