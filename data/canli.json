@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-17T03:24+03:00",
+ "guncelleme": "2026-10-17T07:57+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -21,26 +21,26 @@
   },
   {
    "ad": "Gram altın",
-   "deger": "6.664 ₺",
-   "degisim": "−%0,09",
+   "deger": "6.655 ₺",
+   "degisim": "−%0,23",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "109,69 $",
-   "degisim": "+%2,85",
+   "deger": "109,86 $",
+   "degisim": "+%3,01",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "81.529 $",
-   "degisim": "−%0,81",
+   "deger": "81.436 $",
+   "degisim": "−%0,73",
    "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.419 $",
-   "degisim": "−%0,87",
+   "deger": "2.423 $",
+   "degisim": "−%0,74",
    "yon": "down"
   }
  ],
@@ -51,7 +51,25 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-17T03:00+03:00",
+   "zaman": "2026-10-17T07:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Hindistan'da \"Hamam Böceği Hareketi\" lideri tutuklandı",
+   "ozet": "Hindistan'da seçmenlerin kütüklerden silindiği iddialarıyla milyonları sokağa döken gençlik hareketi \"Hamam Böcekleri\"nin lideri Abhijeet Dipke tutuklandı.",
+   "url": "https://www.ntv.com.tr/dunya/hindistanda-hamam-bocegi-hareketi-lideri-tutuklandi-1746653",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-17T06:33+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Filistin Para Otoritesi: Yerel bankacılık sektörü Gazze'nin yeniden imarına liderlik etmeye hazır",
+   "ozet": "Filistin Para Otoritesi (Merkez Bankası) Başkanı Yahya Şennar, Gazze Şeridi'nin yeniden imarının, bankacılık ile özel sektörün toparlanma çabalarının ve imar projelerinin Filistin yönetiminin öncülüğünde gerçekleştirilmesi gerektiğini belir",
+   "url": "https://www.aa.com.tr/tr/dunya/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazzenin-yeniden-imarina-liderlik-etmeye-hazir/4091596",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-17T04:19+03:00",
    "sektor": false
   },
   {
@@ -500,7 +518,7 @@
    "ozet": "ABD Başkanı Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın hakkındaki tartışmaların yoğunlaşmasının ardından \"görevden ayrılabileceği\" sinyalini verdi.",
    "url": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saray-sozcusu-zacharianin-gorevden-ayrilabilecegini-acikladi/4091430",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-16T21:40+03:00",
    "sektor": false
   },
@@ -1027,15 +1045,6 @@
    "sektor": false
   },
   {
-   "baslik": "Çad'da dang humması salgınında 213 vaka doğrulandı, 7 kişi hayatını kaybetti",
-   "ozet": "Çad'da dang humması salgını nedeniyle 213 vakanın doğrulandığı, 7 kişinin yaşamını yitirdiği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/cadda-dang-hummasi-salgininda-213-vaka-dogrulandi-7-kisi-hayatini-kaybetti/4091018",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-16T15:32+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Cumhurbaşkanı Erdoğan: Fon meselesini kararlı adımlarla çözüyoruz",
    "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon meselesini kararlı adımlarla çözdüklerini ifade edip \"Sorunu kontrol altına aldık.\" dedi. Erdoğan, fon soruşturmaları üzerinden muhalefete tepki gösterdi.",
    "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-fon-meselesini-kararli-adimlarla-cozuyoruz-1746596",
@@ -1384,15 +1393,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-10-16T11:27+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye'nin BRICS ülkelerine ihracatı ocak-eylül döneminde 18,2 milyar doları aştı",
-   "ozet": "Türkiye'nin BRICS üyesi 10 ülkeye ihracatı, bu yılın ocak-eylül döneminde 18 milyar 232 milyon 391 bin dolara ulaşırken değer bazında en fazla dış satım 4 milyar 113 milyon 545 bin dolarla Rusya'ya gerçekleştirildi.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-brics-ulkelerine-ihracati-ocak-eylul-doneminde-18-2-milyar-dolari-asti/4090705",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-16T11:25+03:00",
    "sektor": false
   }
  ],
