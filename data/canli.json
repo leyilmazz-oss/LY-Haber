@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-19T00:50+03:00",
+ "guncelleme": "2026-10-19T03:10+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -15,33 +15,33 @@
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,46",
-   "degisim": "+%0,28",
+   "deger": "55,65",
+   "degisim": "+%1,07",
    "yon": "up"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.657 ₺",
-   "degisim": "+%0,09",
+   "deger": "6.699 ₺",
+   "degisim": "+%0,72",
    "yon": "up"
   },
   {
    "ad": "Brent",
-   "deger": "109,86 $",
-   "degisim": "+%3,95",
+   "deger": "107,94 $",
+   "degisim": "+%2,13",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "81.062 $",
-   "degisim": "−%0,02",
-   "yon": "down"
+   "deger": "82.114 $",
+   "degisim": "+%0,96",
+   "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.363 $",
-   "degisim": "−%0,62",
-   "yon": "down"
+   "deger": "2.412 $",
+   "degisim": "+%0,65",
+   "yon": "up"
   }
  ],
  "sonDakika": [
@@ -51,7 +51,79 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-19T00:30+03:00",
+   "zaman": "2026-10-19T03:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Gençler Ben-Gvir'i kürsüden indirdi",
+   "ozet": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı İtamar Ben-Gvir, Tel Aviv Üniversitesi'nde bir grup öğrenci tarafından protesto edildi. Ben-Gvir salonu terk etmek zorunda kaldı.",
+   "url": "https://www.ntv.com.tr/dunya/gencler-ben-gviri-kursuden-indirdi-1746928",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-19T02:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bir yardım kuruluşu, Suriye'de çocukların kaybolması konusunda neden hedefte?",
+   "ozet": "Uluslararası yardım kuruluşu SOS Çocuk Köyleri, 140'tan fazla çocuğun Suriye güvenlik güçleri tarafından yönetimlerindeki yetimhanelere götürüldüğünü kabul etti. Ancak kuruluş olaydaki rolüne dair raporu yayımlamama kararı aldı.",
+   "url": "https://www.bbc.com/turkce/articles/cq8ez6dlpx32o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-19T02:33+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
+   "ozet": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
+   "url": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-19T01:21+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilerin 120 zeytin ağacına daha zarar verdi",
+   "ozet": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'daki Beytüllahim kentinde Filistinlilerin temel geçim kaynaklarından olan 120 zeytin ağacını kesti.",
+   "url": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-120-zeytin-agacina-daha-zarar-verdi/4092937",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-19T00:51+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
+   "url": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor/4092933",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-19T00:40+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Belçika'daki protestolarda gözaltı sayısı 195'e çıktı",
+   "ozet": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda 195 kişinin gözaltına alındığı bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/belcikadaki-protestolarda-gozalti-sayisi-195e-cikti/4092932",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-19T00:40+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Karşıyaka Basketbol'da öncelik güvenli bölge, sonraki hedef play-off",
+   "ozet": "Mali sıkıntılar ve borç yüküne rağmen Türkiye Sigorta Basketbol Süper Ligi'nde sezona 2 galibiyetle başlayan Karşıyaka Basketbol, öncelikle ligde kalma endişesi yaşamadan sezonu tamamlamayı, ardından play-off yarışında yer almayı hedefliyor",
+   "url": "https://www.aa.com.tr/tr/spor/karsiyaka-basketbolda-oncelik-guvenli-bolge-sonraki-hedef-play-off/4092931",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-19T00:36+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
+   "ozet": "ABD Başkanı Trump, barış görüşmelerinde \"büyük ilerleme\" iddia ederken Ukrayna Devlet Başkanı Vladimir Zelenskiy'i küresel dizel pazarına ciddi zarar veren Rusya'daki dizel rafinerilerine saldırıları ve savaşı bitirmek istememesi nedeniyle ",
+   "url": "https://www.aa.com.tr/tr/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi/4092930",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-19T00:34+03:00",
    "sektor": false
   },
   {
@@ -124,15 +196,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-18T23:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Eğitim için Isparta’ya ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
-   "ozet": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
-   "url": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-18T23:03+03:00",
    "sektor": false
   },
   {
@@ -235,9 +298,9 @@
    "sektor": false
   },
   {
-   "baslik": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden biri hayatını kaybetti",
+   "baslik": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden 3'ü kurtarıldı, biri hayatını kaybetti",
    "ozet": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışmaları sürüyor.",
-   "url": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti/4092865",
+   "url": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-3u-kurtarildi-biri-hayatini-kaybetti/4092865",
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-18T20:55+03:00",
@@ -415,15 +478,6 @@
    "sektor": false
   },
   {
-   "baslik": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu",
-   "ozet": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu.",
-   "url": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-18T17:59+03:00",
-   "sektor": true
-  },
-  {
    "baslik": "Ayazağa'da son durum. Binalar yıkıldı, enkaz kaldırılıyor",
    "ozet": "İstanbul'da selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkıldı, enkaz kaldırma çalışmaları sürüyor.",
    "url": "https://www.ntv.com.tr/turkiye/galeri-ayazagada-son-durum-binalar-yikildi-enkaz-kaldiriliyor-1746894",
@@ -446,7 +500,7 @@
    "ozet": "Trendyol Süper Lig'in 8. haftasında Göztepe, deplasmanda Kocaelispor'u 2-1 mağlup etti.",
    "url": "https://www.aa.com.tr/tr/spor/goztepe-kocaelisporu-deplasmanda-maglup-etti/4092729",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-10-18T17:14+03:00",
    "sektor": false
   },
@@ -496,15 +550,6 @@
    "sektor": false
   },
   {
-   "baslik": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
-   "ozet": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi.",
-   "url": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-18T16:46+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "2026 Orionid meteor yağmuru için geri sayım. Görsel şölen geliyor",
    "ozet": "Her yıl ekim ortasında zirve yapan Orionid meteor yağmuru, 21 Ekim Çarşamba'yı 22 Ekim Perşembe'ye bağlayan gece yine görsel şölen yaşatacak.",
    "url": "https://www.ntv.com.tr/dunya/galeri-2026-orionid-meteor-yagmuru-icin-geri-sayim-gorsel-solen-geliyor-1746883",
@@ -527,7 +572,7 @@
    "ozet": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları yaşanmasının ardından Brüksel polisi, 150 kişinin gözaltına alındığını bildirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/belcikanin-baskenti-brukseldeki-protestolarda-150-kisi-gozaltina-alindi/4092698",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-18T16:16+03:00",
    "sektor": false
   },
@@ -829,15 +874,6 @@
    "sektor": false
   },
   {
-   "baslik": "Etiyopya ordusu Tigray'da kontrol alanını Eritre sınırına doğru genişletiyor",
-   "ozet": "Etiyopya'da ordu ve devlet destekçisi Tigray Barış Gücü, ülkenin kuzeyindeki Tigray bölgesinde kontrol alanını Eritre sınırına doğru genişletirken, hükümet karşıtı güçler ise bazı bölgelerde karşı saldırı düzenliyor.",
-   "url": "https://www.aa.com.tr/tr/dunya/etiyopya-ordusu-tigrayda-kontrol-alanini-eritre-sinirina-dogru-genisletiyor/4092565",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-18T13:24+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "ABD Dışişleri Bakanı Rubio’dan Rusya yaptırımları için \"60 gün\" vurgusu",
    "ozet": "ABD Dışişleri Bakanı Marco Rubio, Başkan Donald Trump'ın Rusya'ya yönelik yaptırım ve gümrük tarifelerinin etkilerini değerlendirmek için 60 günlük süreyi kullanmak istediğini söyledi.",
    "url": "https://www.ntv.com.tr/dunya/abd-disisleri-bakani-rubiodan-rusya-yaptirimlari-icin-60-gun-vurgusu-1746841",
@@ -853,15 +889,6 @@
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
    "zaman": "2026-10-18T13:19+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Suudi Arabistan'ın başkenti Riyad'da yapılması planlanan AB-Körfez İşbirliği Konseyi Zirvesi ertelendi",
-   "ozet": "Suudi Arabistan'ın başkenti Riyad'da 24 Ekim'de düzenlenmesi planlanan ikinci Avrupa Birliği (AB)-Körfez İşbirliği Konseyi (KİK) Zirvesi'nin ertelendiği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyadda-yapilmasi-planlanan-ab-korfez-isbirligi-konseyi-zirvesi-ertelendi/4092531",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-18T12:45+03:00",
    "sektor": false
   },
   {
@@ -928,30 +955,12 @@
    "sektor": true
   },
   {
-   "baslik": "Belçika'nın Liege kentindeki protestolarda 45 kişi gözaltına alındı",
-   "ozet": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları yaşanmasının ardından Liege polisi, 45 kişinin gözaltına alındığını bildirdi.",
-   "url": "https://www.aa.com.tr/tr/dunya/belcikanin-liege-kentindeki-protestolarda-45-kisi-gozaltina-alindi/4092470",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-18T11:48+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Fenerbahçe-Slavia Prag maçında İspanyol hakem Ricardo de Burgos düdük çalacak",
    "ozet": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nin 3. haftasında 20 Ekim Salı günü sahasında Çekya temsilcisi Slavia Prag ile karşılaşacağı mücadeleyi İspanyol hakem Ricardo de Burgos yönetecek.",
    "url": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460",
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-10-18T11:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fransa'da sarı yeleklilerin gösterilerinde 2 binden fazla kişi gözaltına alındı",
-   "ozet": "Fransa'da dün sokaklara inen sarı yeleklilerin gösterilerinde 2 binden fazla kişinin gözaltına alındığı bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-gosterilerinde-2-binden-fazla-kisi-gozaltina-alindi/4092458",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-18T11:29+03:00",
    "sektor": false
   },
   {
@@ -1099,9 +1108,9 @@
    "sektor": false
   },
   {
-   "baslik": "Beşiktaş, Süper Lig'de yarın Trabzonspor'a konuk olacak",
-   "ozet": "Beşiktaş, Trendyol Süper Lig'de 8. haftanın kapanış maçında yarın deplasmanda Trabzonspor ile karşılaşacak.",
-   "url": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-trabzonspora-konuk-olacak/4092359",
+   "baslik": "Beşiktaş, Süper Lig'de Trabzonspor'a konuk olacak",
+   "ozet": "Beşiktaş, Trendyol Süper Lig'de 8. haftanın kapanış maçında deplasmanda Trabzonspor ile karşılaşacak.",
+   "url": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-trabzonspora-konuk-olacak/4092359",
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-10-18T09:07+03:00",
@@ -1348,51 +1357,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-17T15:37+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Papa 14. Leo taburcu edildi",
-   "ozet": "Akciğerinden kanserli tümör alınan Papa 14. Leo, operasyondan dört gün sonra doktorlarından onay alarak taburcu edildi.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-papa-14-leo-taburcu-edildi-1746724",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-17T14:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "El Niño sıcak suları getirdi. Kaliforniya suları tropik türlerle doldu",
-   "ozet": "Güçlü El Niño hava olayı nedeniyle sıcak suların kuzeye taşınması, ABD'nin Kaliforniya eyaleti kıyılarını tropikal deniz canlılarının akınına uğrattı.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-el-nino-sicak-sulari-getirdi-kaliforniya-sulari-tropik-turlerle-doldu-1746722",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-17T14:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "TESK Genel Başkanı Yiğiner'den esnafın prim gün sayısının 7 bin 200'e düşürülmesi talebi",
-   "ozet": "Türkiye Esnaf ve Sanatkarları Konfederasyonu Genel Başkanı Mehmet Yiğiner, esnafın prim gün sayısının 7 bin 200'e düşürülmesi talebinde bulunarak, bu konuda bütçe dengelerini sarsmayacak bir formülle meselenin çözüleceğine inandıklarını bel",
-   "url": "https://www.aa.com.tr/tr/ekonomi/tesk-genel-baskani-yiginerden-esnafin-prim-gun-sayisinin-7-bin-200e-dusurulmesi-talebi/4091909",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-17T13:58+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye'nin jeotermal deneyimi COP31'de uluslararası gündeme taşınacak",
-   "ozet": "Uluslararası Jeotermal Birliği Üst Yöneticisi Marit Brommer, BM İklim Değişikliği Konferansı'nın 31'incisi (COP31) kapsamında Türkiye'nin jeotermal alanındaki uzmanlığını uluslararası politika ve yatırım çevreleriyle buluşturabileceğini söy",
-   "url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-jeotermal-deneyimi-cop31de-uluslararasi-gundeme-tasinacak/4091904",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-17T13:51+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Gençlerin ilgisiyle İstanbul'da berber ve kuaför işletmelerinin sayısı 17 bini aştı",
-   "ozet": "İstanbul'da berber ve kuaför işletmelerinin sayısı, gençlerin kendi işini kurma isteği ve mesleğe olan ilgisiyle yıl başından bu yana 886 artarak 17 bin 198'e ulaştı.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/genclerin-ilgisiyle-istanbulda-berber-ve-kuafor-isletmelerinin-sayisi-17-bini-asti/4091902",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-17T13:49+03:00",
    "sektor": false
   }
  ],
