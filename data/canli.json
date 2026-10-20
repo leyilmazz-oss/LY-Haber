@@ -1,75 +1,786 @@
 {
- "guncelleme": "2026-10-20T15:09+03:00",
+ "guncelleme": "2026-10-20T20:30+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
-   "deger": "11.612,33",
-   "degisim": "−%4,18",
+   "deger": "11.797,70",
+   "degisim": "−%2,65",
    "yon": "down"
   },
   {
    "ad": "Dolar/TL",
    "deger": "49,57",
-   "degisim": "+%0,47",
+   "degisim": "+%0,46",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,63",
-   "degisim": "+%0,59",
+   "deger": "55,72",
+   "degisim": "+%0,74",
    "yon": "up"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.604 ₺",
-   "degisim": "−%0,64",
+   "deger": "6.598 ₺",
+   "degisim": "−%0,71",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "111,16 $",
-   "degisim": "+%4,95",
+   "deger": "109,00 $",
+   "degisim": "+%2,91",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "81.455 $",
-   "degisim": "−%1,06",
-   "yon": "down"
+   "deger": "82.707 $",
+   "degisim": "+%0,90",
+   "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.385 $",
-   "degisim": "−%1,50",
-   "yon": "down"
+   "deger": "2.448 $",
+   "degisim": "+%1,93",
+   "yon": "up"
   }
  ],
  "sonDakika": [
+  {
+   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-ekim-2026-1747069",
+   "kaynak": "NTV",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T20:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bolu Belediyesine yönelik \"irtikap\" davasında karar açıklandı",
+   "ozet": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında belediye başkanlığı görevinden uzaklaştırılan Tanju Özcan'ın da aralarında bulunduğu 19 sanığın yargılandığı davada karar açıklandı.",
+   "url": "https://www.aa.com.tr/tr/gundem/bolu-belediyesine-yonelik-irtikap-davasinda-karar-aciklandi/4094975",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T20:26+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay",
+   "ozet": "Libya Temsilciler Meclisi, 2019'da Türkiye ile imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı. Dışişleri, ''Memnuniyet verici.'' açıklamasını yaptı.",
+   "url": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T20:24+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Türkiye, Libya Temsilciler Meclisinin deniz yetki muhtırasını onaylamasını memnuniyetle karşıladı",
+   "ozet": "Dışişleri Bakanlığı, Libya Temsilciler Meclisi tarafından Türkiye ile Libya arasındaki Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası'nın kabul edilmesini memnuniyetle karşıladıklarını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/turkiye-libya-temsilciler-meclisinin-deniz-yetki-muhtirasini-onaylamasini-memnuniyetle-karsiladi/4094973",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T20:21+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail ordusu, \"Uzay Tugayı\" kurarak gözetleme ve saldırı kapasitesini genişleteceğini açıkladı",
+   "ozet": "İsrail ordusunun, \"Uzay Tugayı\" adıyla yeni bir birlik kurarak, gözetleme ve saldırı kapasitesini atmosferin ötesine genişletmeye hazırlandığı duyuruldu.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-uzay-tugayi-kurarak-gozetleme-ve-saldiri-kapasitesini-genisletecegini-acikladi/4094971",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T20:14+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İran Meclis Başkanı Kalibaf: ABD 7 şartı uygulamadıkça İran'ın güvenini kazanamaz",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin Hürmüz Boğazı’nın açılmasına ilişkin ABD tarafına sunduğu şartlar hakkında, “ABD 7 şartı uygulamadıkça İran'ın güvenini kazanamaz.” dedi.",
+   "url": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-abd-7-sarti-uygulamadikca-iranin-guvenini-kazanamaz/4094964",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T20:03+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Merz'den Türk göçmenlerin Almanya'ya katkılarına övgü",
+   "ozet": "Almanya Başbakanı Friedrich Merz, Türkiye'den gelen göçmenlerin Almanya'nın ekonomik, kültürel ve bilimsel gelişimine önemli katkılar sağladığını belirterek, Türk işçilerin ülkenin bugünkü refahının temellerini attığını söyledi.",
+   "url": "https://www.bloomberght.com/merzden-turk-iscilere-ovgu-bugunku-refahin-altyapisini-onlar-olusturdu-3792009",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T19:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Hind Rajab’ın öldürülmesiyle bağlantılı İsrailli komutanın ABD'de tutuklanması çağrısı",
+   "ozet": "Hind Rajab Vakfı (HRF), 2024 yılında Gazze'de 5 yaşındaki Hind Rajab’ın öldürülmesiyle bağlantılı olduğunu iddia ettiği İsrailli bir komutanın tutuklanıp yargılanması için ABD Adalet Bakanlığına başvurdu.",
+   "url": "https://www.aa.com.tr/tr/dunya/hind-rajab-in-oldurulmesiyle-baglantili-israilli-komutanin-abdde-tutuklanmasi-cagrisi/4094954",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:55+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Libya'nın deniz yetki mutabakatını onaylaması, Türkiye'nin argümanlarını güçlendiriyor",
+   "ozet": "Uzmanlar, Libya Meclisinin Türkiye ile 2019'da imzalanan deniz yetki alanları mutabakatını onaylamasının, anlaşmaya itiraz eden ülkelerin gerekçelerini zayıflatıp Türkiye'nin Ege ve Doğu Akdeniz'deki hukuki tezlerini güçlendirdiğini belirtt",
+   "url": "https://www.aa.com.tr/tr/gundem/libyanin-deniz-yetki-mutabakatini-onaylamasi-turkiyenin-argumanlarini-guclendiriyor/4094947",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "DMM, \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" iddiasının dezenformasyon içerdiğini bildirdi",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı\" yönündeki iddiaların dezenformasyon içerdiğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/dmm-azerbaycanda-turk-bayraginin-indirilmeye-calisildigi-iddiasinin-dezenformasyon-icerdigini-bildirdi/4094941",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sanayi üretici fiyatları Eylül'de yüzde 2,31 arttı",
+   "ozet": "Türkiye İstatistik Kurumu (TÜİK) verilerine göre, toplam sanayi üretici fiyat endeksi Eylül'de aylık bazda yüzde 2,31, yıllık bazda ise yüzde 29,32 arttı. Ana sanayi grupları arasında en yüksek aylık artış yüzde 5,97 ile enerjide gerçekleşt",
+   "url": "https://www.bloomberght.com/sanayi-uretici-fiyatlari-eylul-de-yuzde-2-31-artti-3792008",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T19:25+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İletişim Başkanı Duran'dan Türkiye-Libya deniz yetki alanları mutabakatının onaylanmasına ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Duran, Libya Temsilciler Meclisinin, Türkiye ile imzalanan deniz yetki alanları mutabakat muhtırasını oy birliğiyle onaylamasının, önemli ve memnuniyet verici bir adım olduğunu kaydetti.",
+   "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasina-iliskin-paylasim/4094919",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:18+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Brezilya'da Bolsonaro'dan seçim öncesi vergi indirimi vaadi",
+   "ozet": "Brezilya'da cumhurbaşkanlığı seçimlerinin ikinci turuna hazırlanan Senatör Flavio Bolsonaro, seçimi kazanması halinde COVID-19 salgını döneminde etkinlik ve turizm sektörlerini desteklemek amacıyla uygulanan Perse vergi indirimi programını ",
+   "url": "https://www.bloomberght.com/brezilya-da-bolsonaro-dan-secim-oncesi-vergi-indirimi-vaadi-3792007",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T19:15+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "NATO, Karadeniz'de gemilerin korunması için bölgeye ek unsurlar sevk edecek",
+   "ozet": "NATO, Karadeniz'de gemilere yönelik saldırıların ardından bölgeye gözetleme, keşif ve adli inceleme destekleri dahil ek unsurlar gönderileceğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/nato-karadenizde-gemilerin-korunmasi-icin-bolgeye-ek-unsurlar-sevk-edecek/4094916",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "12 Dev Adam Basketbol Okulları 1. etap basketbolcu taramaları başlıyor",
+   "ozet": "12 Dev Adam Basketbol Okulları (12 DABO), 2026-2027 dönemi basketbolcu taramalarına Bitlis, Muş, Siirt, Van, Hakkari ve Şırnak illerinde 1. etapla başlayacak.",
+   "url": "https://www.aa.com.tr/tr/spor/12-dev-adam-basketbol-okullari-1-etap-basketbolcu-taramalari-basliyor/4094914",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:11+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Tanju Özcan hakkında 7 yıl hapis cezası",
+   "ozet": "Bolu Belediye Başkanı görevinden uzaklaştırılan Tanju Özcan'ın 7 yıl hapis cezasına çarptırıldığı belirtildi.",
+   "url": "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T19:10+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Fransa'da protestolara karşı ordu devreye giriyor",
+   "ozet": "Fransa'da yaşanan şiddetli protestoların ardından hükümet, cumartesi günü düzenlenecek yeni gösteriler öncesinde geniş çaplı güvenlik operasyonu başlatma kararı aldı. Polise, asker de destek verecek.",
+   "url": "https://www.ntv.com.tr/dunya/fransada-protestolara-karsi-ordu-devreye-giriyor-1747208",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T19:10+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "MİT Başkanı Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Dibeybe ile görüştü",
+   "ozet": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ile bir araya geldi.",
+   "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-libya-ulusal-birlik-hukumeti-basbakani-dibeybe-ile-gorustu/4094909",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:08+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çin, ABD'nin \"ticari sırları çalma\" iddiasıyla Çinli şirketlere yaptırım getirmesine tepki gösterdi",
+   "ozet": "Çin, ABD'de ticari sırları çalmaktan hüküm giyen bir Çin vatandaşıyla bağlantılı Çinli şirketlere yaptırım uygulanmasına tepki gösterdi.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/cin-abdnin-ticari-sirlari-calma-iddiasiyla-cinli-sirketlere-yaptirim-getirmesine-tepki-gosterdi-/4094906",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T19:04+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Toplam sanayi üretici fiyat endeksi eylülde aylık yüzde 2,31, yıllık yüzde 29,32 arttı",
+   "ozet": "Toplam sanayi üretici fiyat endeksi, eylülde aylık bazda yüzde 2,31, yıllık bazda yüzde 29,32 artış kaydetti.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-eylulde-aylik-yuzde-2-31-yillik-yuzde-29-32-artti/4094904",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:59+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Merz: Türkiye'den gelen göç Almanya'yı kültürel, ekonomik ve bilimsel açıdan zenginleştirdi",
+   "ozet": "Almanya Başbakanı Friedrich Merz, Türkiye'den gelen göç sayesinde Almanya'nın kültürel, ekonomik ve bilimsel açıdan daha zengin hale geldiğini söyledi.",
+   "url": "https://www.aa.com.tr/tr/dunya/merz-turkiyeden-gelen-goc-almanyayi-kulturel-ekonomik-ve-bilimsel-acidan-zenginlestirdi/4094899",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:56+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Türkiye'nin dahil olmak istediği 'Made in Europe' planı nedir?",
+   "ozet": "Fransa ve Almanya'nın, Avrupa'nın zorlanan otomotiv sektörünü korumayı amaçlayan \"Made in Europe\" planı üzerinde anlaşmaya varmasının ardından, Türkiye plana dahil olma çabalarını sürdürme kararı aldı.",
+   "url": "https://www.bbc.com/turkce/articles/c9p8gj40xz1lo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T18:53+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Salesforce, pazarlama şirketi Braze'i 5,7 milyar dolara satın alıyor",
+   "ozet": "ABD merkezli bulut yazılım şirketi Salesforce, müşteri etkileşimi platformu Braze'i 5,66 milyar dolara satın almak üzere kesin anlaşmaya vardığını duyurdu. Braze hissedarlarına hisse başına 47,50 dolar nakit ödeme yapılmasını öngören işlemi",
+   "url": "https://www.bloomberght.com/salesforce-pazarlama-sirketi-braze-i-5-7-milyar-dolara-satin-aliyor-3792006",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T18:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Yazılım şirketi Salesforce, pazarlama şirketi Braze'i 5,66 milyar dolara satın alıyor",
+   "ozet": "ABD merkezli bulut tabanlı yazılım şirketi Salesforce, pazarlama şirketi Braze'i 5,66 milyar dolara almak üzere anlaşmaya vardığını duyurdu.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/yazilim-sirketi-salesforce-pazarlama-sirketi-brazei-5-66-milyar-dolara-satin-aliyor/4094891",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:46+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çin'den ABD'nin DeepSeek yasağına tepki",
+   "ozet": "Çin Ticaret Bakanlığı, ABD'nin DeepSeek yapay zeka modelinin federal kurumlarda kullanımını yasaklamasına tepki göstererek, kararın Çinli şirketlerin çıkarlarına zarar verdiğini belirtti.",
+   "url": "https://www.bloomberght.com/cin-den-abd-nin-deepseek-yasagina-tepki-3792005",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T18:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Büyükelçi Kazakbaev, Türkiye'nin Kırgızistan'a yapılan yatırımlarda üçüncü sırada olduğunu söyledi",
+   "ozet": "Kırgızistan'ın Ankara Büyükelçisi Ruslan Kazakbaev, Türkiye’nin Kırgızistan’a yapılan yatırımların büyüme hızı bakımından ülkeler arasında üçüncü sıraya yükseldiğini söyledi.",
+   "url": "https://www.aa.com.tr/tr/dunya/buyukelci-kazakbaev-turkiyenin-kirgizistana-yapilan-yatirimlarda-ucuncu-sirada-oldugunu-soyledi/4094890",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:40+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail Savunma Bakanı, Lübnan'ın işgal altındaki güneyinden 200 bin sivili sürgün ettiklerini açıkladı",
+   "ozet": "İsrail Savunma Bakanı Yisrael Katz, Lübnan'ın güneyinde işgal altında tuttukları 700 kilometrekarelik bir alanda 60'ın üzerinde köyü yerle bir ettiklerini ve 200 bin sivili sürgün ettiklerini söyledi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-lubnanin-isgal-altindaki-guneyinden-200-bin-sivili-surgun-ettiklerini-acikladi/4094889",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:39+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kanada'da tarihi referandum: Yüzde 76'sı ayrılığa karşı çıktı",
+   "ozet": "Kanada'nın petrol zengini Alberta eyaletinde düzenlenen referandumda seçmenlerin yüzde 76'sı ülkeden ayrılmaya yönelik sürece karşı çıktı.",
+   "url": "https://www.ntv.com.tr/dunya/kanadada-tarihi-referandum-yuzde-76si-ayriliga-karsi-cikti-1747206",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T18:37+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 83'e çıktı",
+   "ozet": "İstanbul'da haftanın ikinci iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu.",
+   "url": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-83e-cikti/4094880",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:34+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Romanya'da beş aylık siyasi belirsizlik sona erdi: Yeni hükümet güvenoyu aldı",
+   "ozet": "Romanya'da Luca Niculescu liderliğindeki yeni hükümet, parlamentoda 280 milletvekilinin desteğiyle güvenoyu alarak göreve başladı. Niculescu ve 18 bakandan oluşan kabinenin yemin etmesiyle ülkede yaklaşık beş aydır süren siyasi belirsizlik ",
+   "url": "https://www.bloomberght.com/romanya-da-bes-aylik-siyasi-cikmaz-sona-erdi-yeni-hukumet-guvenoyu-aldi-3792004",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T18:32+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kara Kuvvetleri Komutanlığının \"Uluslararası En İyi Askeri Uçangöz Takımı Yarışması\" başladı",
+   "ozet": "Kara Kuvvetleri Komutanlığının ilk kez düzenlediği \"Uluslararası En İyi Askeri Uçangöz Takımı Yarışması\" (BIMDTC-2026) başladı.",
+   "url": "https://www.aa.com.tr/tr/gundem/kara-kuvvetleri-komutanliginin-uluslararasi-en-iyi-askeri-ucangoz-takimi-yarismasi-basladi/4094879",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4094876",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:27+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İran ordusu: Hürmüz Boğazı'nın güneyinde yanan bir petrol tankeri tespit edildi",
+   "ozet": "İran ordusu, Hürmüz Boğazı'nın güney koridorunda yanan bir petrol tankerinin tespit edildiğini, söz konusu geminin İran'ın belirlediği güzergah ve kuralları ihlal ettiğini öne sürdü.",
+   "url": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-guneyinde-yanan-bir-petrol-tankeri-tespit-edildi/4094867",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:16+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Hazine alacakları 255,6 milyar lira oldu",
+   "ozet": "Hazine alacakları, Eylül sonu itibarıyla 255,6 milyar lira olarak gerçekleşti.",
+   "url": "https://www.bloomberght.com/hazine-alacaklari-255-6-milyar-lira-oldu-3792002",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T18:11+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi",
+   "ozet": "Gaziosmanpaşa Belediyesi davasında savcı mütaalasını açıkladı. Yaklaşık 16 aydır tutuklu olan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin tahliyesi istendi.",
+   "url": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepenin-tahliyesi-istendi-1747199",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T18:06+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Romanya'da 5 aylık belirsizliğin ardından Niculescu başbakanlığındaki yeni hükümet güvenoyu aldı",
+   "ozet": "Romanya'da Luca Niculescu başbakanlığındaki yeni hükümet, 5 aydır devam eden belirsizlik sürecinin ardından parlamentodan güvenoyu alarak göreve başladı.",
+   "url": "https://www.aa.com.tr/tr/dunya/romanyada-5-aylik-belirsizligin-ardindan-niculescu-basbakanligindaki-yeni-hukumet-guvenoyu-aldi/4094852",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T18:06+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kemer Belediye Başkanı Topaloğlu ve 8 meclis üyesi CHP'den istifa etti",
+   "ozet": "Antalya'da, Kemer Belediye Başkanı Necati Topaloğlu, 8 belediye meclis üyesiyle CHP'den istifa ettiklerini ve görevlerine bağımsız devam edeceklerini bildirdi.",
+   "url": "https://www.ntv.com.tr/turkiye/kemer-belediye-baskani-topaloglu-ve-8-meclis-uyesi-chpden-istifa-etti-1747202",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T17:57+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Mekke Anlaşması Meclis'e sunuldu",
+   "ozet": "Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması Meclis'e ulaştı.",
+   "url": "https://www.bloomberght.com/mekke-anlasmasi-meclis-e-sunuldu-3792000",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T17:51+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "AK Parti Sözcüsü Çelik: Fon şeytanlarının üzerine sonuna kadar gidilmesi konusunda tavizsiz bir şekilde hareket ediliyor",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"Fon dolandırıcıları, fon şeytanları dediğimiz bu yolsuzlukları yapanların üzerine gidilmesi konusunda yüksek bir iradeyle, kararlı ve tavizsiz bir şekilde hareket ediliyor.\" dedi.",
+   "url": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-seytanlarinin-uzerine-sonuna-kadar-gidilmesi-konusunda-tavizsiz-bir-sekilde-hareket-ediliyor/4094837",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:50+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Topkapı Sarayı'nın Darphane-i Amire yerleşkesi 5 müzeyle ziyarete açılacak",
+   "ozet": "Topkapı Sarayı'nın birinci avlusunda bulunan tarihi Darphane-i Amire yapı topluluğu, restorasyon ve yeniden işlevlendirme çalışmalarının ardından 5 ihtisas müzesiyle ziyarete açılacak.",
+   "url": "https://www.aa.com.tr/tr/kultur/topkapi-sarayinin-darphane-i-amire-yerleskesi-5-muzeyle-ziyarete-acilacak/4094833",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:47+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "13. Necip Fazıl Ödülleri 2026 yılı kazananları açıklandı",
+   "ozet": "Cumhuriyet tarihinin önemli edebiyatçı ve fikir adamlarından Necip Fazıl Kısakürek'in manevi ve kültürel mirasını yaşatmak amacıyla Star Gazetesi tarafından düzenlenen Necip Fazıl Ödülleri’nin 2026 yılı kazananları açıklandı.",
+   "url": "https://www.aa.com.tr/tr/kultur/13-necip-fazil-odulleri-2026-yili-kazananlari-aciklandi/4094830",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Brüt borç stoku 16 trilyon 202,2 milyar lira oldu",
+   "ozet": "Merkezi yönetim brüt borç stoku, eylül sonu itibarıyla 16 trilyon 202,2 milyar lira olarak belirlendi.",
+   "url": "https://www.bloomberght.com/brut-borc-stoku-16-trilyon-202-2-milyar-lira-oldu-3791999",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T17:40+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Husilerin Yemen'in Taiz kentine düzenlediği saldırılarda 1 kişi öldü",
+   "ozet": "Yemen'de İran destekli Husilerin, Taiz'e düzenlediği saldırılarda ilk belirlemelere göre 1 kişi öldü, 7 kişi yaralandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/husilerin-yemenin-taiz-kentine-duzenledigi-saldirilarda-1-kisi-oldu/4094821",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:37+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "PFDK, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'a 45 gün ceza verdi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Trabzonspor Kulübü Başkanı Ertuğrul Doğan'a \"bahis eylemi nedeniyle\" 45 gün hak mahrumiyeti cezası verildiğini duyurdu.",
+   "url": "https://www.aa.com.tr/tr/spor/pfdk-trabzonspor-kulubu-baskani-ertugrul-dogana-45-gun-ceza-verdi/4094810",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:31+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "TBMM'de sandalye dağılımı değişti",
+   "ozet": "Bağımsız Bursa Milletvekili Cemalettin Kani Torun'un AK Parti'ye katılmasıyla TBMM'deki sandalye dağılımı değişirken, AK Parti'nin sandalye sayısı 281'e yükseldi.",
+   "url": "https://www.ntv.com.tr/turkiye/tbmmde-sandalye-dagilimi-degisti-1747201",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T17:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Tarım İşletmeleri Genel Müdürlüğü bu yıl tay satışlarından 336 milyon 770 bin lira gelir elde etti",
+   "ozet": "Tarım İşletmeleri Genel Müdürü Gezginç, \"Yıl içinde 5 koşu tayı 3 elit tay satışı yapıldı. Bu yılın tamamında toplam 41'i elit tay olmak üzere 323 baş tay satışı yaptık. Bu satışlardan toplamda 336 milyon 770 bin liralık hasılat elde ettik.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/tarim-isletmeleri-genel-mudurlugu-bu-yil-tay-satislarindan-336-milyon-770-bin-lira-gelir-elde-etti/4094803",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T17:26+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Galatasaray'ın Lille maçı kamp kadrosu belli oldu",
+   "ozet": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransız ekibi Lille ile karşılaşacak Galatasaray'ın kamp kadrosu belli oldu.",
+   "url": "https://www.aa.com.tr/tr/spor/galatasarayin-lille-maci-kamp-kadrosu-belli-oldu-/4094790",
+   "kaynak": "AA",
+   "kategori": "spor",
+   "zaman": "2026-10-20T17:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kanada'da, sahnede Filistin bayrağı açan opera sanatçısının işine son verildi",
+   "ozet": "Kanada'nın Alberta eyaletinin Calgary kentindeki bir operada Filistin bayrağı açan sanatçının yapımdan çıkarıldığı bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/kanadada-sahnede-filistin-bayragi-acan-opera-sanatcisinin-isine-son-verildi/4094786",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T17:08+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "AB, Arktik bölgesi için yeni stratejisini açıkladı",
+   "ozet": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Arktik bölgesinde yeni deniz taşımacılığı rotaları ve doğal kaynakların stratejik rekabeti artırdığına dikkati çekerek, bölgede güvenlik, dayanıklı altyapı ve ekonomik fırsatların ",
+   "url": "https://www.bloomberght.com/ab-arktik-bolgesi-icin-yeni-stratejisini-acikladi-3791993",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:59+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Apple yeni iPhone serisi için ABD'li üreticilerle işbirliğini genişletiyor",
+   "ozet": "ABD'li teknoloji şirketi Apple, iPhone Duo ve iPhone 18 Pro'nun kritik bileşenlerinin ABD'de üretilmesi için Amerikan şirketleriyle yeni işbirliklerini duyurdu.",
+   "url": "https://www.bloomberght.com/apple-yeni-iphone-serisi-icin-abd-li-ureticilerle-isbirligini-genisletiyor-3791992",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:55+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "S&P Global Türkiye direktöründen TCMB beklentisi",
+   "ozet": "S&P Global Ratings CEE ve Türkiye Direktörü Kareen Vartapetov Bloomberg HT'ye Türkiye ekonomisindeki görünüme ilişkin değerlendirmelerde bulundu.",
+   "url": "https://www.bloomberght.com/s-p-global-turkiye-direktorunden-tcmb-beklentisi-3791991",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:54+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Suudi Arabistan: Enerji güvenliği ve tedarik zincirleri, uluslararası işbirliği gerektiren ortak bir sorumluluk",
+   "ozet": "Suudi Arabistan Bakanlar Kurulu, küresel enerji güvenliği, uluslararası ticaret, tedarik zincirlerinin sürdürülebilirliği ve deniz ulaşımının uluslararası işbirliği gerektiren ortak bir sorumluluk olduğunu belirtti.",
+   "url": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-enerji-guvenligi-ve-tedarik-zincirleri-uluslararasi-isbirligi-gerektiren-ortak-bir-sorumluluk/4094761",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:53+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "A Milli Takım'da dört yıl Sergen Yalçın dönemi",
+   "ozet": "Türkiye'de Vincenzo Montella'dan boşalan A Milli Takım teknik direktörlüğüne Sergen Yalçın getiriliyor. Elli üç yaşındaki çalıştırıcı, Kafa Spor'un YouTube kanalına yaptığı açıklamada gelişmeyi doğruladı.",
+   "url": "https://www.bbc.com/turkce/articles/c8wy9py4z5y4o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "TFF Merkez Hakem Kurulu başkanlığına Anthony Taylor getirildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF), Merkez Hakem Kurulu (MHK) başkanlığına Anthony Taylor'ın getirildiğini duyurdu.",
+   "url": "https://www.aa.com.tr/tr/spor/tff-merkez-hakem-kurulu-baskanligina-anthony-taylor-getirildi/4094747",
+   "kaynak": "AA",
+   "kategori": "spor",
+   "zaman": "2026-10-20T16:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail, Mescid-i Aksa İmam Hatibi İkrime Sabri'nin Aksa'ya giriş yasağını uzattı",
+   "ozet": "İsrail, Mescid-i Aksa İmam Hatibi ve Kudüs Yüksek İslami Heyeti Başkanı Şeyh İkrime Sabri'nin Mescid-i Aksa'ya giriş yasağını 6 ay daha uzattı.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-mescid-i-aksa-imam-hatibi-ikrime-sabrinin-aksaya-giris-yasagini-uzatti/4094745",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:43+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "AK Parti Sözcüsü Çelik: Fon şeytanlarının üzerine sonuna kadar gideceğiz",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon konusunda devletin tüm kurumlarının görevinin başında olduğunu söyledi. Çelik, \"Fon şeytanlarının üzerine sonuna kadar gideceğiz.\" dedi.",
+   "url": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celikten-fon-aciklamasi-calismalar-hizla-suruyor-1747193",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T16:42+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Google Cloud'daki sorun Avrupa'da bankaları da vurdu",
+   "ozet": "Google Cloud'un Batı Avrupa'daki tesislerinde, bankalar ve birçok başka sektörü etkileyen hatalar ve ağ kesintileri yaşandı. Şirket, sorunun elektrik kesintisinden kaynaklandığını açıkladı.",
+   "url": "https://www.ntv.com.tr/dunya/google-clouddaki-sorun-avrupada-bankalari-da-vurdu-1747177",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:42+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın oldu",
+   "ozet": "A Milli Futbol Takımı'nın teknik direktörlüğüne Sergen Yalçın getirildi. Sergen Yalçın, ay-yıldızlıların tarihindeki 48. teknik direktörü oldu.",
+   "url": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-yeni-teknik-direktoru-sergen-yalcin-oldu/4094740",
+   "kaynak": "AA",
+   "kategori": "spor",
+   "zaman": "2026-10-20T16:41+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
+   "ozet": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
+   "url": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:41+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "60 saniyede ekonomide bugün (20 Ekim 2026)",
+   "ozet": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+   "url": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-ekim-2026/4094736",
+   "kaynak": "AA",
+   "kategori": "ekonomi",
+   "zaman": "2026-10-20T16:38+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bessent: ABD tahvil piyasası iyi performans gösterdi",
+   "ozet": "ABD Hazine Bakanı Scott Bessent, ABD tahvil piyasasının iyi performans gösterdiğini söyledi.",
+   "url": "https://www.bloomberght.com/bessent-abd-tahvil-piyasasi-iyi-performans-gosterdi-3791988",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:36+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Ömer Çelik'ten fon soruşturmasına dair açıklamalar",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, MKYK toplantısı sonrasında gündeme ilişkin açıklamalarda bulundu. Çelik, fon konusunda devletin tüm kurumlarının görevinin başında olduğunu belirterek \"Kime yakın kime uzak, kim nerede duruyor, hangi makam sahib",
+   "url": "https://www.bloomberght.com/omer-celik-ten-fon-sorusturmasina-dair-aciklamalar-3791985",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:28+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Yumurta satan çeteyi ihanet yaktı. Örgüt liderinin kocası ihbar etmiş",
+   "ozet": "Kadınları yurt dışına götürüp yumurtalarını aldıktan sonra ve tüp bebek tedavisi gören ailelere satan çeteye ilişkin ayrıntılar ortaya çıktı. Çeteyi, aldatılan eşin ihbarı ortaya çıkardı.",
+   "url": "https://www.ntv.com.tr/turkiye/galeri-yumurta-satan-ceteyi-ihanet-yakti-orgut-liderinin-kocasi-ihbar-etmis-1747191",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T16:21+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "\"Kuantum bilgisayarların ekonomik etkisi 2030'da başlayabilir\"",
+   "ozet": "Küresel kuantum bilişim gelirlerinin 2027 yılında 1,1 milyar dolara ulaşması bekleniyor. Kuantumun, yapay zekâdan sonraki yeni yatırım hikayesi olabileceğine dikkat çeken Quantinuum Kurucusu Ilyas Khan, kuantum bilgisayarların beş yıldan kı",
+   "url": "https://www.bloomberght.com/kuantum-bilgisayarlarin-ekonomik-etkisi-2030da-baslayabilir-3791978",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:20+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
+   "ozet": "Yeni Yol Partisi’nden istifa eden Bağımsız Bursa Milletvekili Cemalettin Kani Torun AK Parti’ye katıldı.",
+   "url": "https://www.ntv.com.tr/turkiye/bursa-milletvekili-cemalettin-kani-torun-ak-partiye-katildi-1747185",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T16:15+03:00",
+   "sektor": false
+  },
   {
    "baslik": "Mekke İttifakı Anlaşması Meclis'te. Ayrıntılar ilk kez NTV'de",
    "ozet": "Suudi Arabistan, Pakistan ve Türkiye arasında imzalanan Mekke İttifakı Anlaşması Meclis'e sunuldu. Ayrıntıları NTV Muhabiri Özgür Akbaş aktardı.",
    "url": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-20T15:07+03:00",
+   "zaman": "2026-10-20T16:15+03:00",
    "sektor": false
   },
   {
-   "baslik": "Libya Temsilciler Meclisi, Türkiye ile deniz yetki alanı Mutabakat Zabtı'nı onayladı",
-   "ozet": "Libya Temsilciler Meclisi, Ulusal Mutabakat Hükümeti ile Türkiye arasında Akdeniz'deki deniz yetki alanlarının sınırlandırılmasına ilişkin imzalanan Mutabakat Zaptı'nı onayladı.",
-   "url": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T15:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Google Cloud'daki sorun Avrupa'da bankaları da vurdu",
-   "ozet": "Google Cloud'un Batı Avrupa'daki tesislerinde, bankalar ve birçok başka sektörü etkileyen hatalar ve ağ kesintileri yaşanıyor. Şirket, sorunun elektrik kesintisinden kaynaklandığını açıkladı.",
-   "url": "https://www.ntv.com.tr/dunya/google-clouddaki-sorun-avrupada-bankalari-da-vurdu-1747177",
+   "baslik": "Otobüslerde kulaklıksız müzik dinleyenlere para cezası geliyor",
+   "ozet": "İngiltere'de otobüslerde yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara 100 sterlin (yaklaşık 6 bin 600 lira) para cezası verilecek.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-otobuslerde-kulakliksiz-muzik-dinleyenlere-para-cezasi-geliyor-1747192",
    "kaynak": "NTV",
    "kategori": "dunya",
-   "zaman": "2026-10-20T15:02+03:00",
+   "zaman": "2026-10-20T16:14+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Dünyada üç kişide görülmüştü, Türkiye'de ilk. Tıp literatürüne girecek ameliyat Giresun'da yapıldı",
+   "ozet": "Giresun'da idrarda kanama şikayetiyle hastaneye başvuran mesane kanseri hastası Fahri Çakır'ın sağ böbreğinin leğen kemiği içinde olduğu belirlendi. Çakır, başarılı bir operasyonla sağlığına kavuştu.",
+   "url": "https://www.ntv.com.tr/turkiye/galeri-dunyada-uc-kiside-gorulmustu-turkiyede-ilk-tip-literaturune-girecek-ameliyat-giresunda-yapildi-1747166",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T16:07+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Rubio'dan olası ABD-Çin-Rusya görüşmesinin \"dünya için çok olumlu bir şey\" olacağı yorumu",
+   "ozet": "ABD Dışişleri Bakanı Rubio, ABD, Çin ve Rusya'nın silah kontrolü gibi konuları tartışacağı olası bir üçlü görüşmenin \"dünya için çok olumlu bir şey\" olacağını belirtti.",
+   "url": "https://www.aa.com.tr/tr/dunya/rubiodan-olasi-abd-cin-rusya-gorusmesinin-dunya-icin-cok-olumlu-bir-sey-olacagi-yorumu/4094710",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T16:06+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Savunma sanayisi diplomasisinde 4 ülkeli yeni halka",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB), Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayisi alanındaki işbirliğini güçlendirecek yeni bir mutabakat zaptının Doha'da imzalanacağını duyurdu.",
+   "url": "https://www.aa.com.tr/tr/bilim-teknoloji/savunma-sanayisi-diplomasisinde-4-ulkeli-yeni-halka/4094708",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-20T16:04+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Amazon, yılbaşı sezonunda 300 binden fazla kişiyi işe alacak",
+   "ozet": "Amazon.com, yılbaşı alışveriş sezonunda 300 binden fazla kişiyi işe almayı planlıyor. Alınacak sayı bir yıl öncesine göre yüzde 20 artışa denk geliyor.",
+   "url": "https://www.bloomberght.com/amazon-yilbasi-sezonunda-300-binden-fazla-kisiyi-ise-alacak-3791971",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T16:01+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Ataşehir’de tehlikeli geçiş kazayla sonuçlandı",
+   "ozet": "Ataşehir'de kırmızı ışıkta yolun karşısına geçmeye çalışan yayaya, motosikletlinin çarpması kask kamerasınca kaydedildi.",
+   "url": "https://www.ntv.com.tr/turkiye/video-atasehirde-tehlikeli-gecis-kazayla-sonuclandi-1747190",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-20T16:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Amazon'dan Almanya'ya 16 milyar euroluk yatırım",
+   "ozet": "ABD merkezli teknoloji ve perakende şirketi Amazon, Almanya'da istihdam, teknoloji ve altyapı alanlarını kapsayan ve 2027 yılına kadar tamamlanması planlanan 16 milyar euronun üzerinde yeni bir yatırım paketi açıkladı.",
+   "url": "https://www.bloomberght.com/amazon-dan-almanya-ya-16-milyar-euroluk-yatirim-3791970",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T15:59+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T15:57+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Protestolarla sarsılan Milano'da asker sokağa iniyor",
+   "ozet": "İtalya'da finans ve modanın kalbinin attığı Milano'da hafta sonu hayat pahalılığı ile hükümet politikalarının protesto edildiği eylemlerin ardından kentte asker görevlendirilecek.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-protestolarla-sarsilan-milanoda-asker-sokaga-iniyor-1747186",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T15:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İngiltere Deniz Ticaret Operasyonları: Umman açıklarında bir tankere askeri güçler müdahale etti",
+   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman'ın Dukm kentinin yaklaşık 121 deniz mili doğusunda bir tankere askeri güçlerin müdahale ettiğine dair ihbar alındığını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-umman-aciklarinda-bir-tankere-askeri-gucler-mudahale-etti/4094682",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T15:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bakan Bolat: Fiyat etiketi ve fahiş fiyat denetimlerini aralıksız sürdürüyoruz",
+   "ozet": "Ticaret Bakanı Ömer Bolat, tüketicilerin mağdur olmaması adına, tüm illerde fiyat etiketi ve fahiş fiyat denetimlerini aralıksız sürdürdüklerini belirterek, \"Haziran 2023'ten bu yana toplam 8,8 milyar liralık idari para cezası uygulanmıştır",
+   "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-fiyat-etiketi-ve-fahis-fiyat-denetimlerini-araliksiz-surduruyoruz/4094678",
+   "kaynak": "AA",
+   "kategori": "ekonomi",
+   "zaman": "2026-10-20T15:47+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "AJet, 2027 yaz sezonunda Bodrum ve Dalaman'dan Almanya'nın 5 kentine uçacak",
+   "ozet": "AJet, 2027 yaz sezonunda Muğla'nın Bodrum ve Dalaman ilçelerinden Almanya'nın 5 kentine direkt uçuşlar düzenleyecek.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/ajet-2027-yaz-sezonunda-bodrum-ve-dalamandan-almanyanin-5-kentine-ucacak/4094669",
+   "kaynak": "AA",
+   "kategori": "ekonomi",
+   "zaman": "2026-10-20T15:41+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD'de konut başlangıçları 4 ayın dibinde",
+   "ozet": "ABD'de konut başlangıçları zayıflayan taleple dört ayın en düşük seviyesine geriledi.",
+   "url": "https://www.bloomberght.com/abd-de-konut-baslangiclari-4-ayin-dibinde-3791968",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T15:36+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Allianz: İklim krizinin küresel maliyeti 184 milyar euroya ulaştı",
+   "ozet": "Allianz Research ve Allianz Trade tarafından yayımlanan İklim Ekonomisi Raporu 2026'ya göre, 2025'te aşırı hava olaylarının yol açtığı ekonomik kayıplar 184 milyar euro oldu.",
+   "url": "https://www.bloomberght.com/allianz-asiri-hava-olaylarinin-kuresel-maliyeti-184-milyar-euroya-ulasti-3791964",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-20T15:15+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İtalya'da şiddetli protestoların ardından hükümet, Milano'da asker görevlendirme hazırlığında",
+   "ozet": "İtalya Başbakan Yardımcısı Tajani, özellikle Milano kentinde şiddet olaylarına sahne olan protestolara yanıt olarak şehirde adli kolluk yetkilerine sahip 500 askerin görevlendirilmesinin de çıkaracakları yeni güvenlik paketinde yer alacağın",
+   "url": "https://www.aa.com.tr/tr/dunya/italyada-siddetli-protestolarin-ardindan-hukumet-milanoda-asker-gorevlendirme-hazirliginda/4094628",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T15:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Katar’dan İran’a Hürmüz Boğazı’ndaki internet kablolarını hedef almama çağrısı",
+   "ozet": "Katar, İran’ın Hürmüz Boğazı’ndan geçen deniz altı internet kablolarını hedef alma ihtimaline ilişkin, böyle bir adımın İran halkı dahil tüm bölge ülkelerine zarar vereceği uyarısında bulundu.",
+   "url": "https://www.aa.com.tr/tr/dunya/katar-dan-iran-a-hurmuz-bogazi-ndaki-internet-kablolarini-hedef-almama-cagrisi/4094626",
+   "kaynak": "AA",
+   "kategori": "dunya",
+   "zaman": "2026-10-20T15:11+03:00",
    "sektor": false
   },
   {
@@ -77,17 +788,8 @@
    "ozet": "Türk Hava Yolları (THY) iştiraki Turkish Ground Services (TGS), 2025 yılı net satış gelirlerine göre hazırlanan Fortune 500 Türkiye listesinde 96'ncı sırada yer aldı.",
    "url": "https://www.aa.com.tr/tr/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi/4094616",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T15:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
-   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-ekim-2026-1747069",
-   "kaynak": "NTV",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T15:00+03:00",
    "sektor": false
   },
   {
@@ -104,35 +806,8 @@
    "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, 131 fonun 66'sının tamamen tasfiye edildiğini ve 7 portföy yönetim şirketinden 3'ünün tam tasfiyesinin tamamlandığını belirtti.",
    "url": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-131-fonun-66si-tamamen-tasfiye-edildi/4094601",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T14:50+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Aile ve Sosyal Hizmetler Bakanlığından şiddet vakalarına karşı \"7/24 takip\" açıklaması",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanlığınca, şiddet veya şiddet riski içeren vakaların 7/24 esasına dayalı takip edildiği belirtilerek, \"Gerekli görülen hallerde, mağdur haklarını gözeterek davalara müdahil oluyoruz.\" ifadeleri kullanıldı.",
-   "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-siddet-vakalarina-karsi-7-24-takip-aciklamasi/4094595",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:48+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İletişim Başkanı Duran: Mekke Ortak Savunma Anlaşması'na ilişkin kanun teklifinin TBMM'ye sunulması önemli bir aşama",
-   "ozet": "İletişim Başkanı Duran, Mekke Ortak Savunma Anlaşması'nın onaylanmasına ilişkin kanun teklifinin TBMM'ye sunulmasının, Türkiye, Suudi Arabistan ve Pakistan arasındaki stratejik işbirliğinin kurumsallaşması yolunda önemli bir aşama olduğunu ",
-   "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-mekke-ortak-savunma-anlasmasina-iliskin-kanun-teklifinin-tbmmye-sunulmasi-onemli-bir-asama/4094594",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:47+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakanlar Fidan, Gürlek ve Çiftçi, Türkiye-Belçika üçlü bakanlar toplantısına katıldı",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi Belçika'nın başkenti Brüksel'de düzenlenen Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları Dördüncü Toplantısı'na iştirak etti.",
-   "url": "https://www.aa.com.tr/tr/gundem/bakanlar-fidan-gurlek-ve-ciftci-turkiye-belcika-uclu-bakanlar-toplantisina-katildi/4094590",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:46+03:00",
    "sektor": false
   },
   {
@@ -140,27 +815,9 @@
    "ozet": "İngiltere, Yemen'deki Husilerin saldırılarına karşı savunma desteği vermek amacıyla Suudi Arabistan'a savaş uçakları ve bir nakliye uçağı gönderme kararı aldı.",
    "url": "https://www.aa.com.tr/tr/dunya/ingiltere-husilere-karsi-savunma-amaciyla-suudi-arabistana-savas-ucaklari-gonderecek/4094586",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T14:45+03:00",
    "sektor": true
-  },
-  {
-   "baslik": "Yargıtay, yurt dışındaki boşanma kararının tanınmasında karekodlu belgelerin yeterli bulunmamasını onadı",
-   "ozet": "Yurt dışındaki boşanma kararının Türkiye'de tanınmasına ilişkin davada sunulan karekodlu belgenin kanunda belirtilen onaylı belge şartını karşılamadığı gerekçesiyle yerel mahkemenin verdiği ret kararı, Yargıtay 2. Hukuk Dairesi tarafından o",
-   "url": "https://www.aa.com.tr/tr/gundem/yargitay-yurt-disindaki-bosanma-kararinin-taninmasinda-karekodlu-belgelerin-yeterli-bulunmamasini-onadi/4094588",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:45+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Anadolu Üniversitesi Açıköğretim Fakültesi kayıtları 23 Ekim'e uzatıldı",
-   "ozet": "Anadolu Üniversitesi Açıköğretim Fakültesi, öğrenci affı kapsamında güz dönemi kesin kayıt ve ikinci üniversite kayıt işlemlerinin süresini 23 Ekim'e uzattı.",
-   "url": "https://www.aa.com.tr/tr/gundem/anadolu-universitesi-acikogretim-fakultesi-kayitlari-23-ekime-uzatildi/4094580",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:43+03:00",
-   "sektor": false
   },
   {
    "baslik": "Avrupa'da doğalgaz fiyatları 2022'den beri ilk kez 90 euroyu aştı",
@@ -185,17 +842,8 @@
    "ozet": "Türk Ajansı Kıbrıs'ın (TAK) haberine göre BM, Erhürman ile Hristodulidis arasında ara bölgede düzenlenen görüşmenin ardından yazılı açıklama yaptı.",
    "url": "https://www.aa.com.tr/tr/dunya/kktc-gkry-ve-bm-arasindaki-uclu-gorusmenin-9-kasimda-yapilmasi-bekleniyor/4094566",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T14:36+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisinden onay",
-   "ozet": "Libya Temsilciler Meclisi, 2019'da Libya ve Türkiye arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı.",
-   "url": "https://www.aa.com.tr/tr/gundem/turkiye-libya-deniz-yetki-alanlari-mutabakatina-libya-temsilciler-meclisinden-onay/4094562",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:35+03:00",
    "sektor": false
   },
   {
@@ -212,7 +860,7 @@
    "ozet": "Milli bisikletçi Ramazan Yılmaz, Uluslararası Bisiklet Birliğinin (UCI) pist bisikleti dayanıklılık dünya sıralamasında birinci sıraya yükseldi.",
    "url": "https://www.aa.com.tr/tr/spor/ramazan-yilmaz-pist-bisikleti-dayaniklilik-dunya-siralamasinda-zirveye-cikti/4094557",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-10-20T14:32+03:00",
    "sektor": false
   },
@@ -233,15 +881,6 @@
    "kategori": "dunya",
    "zaman": "2026-10-20T14:30+03:00",
    "sektor": true
-  },
-  {
-   "baslik": "AK Parti MKYK toplantısı başladı",
-   "ozet": "AK Parti Merkez Karar ve Yönetim Kurulu (MKYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
-   "url": "https://www.aa.com.tr/tr/gundem/ak-parti-mkyk-toplantisi-basladi/4094553",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T14:30+03:00",
-   "sektor": false
   },
   {
    "baslik": "Macaristan Başbakanı, Euro Bölgesi'ne en kısa sürede katılımı destekliyor",
@@ -298,38 +937,11 @@
    "sektor": false
   },
   {
-   "baslik": "Ankara'daki uyuşturucu soruşturmasında 40 şüpheli gözaltına alındı",
-   "ozet": "Ankara Batı Cumhuriyet Başsavcılığınca yürütülen uyuşturucu soruşturması kapsamında, haklarında gözaltı kararı verilen 42 şüpheliden 40'ı yakalandı.",
-   "url": "https://www.aa.com.tr/tr/gundem/ankaradaki-uyusturucu-sorusturmasinda-40-supheli-gozaltina-alindi/4094512",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T13:57+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bolu sonbahar renklerine büründü",
-   "ozet": "Bolu'da ağaçlar yeşil, sarı, kahverengi ve kızılın tonlarına büründü.",
-   "url": "https://www.aa.com.tr/tr/gundem/bolu-sonbahar-renklerine-burundu/4094514",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T13:57+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Batı Avrupa'da Google'ın bulut hizmetlerinde teknik sorun yaşanıyor",
-   "ozet": "Google Cloud'un Batı Avrupa'daki tesislerinde birden fazla hizmeti etkileyen hatalar ve ağ kesintileri yaşanıyor.",
-   "url": "https://www.aa.com.tr/tr/bilim-teknoloji/bati-avrupada-googlein-bulut-hizmetlerinde-teknik-sorun-yasaniyor/4094510",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T13:55+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Katar'dan Husilerin saldırıları karşısında Suudi Arabistan'a destek",
    "ozet": "Katar Dışişleri Bakanlığı Sözcüsü Ensari, Husilerin saldırıları karşısında egemenliğini savunan Suudi Arabistan'ı desteklediklerini söyledi.",
    "url": "https://www.aa.com.tr/tr/dunya/katardan-husilerin-saldirilari-karsisinda-suudi-arabistana-destek/4094508",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T13:54+03:00",
    "sektor": false
   },
@@ -343,24 +955,6 @@
    "sektor": false
   },
   {
-   "baslik": "Türkiye'de 44 gümüş eşya sanatkarına \"Somut Olmayan Kültürel Miras Taşıyıcısı Kartı\" verildi",
-   "ozet": "İstanbul Kuyumcular Odası ile Gümüş Eşya El Sanatkarları Derneğinin (GESAD) ortak yürüttüğü çalışmalar sonucunda Kültür ve Turizm Bakanlığı (KTB) tarafından 44 gümüş eşya sanatkarına \"Somut Olmayan Kültürel Miras Taşıyıcısı Kartı\" verildi.",
-   "url": "https://www.aa.com.tr/tr/kultur/turkiyede-44-gumus-esya-sanatkarina-somut-olmayan-kulturel-miras-tasiyicisi-karti-verildi/4094500",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T13:47+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "9. İstanbul Arabuluculuk Konferansı 23-24 Ekim'de düzenlenecek",
-   "ozet": "Arabuluculuk alanındaki öncü ve özgün konumuyla öne çıkan Türkiye, 9. İstanbul Arabuluculuk Konferansı'nı 23-24 Ekim tarihlerinde \"Barış İçin Ortaklıklar ve Yeni Perspektifler: Değişen Dünyada Arabuluculuk\" temasıyla düzenleyecek.",
-   "url": "https://www.aa.com.tr/tr/gundem/9-istanbul-arabuluculuk-konferansi-23-24-ekimde-duzenlenecek/4094501",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T13:47+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Bakan Şimşek'ten, fonlardan 10 milyon TL'den fazla kazanç sağlayanlara yasal süreç uyarısı",
    "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarında yürütülen tasfiye sürecinde usulsüz kazanç elde ettiği tespit edilen kişilere yönelik yeni adımların atılacağını söyledi.",
    "url": "https://www.bbc.com/turkce/articles/c6x2977zyv7ko?at_medium=RSS&at_campaign=rss",
@@ -370,20 +964,11 @@
    "sektor": false
   },
   {
-   "baslik": "A Milli Takım'da 'dört yıl' Sergen Yalçın dönemi",
-   "ozet": "Türkiye'de Vincenzo Montella'dan boşalan A Milli Takım teknik direktörlüğüne Sergen Yalçın getiriliyor. Elli üç yaşındaki çalıştırıcı, Kafa Spor'un YouTube kanalına yaptığı açıklamada gelişmeyi doğruladı.",
-   "url": "https://www.bbc.com/turkce/articles/c8wy9py4z5y4o?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T13:37+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Bakan Bayraktar: Türkiye, 2040'ta enerjisinin yüzde 70'ini yenilenebilir kaynaklardan sağlamayı hedefliyor",
    "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin 2040'ta enerji ihtiyacının yaklaşık yüzde 70'ini yenilenebilir enerji kaynaklarından karşılamayı hedeflediğini bildirdi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-2040ta-enerjisinin-yuzde-70ini-yenilenebilir-kaynaklardan-saglamayi-hedefliyor/4094487",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T13:36+03:00",
    "sektor": false
   },
@@ -392,7 +977,7 @@
    "ozet": "Dünya petrol ticaretinin yaklaşık beşte birinin aktığı Hürmüz Boğazı, İran'ın denizaltı internet altyapısını ve küresel teknoloji şirketlerini hedefe koyan açıklamalarıyla bu kez dijital bir gerilim hattına sahne oluyor.",
    "url": "https://www.aa.com.tr/tr/dunya/iranin-hedef-gosterdigi-hurmuzdeki-7-internet-kablosu-bolgenin-dijital-kirilganligini-gundeme-getirdi/4094478",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T13:30+03:00",
    "sektor": false
   },
@@ -401,7 +986,7 @@
    "ozet": "Türkiye Döküm Sanayicileri Derneği (TÜDÖKSAD) ev sahipliğinde düzenlenen 76. Dünya Döküm Kongresi, ikinci gününde \"Sanayide Güç Birliği Zirvesi\" ile sürüyor.",
    "url": "https://www.aa.com.tr/tr/ekonomi/76-dunya-dokum-kongresi-sanayide-guc-birligi-zirvesi-ile-devam-ediyor/4094476",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T13:28+03:00",
    "sektor": false
   },
@@ -419,7 +1004,7 @@
    "ozet": "Kathimerini gazetesi, Yunanistan'ın tasarruf tedbirleri kapsamında 187 kışlayı kapatacağını ileri sürdü.",
    "url": "https://www.aa.com.tr/tr/dunya/yunanistan-tasarruf-icin-187-kislayi-kapatmayi-planliyor/4094469",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T13:24+03:00",
    "sektor": false
   },
@@ -446,7 +1031,7 @@
    "ozet": "BMMYK Sözcüsü Saltmarsh, çatışmaların tırmandığı Yemen'de yerinden edilenlerin sayısının 250 bini aştığını bildirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/bm-yemende-yerinden-edilenlerin-sayisi-250-bini-asti/4094461",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-20T13:16+03:00",
    "sektor": false
   },
@@ -455,7 +1040,7 @@
    "ozet": "Avrupa'da doğal gaz fiyatları, megavat saat başına 89,74 avroya yükselerek Aralık 2022'den bu yana en yüksek seviyeye ulaştı.",
    "url": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T13:11+03:00",
    "sektor": false
   },
@@ -475,15 +1060,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-20T13:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Milas Belediyesi'ne operasyon. Belediye Başkanı Fevzi Topuz dahil 33 kişi gözaltında",
-   "ozet": "Muğla'da CHP'li Milas Belediyesi'ne yönelik operasyon düzenlendi. Belediye Başkanı Fevzi Topuz dahil 33 kişi gözaltına alındı.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-milas-belediyesine-operasyon-belediye-baskani-fevzi-topuz-dahil-33-kisi-gozaltinda-1747094",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T13:07+03:00",
    "sektor": false
   },
   {
@@ -523,7 +1099,7 @@
    "sektor": false
   },
   {
-   "baslik": "Fatima el-Mansuri: Fas'ın kral, din adamları ve feministler arasında sıkışan ilk kadın başbakanı",
+   "baslik": "Fatima el-Mansuri: Kral, din adamları ve feministler arasında sıkışan Fas'ın ilk kadın başbakanı",
    "ozet": "Fas'ın ilk kadın başbakanı Fatima el-Mansouri, dini ve siyasi engellere rağmen kadın haklarını ilerletebilecek mi?",
    "url": "https://www.bbc.com/turkce/articles/ckj0l7ygzm14o?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
@@ -595,42 +1171,6 @@
    "sektor": false
   },
   {
-   "baslik": "Batı Şeria'daki İsrail saldırıları, 20 Filistinli aileyi göçe zorladı",
-   "ozet": "İsrail ordusunun ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'daki saldırıları nedeniyle Ürdün Vadisi'ndeki 20 Filistinli ailenin evlerini terk etmek zorunda kaldığı bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/bati-seriadaki-israil-saldirilari-20-filistinli-aileyi-goce-zorladi/4094359",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T12:14+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu",
-   "ozet": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine Cumhur İttifakı'nın adayı Muhammed Emin Sarıoğlu seçildi.",
-   "url": "https://www.ntv.com.tr/turkiye/yeni-parti-ve-chp-aday-cikarmadi-uskudar-belediyesi-baskanvekili-muhammed-emin-sarioglu-oldu-1747095",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T12:08+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "Bakan Kacır: Uluslararası patent başvurularında kadın buluşçu oranında dünya birincisiyiz",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TÜBİTAK'ın bilim insanlarına yönelik destek programları kapsamında son 23 yılda 233 bin kadın araştırmacıya 32 milyar lira destek verdiklerini belirtti.",
-   "url": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-uluslararasi-patent-basvurularinda-kadin-buluscu-oraninda-dunya-birincisiyiz/4094356",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T12:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İran: Bölge ülkeleri dış baskılardan uzak bir güvenlik mekanizması oluşturmalı",
-   "ozet": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, bölge ülkelerinin dış baskılardan uzak bir güvenlik mekanizması oluşturması gerektiğini söyledi.",
-   "url": "https://www.aa.com.tr/tr/dunya/iran-bolge-ulkeleri-dis-baskilardan-uzak-bir-guvenlik-mekanizmasi-olusturmali/4094354",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T12:07+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "İstanbul’da ayakkabı hırsızlığı: Polis şüphelilerin peşinde",
    "ozet": "Sultangazi ve Gaziosmanpaşa'da farklı tarihlerde girdikleri binalarda dairelerin önünde bulunan ayakkabıları çalan şüpheliler, güvenlik kameralarına yansıdı.",
    "url": "https://www.ntv.com.tr/turkiye/video-istanbulda-ayakkabi-hirsizligi-polis-suphelilerin-pesinde-1747152",
@@ -667,15 +1207,6 @@
    "sektor": false
   },
   {
-   "baslik": "Fransa'nın güneydoğusunda şiddetli yağışlar hayatı olumsuz etkiledi",
-   "ozet": "Fransa'nın güneydoğusundaki 7 vilayette etkili olan şiddetli yağışlar nedeniyle ev ve iş yerleri sular altında kaldı, ulaşım aksadı.",
-   "url": "https://www.aa.com.tr/tr/dunya/fransanin-guneydogusunda-siddetli-yagislar-hayati-olumsuz-etkiledi/4094339",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:55+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Almanya'da ÜFE 3,5 yılın en hızlı artışını kaydetti",
    "ozet": "Almanya'da Üretici Fiyat Endeksi (ÜFE), Orta Doğu'da tırmanan jeopolitik gerilimin tetiklediği petrol şokunun etkisiyle eylülde yıllık bazda yüzde 6,7 artarak Mart 2023'ten bu yana en hızlı yükselişini kaydetti.",
    "url": "https://www.bloomberght.com/almanya-da-ufe-3-5-yilin-en-hizli-artisini-kaydetti-3791921",
@@ -703,16 +1234,7 @@
    "sektor": false
   },
   {
-   "baslik": "İsrailli Bakan Ben-Gvir, Gazze'deki topraklarını terk etmeyi reddeden Filistinlilere hakaret etti",
-   "ozet": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, 3 yıldır süren saldırılarla yerle bir edilen Gazze Şeridi'ndeki topraklarını terk etmeyi reddeden Filistinlilere yapay zeka ile üretilmiş sözde \"gönüllü göç\" videosuyla hakaret e",
-   "url": "https://www.aa.com.tr/tr/dunya/israilli-bakan-ben-gvir-gazzedeki-topraklarini-terk-etmeyi-reddeden-filistinlilere-hakaret-etti/4094335",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:50+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Üsküdar Belediyesi'nin yeni başkanvekili Cumhur İttifakı adayı Muhammed Emin Sarıoğlu oldu",
+   "baslik": "Üsküdar Belediyesi'nin yeni başkanvekili belli oldu",
    "ozet": "Üsküdar Belediyesi'nde, trafik kazasında hayatını kaybeden Dündar Ziya Gültekin'in yerine başkanvekili seçimi yapıldı. 20 Ekim'de Belediye Meclisi'nde gerçekleştirilen seçimi Cumhur İttifakı adayı Muhammed Emin Sarıoğlu, üçüncü turda aldığı",
    "url": "https://www.bbc.com/turkce/articles/c8r4yq0rnx32o?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
@@ -727,24 +1249,6 @@
    "kaynak": "AA",
    "kategori": "finans",
    "zaman": "2026-10-20T11:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Uraloğlu: Kriptoloji açısından veri merkezleri, dijital varlıkların uzun vadeli güvenliğinin teminatı",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Uraloğlu, kriptoloji açısından veri merkezlerinin, dijital varlıkların uzun vadeli güvenliğinin teminatı olduğunu belirterek, \"Veriyi kendi topraklarımızda tutmak, siber bağımsızlığımızın en somut ifadesi.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-uraloglu-kriptoloji-acisindan-veri-merkezleri-dijital-varliklarin-uzun-vadeli-guvenliginin-teminati/4094326",
-   "kaynak": "AA",
-   "kategori": "kripto",
-   "zaman": "2026-10-20T11:46+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bahçeli'den fon soruşturması açıklaması: En güçlü yaptırımlar uygulanacak",
-   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, fon krizinde manipülatörlerin Türkiye ekonomisini hedef aldığını söyledi.",
-   "url": "https://www.ntv.com.tr/turkiye/bahceliden-fon-sorusturmasi-aciklamasi-en-guclu-yaptirim-uygulanacak-1747127",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T11:40+03:00",
    "sektor": false
   },
   {
@@ -772,15 +1276,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-10-20T11:32+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Belçika'dan Fransa'daki vatandaşlarına uyarı",
-   "ozet": "Belçika Dışişleri Bakanlığı, 17 Ekim'de Fransa'da düzenlenen protestolarda meydana gelen şiddet olaylarının ardından ülkedeki Belçika vatandaşlarına kalabalıklardan ve toplu etkinliklerden uzak durmaları çağrısında bulundu.",
-   "url": "https://www.aa.com.tr/tr/dunya/belcikadan-fransadaki-vatandaslarina-uyari/4094297",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:30+03:00",
    "sektor": false
   },
   {
@@ -824,7 +1319,7 @@
    "ozet": "Elazığ'ın Alacakaya ilçesinde üretilen vişne mermeri, Çin başta olmak üzere uluslararası pazarlarda gördüğü taleple Türkiye'nin doğal taş ihracatında öne çıkan ürünler arasında bulunuyor.",
    "url": "https://www.aa.com.tr/tr/ekonomi/turk-visne-mermeri-cin-pazarinda-yogun-talep-goruyor/4094278",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-20T11:20+03:00",
    "sektor": false
   },
@@ -835,15 +1330,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-20T11:18+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin devreye girmesinin ardından patlama sesleri duyuldu",
-   "ozet": "Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin devreye alınmasının ardından patlama sesleri duyuldu.",
-   "url": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyadda-erken-uyari-sisteminin-devreye-girmesinin-ardindan-patlama-sesleri-duyuldu/4094264",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:16+03:00",
    "sektor": false
   },
   {
@@ -874,24 +1360,6 @@
    "sektor": false
   },
   {
-   "baslik": "Aşırı sağanak gitti, hava açtı: Sıcaklık 30 dereceye yaklaşacak, yağmur için yeni tarih belli oldu",
-   "ozet": "Türkiye şiddetli yağmurun ardından ılık bir havanın etkisi altına girdi. Bazı bölgelerde hava sıcaklığı 30 dereceye yaklaşacak. İstanbul'da yeni yağışlı hava sistemi için ise tarih belli oldu.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-asiri-saganak-gitti-hava-acti-sicaklik-30-dereceye-yaklasacak-yagmur-icin-yeni-tarih-belli-oldu-1747097",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T11:11+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Sahel bölgesinde El Kaide ile DEAŞ arasında nüfuz savaşı büyüyor",
-   "ozet": "Batı Afrika'nın Sahel bölgesinde terör örgütü El Kaide bağlantılı JNIM ile DEAŞ’ın Sahel kolu ISSP arasındaki nüfuz mücadelesi şiddetlenirken, iki örgüt arasındaki çatışmaların coğrafi olarak genişlemesi yeni riskler doğuruyor.",
-   "url": "https://www.aa.com.tr/tr/dunya/sahel-bolgesinde-el-kaide-ile-deas-arasinda-nufuz-savasi-buyuyor/4094250",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:10+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Tesla'nın arabası uçuyor, hissesi düşüyor",
    "ozet": "Elektrikli otomobil sektöründe geliştirdiği teknolojiler ve otonom sürüş alanındaki iddialı hedefleriyle öne çıkan Tesla, araç teknolojisindeki ilerlemesini hisse piyasalarına yansıtmakta zorlanıyor.",
    "url": "https://www.aa.com.tr/tr/ekonomi/teslanin-arabasi-ucuyor-hissesi-dusuyor/4094243",
@@ -910,15 +1378,6 @@
    "sektor": false
   },
   {
-   "baslik": "İstanbul'da taşkın riskinde yağışın yanı sıra havza özellikleri ve kentleşme etkili oluyor",
-   "ozet": "Doç. Dr. Ekmekcioğlu, İstanbul'un diğer bölgelerinde de şiddetli yağışların ciddi taşkınlara yol açabileceğini belirterek yoğun kentleşme ve drenaj sistemlerindeki değişimlerin görüldüğü havzaların dikkatle değerlendirilmesi gerektiğini söy",
-   "url": "https://www.aa.com.tr/tr/gundem/istanbulda-taskin-riskinde-yagisin-yani-sira-havza-ozellikleri-ve-kentlesme-etkili-oluyor/4094240",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-20T11:07+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Türkiye, 2028 Olimpiyatları'na pist ve yol bisikletinde de kota hedefliyor",
    "ozet": "Türkiye Bisiklet Federasyonu Başkanı Emin Müftüoğlu, 2028 Los Angeles Olimpiyat Oyunları'nda hem pist hem de yol bisikletinde kota almayı hedeflediklerini söyledi.",
    "url": "https://www.aa.com.tr/tr/spor/turkiye-2028-olimpiyatlarina-pist-ve-yol-bisikletinde-de-kota-hedefliyor/4094242",
@@ -934,465 +1393,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-20T11:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Muhammed Salah, gol krallığı yarışında zirvede",
-   "ozet": "Trendyol Süper Lig'in 8. haftasında konuk ettiği Beşiktaş'ı 2-0 yenen Trabzonspor'da Mısırlı yıldız oyuncu Muhammed Salah, gol krallığı yarışında tek başına zirvede yer aldı.",
-   "url": "https://www.aa.com.tr/tr/spor/muhammed-salah-gol-kralligi-yarisinda-zirvede-/4094235",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T11:05+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Galatasaray, Avrupa'da 343. kez sahne alacak",
-   "ozet": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Fransa ekibi Lille'e konuk olacak Galatasaray, Avrupa kupalarındaki 343. karşılaşmasına çıkacak.",
-   "url": "https://www.aa.com.tr/tr/spor/galatasaray-avrupada-343-kez-sahne-alacak/4094230",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T11:03+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye'nin gelecek yıl dünya turizm gelirlerinde sıra atlaması bekleniyor",
-   "ozet": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-gelecek-yil-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor/4094229",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-20T11:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ev hapsindeyken tutuklanan Murat Ağırel mahkemede ne savunma yaptı?",
-   "ozet": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
-   "url": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T11:00+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yangın yerine dönen Fransa'da turistler ne yapıyor?",
-   "ozet": "Son 1 aydır öğrenci eylemlerinin sürdüğü Fransa, kundaklama ve yağmaların da olduğu büyük şiddet eylemleriyle sarsıldı. Ülkeyi ziyarete gelen turistler de kendilerini adeta savaş meydanında buldu.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-yangin-yerine-donen-fransada-turistler-ne-yapiyor-1747125",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:55+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Milas Belediyesi'ne operasyon: CHP'li Belediye Başkanı dahil 29 kişi gözaltına alındı",
-   "ozet": "Muğla'da Milas Belediyesi Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da bulunduğu 35 kişi hakkında gözaltı kararı verildi. Rüşvet ve ihaleye fesat karıştırma iddialarına ilişkin yürütülen soruşturma kapsamında 13 ilde eş zamanlı operasyonla",
-   "url": "https://www.bbc.com/turkce/articles/cj75pq4lvk91o?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:54+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "S&P Global Ratings: Türkiye'de hanehalkının liraya güveni dirençli kalmaya devam ediyor",
-   "ozet": "S&P Global Ratings, Türkiye'de hanehalkının liraya güveninin dirençli kalmaya devam ettiğini ve Orta Doğu'daki savaştan kaynaklanan enerji fiyat şokunun enflasyonda yukarı yönlü baskı oluşturmasına rağmen ülke ekonomisinin şokun etkilerini ",
-   "url": "https://www.bloomberght.com/s-p-global-ratings-turkiye-de-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-3791885",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:53+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Bolat otomotiv sektörü temsilcileriyle 'Made in EU' politikasını görüştü",
-   "ozet": "Ticaret Bakanı Ömer Bolat başkanlığında otomotiv sektörü temsilcileri ile sektördeki gelişmelere ilişkin toplantı gerçekleştirildi.",
-   "url": "https://www.bloomberght.com/bakan-bolat-otomotiv-sektoru-temsilcileriyle-bir-araya-geldi-3791884",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:52+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "Fenerbahçe Kadın Basketbol Takımı, Avrupa Ligi'nde yarın Rapid Bükreş'e konuk olacak",
-   "ozet": "Fenerbahçe Tarfin Kadın Basketbol Takımı, FIBA Avrupa Ligi C Grubu ikinci hafta maçında yarın Romanya'nın Rapid Bükreş takımıyla deplasmanda karşı karşıya gelecek.",
-   "url": "https://www.aa.com.tr/tr/spor/fenerbahce-kadin-basketbol-takimi-avrupa-liginde-yarin-rapid-bukrese-konuk-olacak/4094208",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T10:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fransa'daki kaos devam ediyor. Le Pen sokaktaki öfkeyi oya çevirme peşinde",
-   "ozet": "Fransa'da sokaklardaki kaosu cumhurbaşkanlığı seçimi öncesi iktidarın zaafı olarak sunan aşırı sağcı lider Marine Le Pen, olayları göç politikalarıyla ilişkilendirerek düzen vadetti.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-fransadaki-kaos-devam-ediyor-le-pen-sokaktaki-ofkeyi-oya-cevirme-pesinde-1747130",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:48+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Basketbol Avrupa Ligi'nde 7. hafta heyecanı yarın başlayacak",
-   "ozet": "Basketbol Avrupa Ligi'nde (EuroLeague) 7. haftanın perdesi yarın açılacak.",
-   "url": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-7-hafta-heyecani-yarin-baslayacak/4094201",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T10:47+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Arnavutluk'ta devam eden gösterilerde polis ve eylemciler karşı karşıya geldi",
-   "ozet": "Arnavutluk'un başkenti Tiran'da bir süredir devam eden gösterilerde eylemciler ve polis arasında arbede yaşandı.",
-   "url": "https://www.aa.com.tr/tr/dunya/arnavutlukta-devam-eden-gosterilerde-polis-ve-eylemciler-karsi-karsiya-geldi/4094197",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:46+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İğneyle zayıflama furyası denetimsiz takviye pazarını patlattı",
-   "ozet": "Zayıflama iğneleri kullanan hastalar, ilacın yol açtığı şiddetli yan etkileri bastırmak için denetimsiz gıda takviyelerine yöneliyor.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-igneyle-zayiflama-furyasi-denetimsiz-takviye-pazarini-patlatti-1747129",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:37+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kamu teşebbüslerinin 2027 yatırım hedefi 754,2 milyar lira",
-   "ozet": "Kamu iktisadi teşebbüsleri (KİT) ve bağlı ortaklıklarının, 2027'de 754,2 milyar lira tutarında yatırım yapmaları öngörülüyor.",
-   "url": "https://www.bloomberght.com/kamu-tesebbuslerinin-2027-yatirim-hedefi-754-2-milyar-lira-3791883",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:34+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fransa'da Sarı Yelekliler eyleminin ardından Marsilya'da da kısmi sokağa çıkma yasağı uygulanacak",
-   "ozet": "Fransa'da 17 Ekim'deki yağmalama ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından kısmi sokağa çıkma yasağının uygulandığı şehirlere Marsilya da eklendi.",
-   "url": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-eyleminin-ardindan-marsilyada-da-kismi-sokaga-cikma-yasagi-uygulanacak/4094177",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda ABD'ye ait bir MQ-9 İHA'sını düşürdük",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı semalarında ABD'ye ait bir MQ-9 insansız hava aracını (İHA) düşürdüğünü duyurdu.",
-   "url": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-abdye-ait-bir-mq-9-ihasini-dusurduk/4094169",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:25+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bahçeşehir Koleji, ⁠BKT Avrupa Kupası'nda yarın BOSNA BH Telecom ile karşılaşacak",
-   "ozet": "Bahçeşehir Koleji Erkek Basketbol Takımı, BKT Avrupa Kupası D Grubu 4. hafta maçında yarın Bosna Hersek temsilcisi BOSNA BH Telecom'a konuk olacak.",
-   "url": "https://www.aa.com.tr/tr/spor/bahcesehir-koleji-bkt-avrupa-kupasinda-yarin-bosna-bh-telecom-ile-karsilasacak/4094164",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T10:22+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye'nin net uluslararası yatırım pozisyonu açığında gerileme sürdü",
-   "ozet": "Türkiye'nin net uluslararası yatırım pozisyonu, 2026 yılı Ağustos ayı itibarıyla 364,5 milyar dolar açık verdi.",
-   "url": "https://www.bloomberght.com/turkiye-nin-net-uluslararasi-yatirim-pozisyonu-aciginda-gerileme-surdu-3791882",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:17+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Trump'ın özel temsilcisi Witkoff, Rusya-Ukrayna müzakereleri için Norveç'e gidiyor",
-   "ozet": "ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff'un, Rusya-Ukrayna Savaşı'na yönelik müzakereler konusunda Avrupalı temsilcilerle istişareler için Norveç'e gideceği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/trumpin-ozel-temsilcisi-witkoff-rusya-ukrayna-muzakereleri-icin-norvece-gidiyor/4094145",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T10:15+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Vize vurgununda WhatsApp yazışmaları: Randevu sistemini kilitleyip, 300 euroya satmışlar",
-   "ozet": "Vize randevusu garantisi verip botlarla ele geçirdikleri randevuları 300 euroya satan şüphelilere operasyon yapıldı. Operasyonda şebeke üyelerinin WhatsApp yazışmaları ortaya çıktı.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-vize-vurgununda-whatsapp-yazismalari-randevu-sistemini-kilitleyip-300-euroya-satmislar-1747106",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T10:11+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Beşiktaş BOA, FIBA Kadınlar Avrupa Kupası'nda yarın DSK Basketball Brandys ile karşılaşacak",
-   "ozet": "Beşiktaş BOA Kadın Basketbol Takımı, FIBA Avrupa Kupası B Grubu ilk maçında yarın Çekya'nın DSK Basketball Brandys ekibine konuk olacak.",
-   "url": "https://www.aa.com.tr/tr/spor/besiktas-boa-fiba-kadinlar-avrupa-kupasinda-yarin-dsk-basketball-brandys-ile-karsilasacak/4094137",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T10:10+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Trafik kazasını kazanç kapısı yapanlara operasyon. 77 gözaltı",
-   "ozet": "Kurgu trafik kazaları üzerinden 17 sigorta şirketinden haksız tazminat temin eden yönelik operasyon düzenlendi.",
-   "url": "https://www.ntv.com.tr/turkiye/trafik-kazasini-kazanc-kapisi-yapanlara-operasyon-77-gozalti-1747110",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T10:09+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "Yurt dışı ÜFE artışı Eylül'de hız kesti",
-   "ozet": "Yurt Dışı Üretici Fiyat Endeksi (YD-ÜFE), yıllık yüzde 33,64, aylık yüzde 2,82 arttı. YD-ÜFE, Ağustos'ta aylık yüzde 3,61, yıllık yüzde 32,60 artış göstermişti.",
-   "url": "https://www.bloomberght.com/yurt-disi-ufe-artisi-eylulde-hiz-kesti-3791881",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bitcoin 82.000 doların altına geriledi",
-   "ozet": "",
-   "url": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-82000-dolarn-altna-geriledi-4109859",
-   "kaynak": "Investing.com",
-   "kategori": "kripto",
-   "zaman": "2026-10-20T10:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "ABD'li çiftçilere 8 milyar dolarlık mazot desteği",
-   "ozet": "Trump yönetimi, hasadın yoğunlaştığı dönemde artan motorin maliyetleriyle karşı karşıya kalan çiftçiler için 8 milyar dolarlık destek açıkladı. Ürün bazında ödeme tutarları kasım ayında duyurulacak.",
-   "url": "https://www.bloomberght.com/abd-li-ciftcilere-8-milyar-dolarlik-mazot-destegi-3791880",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:04+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "Gram altında son durum ne? 20 Ekim 2026 Salı altın fiyatları…",
-   "ozet": "Altının onsu 20 Ekim 2026 Salı günü 4,135 dolardan işlem görürken gram altın 6.586,31 TL olarak güne başladı. Çeyrek altın 10.768,62 liradan Cumhuriyet altını ise 42.942,75 liradan işlem görüyor. Altın fiyatlarındaki son gelişmeler hakkında",
-   "url": "https://www.bloomberght.com/gram-altinda-son-durum-ne-20-ekim-2026-sali-altin-fiyatlari-pkh1-3791876",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T10:00+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Borsa güne yükselişe başladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,38 yükselişle 11.473,82 puandan başladı.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselise-basladi/4094120",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:59+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Penseyle kapı kilidini kırıp eve girdi, \"Kendi evim zannettim\" dedi",
-   "ozet": "Adana'da girdiği evlerden hırsızlık yapan ve hakkında 38 yıl kesinleşmiş hapis cezası bulunan şüpheli, polis ekiplerince yakalandı.",
-   "url": "https://www.ntv.com.tr/turkiye/video-penseyle-kapi-kilidini-kirip-eve-girdi-kendi-evim-zannettim-dedi-1747120",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T09:58+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail'in Gazze'ye düzenlediği saldırılarda biri çocuk 3 Filistinli hayatını kaybetti",
-   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ndeki Gazze ve Han Yunus kentlerine düzenlediği saldırılarda biri çocuk 3 Filistinli yaşamını yitirdi.",
-   "url": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-saldirilarda-biri-cocuk-3-filistinli-hayatini-kaybetti/4094118",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:58+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Rusya: Ukrayna'da 4 kuru yük gemisi ile lojistik merkezlerini vurduk",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa bölgesinde 4 kuru yük gemisi ile Hmelnitski ve Volın bölgelerindeki lojistik merkezlerini insansız hava araçlarıyla (İHA) vurduklarını bildirdi.",
-   "url": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-4-kuru-yuk-gemisi-ile-lojistik-merkezlerini-vurduk/4094115",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:54+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "Flo Mağazacılık'tan halka arz başvurusu",
-   "ozet": "Flo Mağazacılık 19 Ekim tarihinde halka arz amacıyla izahname onayı için Sermaye Piyasası Kurulu'na başvurdu.",
-   "url": "https://www.bloomberght.com/flo-magazacilik-tan-halka-arz-basvurusu-3791874",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:54+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İngiltere'de işsizlikte ılımlı düşüş",
-   "ozet": "İngiltere'de işsizlik Haziran-Ağustos döneminde yıllık ve çeyreklik bazda 0,1 puan düşüşle yüzde 4,7'ye geriledi.",
-   "url": "https://www.bloomberght.com/ingiltere-de-issizlikte-ilimli-dusus-3791873",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:53+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz'dan sermaye piyasalarına ilişkin açıklama",
-   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz, fon piyasalarının belirli bir bölümünde yaşanan sorunlarla ilgili idari ve adli tedbirlerin kararlılıkla ve eş güdüm içinde hayata geçirildiğini belirtti.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-sermaye-piyasalarina-iliskin-aciklama/4094109",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:51+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Galatasaray, Şampiyonlar Ligi'nde yarın Fransa ekibi Lille ile deplasmanda karşılaşacak",
-   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransa ekibi Lille ile karşılaşacak.",
-   "url": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-fransa-ekibi-lille-ile-deplasmanda-karsilasacak/4094084",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-20T09:33+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "WSJ: ABD, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadı",
-   "ozet": "ABD Savunma Bakanı Pete Hegseth'in Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddia edildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/wsj-abd-ukraynaya-patriot-hava-savunma-sistemlerinin-sevkiyatini-henuz-onaylamadi/4094080",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Dolar/TL'de son durum ne? 20 Ekim 2026 Euro ve döviz fiyatları…",
-   "ozet": "Serbest piyasada dolar 49.5777 liradan güne başladı. Euro ise 55.7204 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak e",
-   "url": "https://www.bloomberght.com/dolartlde-son-durum-ne-20-ekim-2026-euro-ve-doviz-fiyatlari-pkh2-3791870",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:30+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Arnavutluk'ta eylemler büyüdü. Başbakan istifayı reddetti",
-   "ozet": "Arnavutluk'ta eğitim koşulları, yolsuzluk iddiaları ve Jared Kushner bağlantılı kıyı projesine karşı başlayan öğrenci eylemleri altıncı gününde şiddetli çatışmalara sahne oldu.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-arnavutlukta-eylemler-buyudu-basbakan-istifayi-reddetti-1747109",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:24+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fransa'daki sokak çatışmaları İngiltere'ye sıçrıyor. Gruplar sokağa iniyor",
-   "ozet": "Fransa'da yarım milyondan fazla kişinin katıldığı, 2 bin 400 kişinin gözaltına alındığı sokak eylemleri İngiltere'ye taşınıyor.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-fransadaki-sokak-catismalari-ingiltereye-sicriyor-gruplar-sokaga-iniyor-1747113",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:23+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Alman Büyükelçiliği'nin ihbarı harekete geçirdi. DAEŞ operasyonunda 14 kişi yakalandı",
-   "ozet": "DAEŞ'in finansmanına yönelik soruşturma kapsamında, Suriye’deki kamplarda tutulan örgüt üyelerinin serbest bırakılması için yurt dışında para toplayan 14 şüpheli gözaltına alındı.",
-   "url": "https://www.ntv.com.tr/turkiye/ankara-merkezli-daes-operasyonunda-14-gozalti-1747092",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T09:21+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Goldman Sachs, Sabancı'da payını artırdı",
-   "ozet": "Goldman Sachs Sabancı Holding paylarında yeni alım gerçekleştirdi.",
-   "url": "https://www.bloomberght.com/goldman-sachs-sabanci-da-payini-artirdi-3791869",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:20+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cevdet Yılmaz: Sermaye piyasalarımız daha güçlü bir şekilde yoluna devam edecektir",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Sermaye piyasaları kalkınma sürecimizde son derece önemli ve değerlidir. Belirli fonlarda son dönemde ortaya çıkan sorunların aşılması ile sermaye piyasalarımız daha güçlü bir şekilde yoluna devam ed",
-   "url": "https://www.bloomberght.com/cevdet-yilmaz-sermaye-piyasalarimiz-daha-guclu-bir-sekilde-yoluna-devam-edecektir-3791868",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:20+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Küresel piyasalarda dipten alım trendi",
-   "ozet": "Yapay zeka endişeleri teknoloji hisselerini baskılarken gözler kritik bilançolara çevrildi.",
-   "url": "https://www.bloomberght.com/kuresel-piyasalarda-dipten-alim-trendi-3791860",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:13+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "ABD Savunma Bakanı Hegseth'in İsrail'i ziyaret ederek Netanyahu ile görüştüğü belirtildi",
-   "ozet": "İran'a yönelik ABD-İsrail saldırılarının tekrar başlama ihtimalinin gündemde olduğu bir sırada ABD Savunma Bakanı Pete Hegseth'in İsrail'i ziyaret ederek Başbakan Binyamin Netanyahu ile bir araya geldiği belirtildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegsethin-israili-ziyaret-ederek-netanyahu-ile-gorustugu-belirtildi/4094059",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:11+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Sarıgüllere kara para aklama tutuklaması | Soruşturma nasıl başladı, neler biliniyor?",
-   "ozet": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül, gazeteci Murat Ağırel dahil 15 şüpheli tutuklandı. Emir Sarıgül'ün işlemleri ise sürüyor.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-sarigullere-kara-para-aklama-tutuklamasi-sorusturma-nasil-basladi-neler-biliniyor-1747107",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-20T09:10+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "ABD Başkan Yardımcısı Vance, Netanyahu'nun yeniden seçilmesine destek vermekten kaçındı",
-   "ozet": "ABD Başkan Yardımcısı Vance, ABD Başkanı Donald Trump'ın İsrail Başbakanı Binyamin Netanyahu'nun yeniden seçilmesini desteklemesinin ardından İsrail'deki seçimlere müdahil olmayacağını belirterek, Netanyahu'ya destek vermekten kaçındı.",
-   "url": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-netanyahunun-yeniden-secilmesine-destek-vermekten-kacindi/4094057",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:09+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Uydu görüntülerinde Kim Jong Un'un havuzlu ve kaydıraklı lüks yatı",
-   "ozet": "Kuzey Kore'nin Wonsan kıyılarında, 2026 Temmuz ayından Ekim ortasına kadar kaydedilen uydu görüntülerinde 80 metrelik lüks bir deniz aracı defalarca yer aldı.",
-   "url": "https://www.bbc.com/turkce/articles/c5pvgkw482xro?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T09:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İstanbul'da kentsel dönüşüm için kritik düzenleme uzatıldı",
-   "ozet": "Resmi Gazete'de yayımlanan karara göre, İstanbul'da yürütülen kentsel dönüşüm uygulamaları kapsamında hak sahiplerine sağlanan yapım yardımına ilişkin başvuru ve uygulama süresi 31 Aralık 2027 tarihine kadar uzatıldı.",
-   "url": "https://www.bloomberght.com/istanbul-da-kentsel-donusum-icin-kritik-duzenleme-uzatildi-3791859",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:03+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Küresel piyasalar jeopolitik risklerin etkisiyle negatif seyrediyor",
-   "ozet": "Küresel piyasalarda, ABD ile İran arasındaki çatışmaların yarattığı​​​​​​​ tedirginlikler risk iştahını törpülerken, bilanço sezonunda önemli şirketlerin finansal sonuçları öncesinde negatif bir seyir izleniyor.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-jeopolitik-risklerin-etkisiyle-negatif-seyrediyor/4094049",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-20T09:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Japonya'daki siber saldırılarda Çin menşeli yapay zeka aracı Artex kullanılmış",
-   "ozet": "Japonya'da onlarca işletmeye yönelik düzenlenen siber saldırıların, Çin menşeli yapay zeka aracı Artex kullanılarak yapıldığı anlaşıldı.",
-   "url": "https://www.ntv.com.tr/dunya/japonyadaki-siber-saldirilarda-cin-menseli-yapay-zeka-araci-artex-kullanilmis-1747100",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T08:56+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Pasifik'teki ada ülkesi Vanuatu açıklarında 6,3 büyüklüğünde deprem",
-   "ozet": "Pasifik'teki ada ülkesi Vanuatu açıklarında 6,3 büyüklüğünde deprem meydana geldi.",
-   "url": "https://www.aa.com.tr/tr/dunya/pasifikteki-ada-ulkesi-vanuatu-aciklarinda-6-3-buyuklugunde-deprem/4094043",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-20T08:55+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "JPMorgan'dan ABD tahvilleri tavsiyesi",
-   "ozet": "JPMorgan stratejistleri, ABD Hazinesi'nin 4 Kasım'da açıklayacağı üç aylık borçlanma planı öncesinde 10 yıllık tahvillerin daha uzun vadeli tahvillere göre daha iyi performans göstereceği bir pozisyon önerdi.",
-   "url": "https://www.bloomberght.com/jpmorgandan-abd-tahvilleri-tavsiyesi-3791855",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-20T08:44+03:00",
    "sektor": false
   }
  ],
