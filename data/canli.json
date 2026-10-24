@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24T01:36+03:00",
+ "guncelleme": "2026-10-24T04:05+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -33,15 +33,15 @@
   },
   {
    "ad": "Bitcoin",
-   "deger": "81.104 $",
-   "degisim": "−%0,23",
+   "deger": "80.585 $",
+   "degisim": "−%0,93",
    "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.384 $",
-   "degisim": "+%0,06",
-   "yon": "up"
+   "deger": "2.374 $",
+   "degisim": "−%0,67",
+   "yon": "down"
   }
  ],
  "sonDakika": [
@@ -51,12 +51,30 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-ekim-2026-1747695",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-24T01:30+03:00",
+   "zaman": "2026-10-24T04:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Moody's Fransa'ya yönelik periyodik incelemesini tamamladı",
+   "ozet": "Uluslararası kredi derecelendirme kuruluşu Moody's, Fransa'nın kredi notlarına yönelik periyodik incelemesini tamamladığını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/moodys-fransaya-yonelik-periyodik-incelemesini-tamamladi/4099151",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-24T02:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+   "ozet": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi/4099149",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-24T02:18+03:00",
    "sektor": false
   },
   {
    "baslik": "İsrail ordusu, Batı Şeria'nın El Halil şehrine \"geniş çaplı askeri operasyon\" başlattığını duyurdu",
-   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan ve çatışmaların yaşandığı El Halil kentine yönelik \"geniş çaplı askeri operasyon\" başlattığını açıkladı.",
+   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan ve çatışmaların yaşandığı El Halil kentine \"geniş çaplı askeri operasyon\" başlattığını açıkladı.",
    "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-serianin-el-halil-sehrine-genis-capli-askeri-operasyon-baslattigini-duyurdu/4099141",
    "kaynak": "AA",
    "kategori": "gundem",
@@ -199,7 +217,7 @@
    "sektor": true
   },
   {
-   "baslik": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
+   "baslik": "Trump: İran'a yeni bir askeri operasyon olabilir",
    "ozet": "ABD Başkanı Donald Trump, Washington'un İran'a karşı yeni bir askeri harekat düzenleyebileceğini söyledi.",
    "url": "https://www.bbc.com/turkce/articles/cm3el0p0j8yjo?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
@@ -379,7 +397,7 @@
    "sektor": false
   },
   {
-   "baslik": "Batı Şeria'daki saldırıda iki İsrail askeri öldü, Netanyahu'dan abluka kararı",
+   "baslik": "İsrail ordusu iki askerin öldürülmesi sonrası El Halil'de yıkıma başladı",
    "ozet": "İsrail işgali altındaki Batı Şeria'da Cuma günü bir kontrol noktasında düzenlenen silahlı saldırıda iki İsrail askeri öldürüldü. İsrail ordusu saldırıda üç İsraillinin de yaralandığını duyurdu",
    "url": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
@@ -536,7 +554,7 @@
    "ozet": "ABD'de 3 Kasım’da yapılacak ara seçimlerde Demokratların Kongre'de Senato veya Temsilciler Meclisinde çoğunluğu elde etmesi halinde, ABD'li milyarder iş insanı Elon Musk ve şirketleri hakkında soruşturma başlatmayı planladığı bildirildi.",
    "url": "https://www.aa.com.tr/tr/dunya/abdde-demokratlarin-ara-secimlerden-sonra-musk-hakkinda-sorusturma-acacagi-one-suruldu/4098906",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-23T19:41+03:00",
    "sektor": false
   },
@@ -563,7 +581,7 @@
    "ozet": "Yunanistan’da Batı Nil virüsü kaynaklı can kayıpları, ekimde de devam ediyor.",
    "url": "https://www.aa.com.tr/tr/dunya/yunanistan-da-bati-nil-virusu-kaynakli-olumler-devam-ediyor/4098874",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-23T19:10+03:00",
    "sektor": false
   },
@@ -1360,15 +1378,6 @@
    "sektor": false
   },
   {
-   "baslik": "ASELSAN'dan 442,5 milyon dolarlık ihracat sözleşmesi",
-   "ozet": "ASELSAN, uluslararası bir müşterisiyle 442,5 milyon dolarlık ihracat sözleşmesi imzaladı.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/aselsandan-442-5-milyon-dolarlik-ihracat-sozlesmesi/4098227",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-23T11:40+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Alnus Yatırım bono ödemesinde temerrüde düştü",
    "ozet": "Alnus Yatırım, 200 milyon liralık bonosunun kupon ödemesini gerçekleştiremedi.",
    "url": "https://www.bloomberght.com/alnus-yatirim-bono-odemesinde-temerrude-dustu-3792394",
@@ -1385,15 +1394,6 @@
    "kategori": "ekonomi",
    "zaman": "2026-10-23T11:25+03:00",
    "sektor": true
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan ve Bakan Fidan'dan önemli mesajlar. \"İstanbul diplomasinin merkezi oldu\"",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Dışişleri Bakanı Hakan Fidan, 9. İstanbul Arabuluculuk Konferansı'nın açılışında önemli mesajlar verdi.",
-   "url": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-ve-bakan-fidandan-onemli-mesajlar-istanbul-diplomasinin-merkezi-oldu-1747596",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-23T11:21+03:00",
-   "sektor": false
   }
  ],
  "kaynaklar": [
