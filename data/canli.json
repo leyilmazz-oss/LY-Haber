@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-25T03:30+03:00",
+ "guncelleme": "2026-10-25T08:15+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -22,25 +22,25 @@
   {
    "ad": "Gram altın",
    "deger": "6.403 ₺",
-   "degisim": "−%3,66",
+   "degisim": "−%3,25",
    "yon": "down"
   },
   {
    "ad": "Brent",
    "deger": "111,70 $",
-   "degisim": "+%1,96",
+   "degisim": "+%2,67",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "80.791 $",
-   "degisim": "+%0,09",
+   "deger": "80.828 $",
+   "degisim": "+%0,07",
    "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.356 $",
-   "degisim": "−%0,73",
+   "deger": "2.366 $",
+   "degisim": "−%0,54",
    "yon": "down"
   }
  ],
@@ -51,7 +51,34 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-25T03:30+03:00",
+   "zaman": "2026-10-25T08:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Pasifik'te art arda depremler: 6.1, 6.5",
+   "ozet": "Pasifik Ateş Çemberi'ndeki ada ülkesi Vanuatu dünkü 7.2 büyüklüğündeki depremin ardından 6.1, Japonya ise 6.5'le sarsıldı.",
+   "url": "https://www.ntv.com.tr/dunya/pasifikte-art-arda-depremler-61-65-1747828",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-25T07:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bitcoin bugünkü fiyatı: BTC, Fed toplantısı öncesi 80.800 dolara yükseldi",
+   "ozet": "",
+   "url": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-bugunku-fiyat-btc-fed-toplants-oncesi-80800-dolara-yukseldi-4118500",
+   "kaynak": "Investing.com",
+   "kategori": "kripto",
+   "zaman": "2026-10-25T07:54+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Avrupa'da sokaklar hareketli. Fransa, İspanya ve İtalya'da protestolara polis müdahalesi",
+   "ozet": "Fransa'da yeniden başlayan protestolarda yaklaşık bin kişinin gözaltına alındı. Sadece Fransa değil Avrupa'nın diğer başkentlerinde de sokaklar hareketli.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-avrupada-sokaklar-hareketli-fransa-ispanya-ve-italyada-protestolara-polis-mudahalesi-1747824",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-25T03:48+03:00",
    "sektor": false
   },
   {
@@ -79,15 +106,6 @@
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-25T02:48+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Avrupa'da sokaklar hareketli. Fransa, İspanya ve İtalya'da protestolara polis müdahalesi",
-   "ozet": "Fransa'da yeniden başlayan protestolarda yaklaşık bin kişinin gözaltına alındı. Sadece Fransa değil Avrupa'nın diğer başkentlerinde de sokaklar hareketli.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-avrupada-sokaklar-hareketli-fransa-ispanya-ve-italyada-protestolara-polis-mudahalesi-1747824",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T01:35+03:00",
    "sektor": false
   },
   {
@@ -1243,15 +1261,6 @@
    "sektor": false
   },
   {
-   "baslik": "Rubio'dan Kübalılara çağrı. \"CIA ile işbirliği yapın\"",
-   "ozet": "Küba'yı sık sık \"operasyon\" yapmakla tehdit eden Donald Trump'ın ardından, ABD Dışişleri Bakanı Marco Rubio da Kübalılara seslendi: \"CIA ile gizli işbirliği fırsatını değerlendirin.”",
-   "url": "https://www.ntv.com.tr/dunya/rubiodan-kubalilara-cagri-cia-ile-isbirligi-yapin-1747705",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-24T06:41+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
    "ozet": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi/4099149",
@@ -1384,15 +1393,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-23T20:35+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Nvidia CEO'su Huang: Kazakistan küresel yapay zeka merkezi olabilir",
-   "ozet": "NVIDIA CEO'su Jensen Huang, Kazakistan'ın enerji kaynakları ve nitelikli insan gücü sayesinde küresel bir fiziksel yapay zeka merkezi olabileceğini belirtti. Huang, ülkenin enerji kaynaklarını yapay zeka kapasitesine dönüştürerek bu alanda ",
-   "url": "https://www.bloomberght.com/nvidia-ceo-su-huang-kazakistan-kuresel-yapay-zeka-merkezi-olabilir-3792444",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-23T20:03+03:00",
    "sektor": false
   }
  ],
