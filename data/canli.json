@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-26T02:11+03:00",
+ "guncelleme": "2026-10-26T04:39+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -9,38 +9,38 @@
   },
   {
    "ad": "Dolar/TL",
-   "deger": "49,75",
-   "degisim": "+%0,47",
+   "deger": "49,76",
+   "degisim": "+%0,38",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,74",
-   "degisim": "+%0,30",
+   "deger": "55,85",
+   "degisim": "+%0,45",
    "yon": "up"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.424 ₺",
-   "degisim": "−%3,06",
+   "deger": "6.400 ₺",
+   "degisim": "−%3,42",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "110,52 $",
-   "degisim": "+%1,59",
+   "deger": "110,16 $",
+   "degisim": "+%1,26",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "80.306 $",
-   "degisim": "−%0,32",
+   "deger": "79.793 $",
+   "degisim": "−%1,21",
    "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.335 $",
-   "degisim": "−%0,36",
+   "deger": "2.314 $",
+   "degisim": "−%1,86",
    "yon": "down"
   }
  ],
@@ -51,7 +51,61 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-ekim-2026-1747961",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-26T02:00+03:00",
+   "zaman": "2026-10-26T04:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Brezilya'da Lula 4'üncü kez başkan",
+   "ozet": "Brezilya'da devlet başkanlığı seçiminin ikinci turunu resmi olmayan sonuçlara göre mevcut solcu başkan Lula da Silva kazandı. Lula oyların 51.77'sini, sağcı rakibi senatör Bolsonaro 48.23'ünü aldı.",
+   "url": "https://www.ntv.com.tr/dunya/brezilyada-secim-lula-one-gecti-kutlamalar-basladi-1747964",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-26T04:29+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Mumyalar ve Viking geçitleri: Buzlar eriyince ortaya çıkan sırlar",
+   "ozet": "İklim değişikliği nedeniyle dünyada buzların erime hızı artıyor ve bu durum, binlerce yıldır mükemmel bir şekilde korunmuş antik eserleri gün yüzüne çıkarıyor.",
+   "url": "https://www.bbc.com/turkce/articles/c6j9kzj1478eo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-26T04:01+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Brezilya'da Lula yeniden devlet başkanı seçildi",
+   "ozet": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,75'ini alarak yeniden devlet başkanı seçildiğini ilan etti.",
+   "url": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-26T04:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
+   "ozet": "ABD Başkanı Donald Trump, iyi ilişkilere sahip olduklarını belirttiği Libya'nın \"artık yasa dışı göç için kullanılan bir koridor olmaması gerektiğini\" belirtti.",
+   "url": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-26T02:51+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD Başkanı Trump, İsrail Başbakanı Netanyahu'ya seçim desteğini yineledi",
+   "ozet": "ABD Başkanı Donald Trump, İsrail'de yapılacak seçimler öncesinde Başbakan Binyamin Netanyahu'ya desteğini yineledi.",
+   "url": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-israil-basbakani-netanyahuya-secim-destegini-yineledi/4100523",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-26T02:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
+   "ozet": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki Vucic, ilk sonuçların gel",
+   "url": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-26T02:44+03:00",
    "sektor": false
   },
   {
@@ -97,15 +151,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-26T00:52+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
-   "ozet": "İki yıllık öğrenci protestolarının ardından Sırplar, 25 Ekim Pazar günü sandığa gitti. Sırbistan'ın geleceğine dair bir referandum olarak nitelendirilen seçime katılımın rekor düzeyde olduğu bildirildi. İktidardaki Vucic, ilk sonuçların gel",
-   "url": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T00:43+03:00",
    "sektor": false
   },
   {
@@ -307,9 +352,9 @@
    "sektor": false
   },
   {
-   "baslik": "Bulgaristan'da sandık çıkış anketlerine göre mevcut cumhurbaşkanı seçimi önde götürüyor",
-   "ozet": "Bulgaristan'da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre mevcut Cumhurbaşkanı İliyana Yotova ilk sırada yer alırken, seçimin ikinci tura kalması bekleniyor.",
-   "url": "https://www.aa.com.tr/tr/dunya/bulgaristanda-sandik-cikis-anketlerine-gore-mevcut-cumhurbaskani-secimi-onde-goturuyor/4100407",
+   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimi ikinci tura kaldı",
+   "ozet": "Bulgaristan'da düzenlenen cumhurbaşkanlığı seçimi, katılımın yüzde 50'nin altında kalması ve hiçbir aday çiftinin yüzde 50'nin üzerinde oy alamaması nedeniyle ikinci tura kaldı.​​​​​​​",
+   "url": "https://www.aa.com.tr/tr/dunya/bulgaristanda-cumhurbaskanligi-secimi-ikinci-tura-kaldi/4100407",
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-25T21:29+03:00",
@@ -464,7 +509,7 @@
    "ozet": "Vatikan Devlet Başkanı Papa 14. Leo, Yemen’in gıda, su ve tıbbi yardım ihtiyacı bulunan Taiz kentindeki vahim insani durumu endişeyle takip ettiğini belirterek, Yemen halkının ve bölgedeki tüm halkların barış içinde yaşaması çağrısında bulu",
    "url": "https://www.aa.com.tr/tr/dunya/papa-14-leo-yemenin-taiz-kentinde-aclik-cekenlerin-durumundan-endise-duyuyor/4100330",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-25T18:08+03:00",
    "sektor": false
   },
@@ -500,7 +545,7 @@
    "ozet": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
    "url": "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-25T17:51+03:00",
    "sektor": false
   },
@@ -703,9 +748,9 @@
    "sektor": false
   },
   {
-   "baslik": "Brezilya'da halk, devlet başkanı seçiminin ikinci turu için sandık başına gitti",
-   "ozet": "Brezilya'da devlet başkanı seçiminde hiçbir adayın yüzde 50'yi aşamaması nedeniyle düzenlenen ikinci turda oy verme işlemi başladı.",
-   "url": "https://www.aa.com.tr/tr/dunya/brezilyada-halk-devlet-baskani-seciminin-ikinci-turu-icin-sandik-basina-gitti/4100217",
+   "baslik": "Brezilya'da seçimin ikinci turunu resmi olmayan sonuçlara göre Lula da Silva kazandı",
+   "ozet": "Brezilya'da devlet başkanlığı seçiminin ikinci turunu resmi olmayan sonuçlara göre Luiz Inacio Lula da Silva kazandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/brezilyada-secimin-ikinci-turunu-resmi-olmayan-sonuclara-gore-lula-da-silva-kazandi/4100217",
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-10-25T15:02+03:00",
@@ -784,39 +829,12 @@
    "sektor": false
   },
   {
-   "baslik": "İran Meclis Başkanı Kalibaf: Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız",
-   "ozet": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, meclis oturumunda yaptığı konuşmada, \"Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-dusmana-hayal-edilemeyecek-derecede-karsilik-vermeye-haziriz/4100161",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T13:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Brezilya'da seçmenler Lula ile Jair Bolsonaro'nun oğlu arasında tercih yapacak",
-   "ozet": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gidiyor. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında tercih yapacak.",
-   "url": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T13:44+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Emtia piyasasında sert dalgalanma: Altın ve gümüş geriledi, petrol ve doğalgaz yükseldi",
    "ozet": "Emtia piyasası, ABD Merkez Bankası'nın (Fed) faizleri daha uzun süre yüksek tutabileceğine yönelik öngörüler, jeopolitik riskler ve arz kaynaklı faktörlerle sert dalgalanmaların olduğu bir haftayı geride bıraktı. Orta Doğu'da tırmanan jeopo",
    "url": "https://www.bloomberght.com/emtia-piyasasinda-bu-hafta-dalga-boyu-yukseldi-3792470",
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-25T13:20+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Libya Başbakanı Dibeybe'den ABD Başkanı Trump'ın Libya hakkındaki tahkir edici sözlerine cevap",
-   "ozet": "Libya Başbakanı Dibeybe, \"ABD ile ilişkilerimizi karşılıklı saygı temelinde sürdürüyor, Libya'nın ve halkının onurunun seçim tartışmalarının konusu olmasını asla kabul etmiyoruz.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/dunya/libya-basbakani-dibeybeden-abd-baskani-trumpin-libya-hakkindaki-tahkir-edici-sozlerine-cevap/4100143",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T13:17+03:00",
    "sektor": false
   },
   {
@@ -853,15 +871,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-10-25T12:01+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Winnie-the-Pooh'ya ilham veren ayının öyküsü",
-   "ozet": "1914'te Kanadalı bir asker tarafından İngiltere'nin Wiltshire bölgesine getirilen Winnie adlı bir ayı, yazar Alan Alexander Milne'e ilham kaynağı olmuştu.",
-   "url": "https://www.bbc.com/turkce/articles/c6wy4rxlp0wpo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T11:53+03:00",
    "sektor": false
   },
   {
@@ -1144,15 +1153,6 @@
    "sektor": false
   },
   {
-   "baslik": "Pasifik'te art arda depremler: 6.1, 6.5",
-   "ozet": "Pasifik Ateş Çemberi'ndeki ada ülkesi Vanuatu dünkü 7.2 büyüklüğündeki depremin ardından 6.1, Japonya ise 6.5'le sarsıldı.",
-   "url": "https://www.ntv.com.tr/dunya/pasifikte-art-arda-depremler-61-65-1747828",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-25T07:58+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Bitcoin hafta sonu satışının ardından 80.400 dolar civarında dengelendi",
    "ozet": "",
    "url": "https://tr.investing.com/news/cryptocurrency-news/bitcoin-bugunku-fiyat-btc-fed-toplants-oncesi-80800-dolara-yukseldi-4118500",
@@ -1231,87 +1231,6 @@
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-10-24T16:56+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "FIFA Başkanı Infantino, dünya futbolunun desteğini aldığına inanıyor",
-   "ozet": "UEFA'nın talep ettiği belgeleri ne zaman sunacakları sorusuna net bir yanıt vermeyen Infantino, belgelerin yasal bir sürece tabi olduğunu ve bunun üzerinde çalıştıklarını ifade etti.",
-   "url": "https://www.aa.com.tr/tr/spor/fifa-baskani-infantino-dunya-futbolunun-destegini-aldigina-inaniyor/4099581",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-24T16:06+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Bolat: 2029 yılı için hedefimiz, mal ve hizmet ihracatımızı 450 milyar dolara ulaştırmak",
-   "ozet": "Ticaret Bakanı Ömer Bolat, 2026 yılının eylül ayı itibarıyla ihracatçılara 49,6 milyar dolarlık destek sağladıklarını belirterek, 2029 yılı için hedeflerinin, mal ve hizmet ihracatını 450 milyar dolara ulaştırmak olduğunu ifade etti.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-2029-yili-icin-hedefimiz-mal-ve-hizmet-ihracatimizi-450-milyar-dolara-ulastirmak/4099579",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-24T16:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Hangi yatırım aracı ne kazandırdı?",
-   "ozet": "Bu hafta yatırım araçlarından borsa ve altın değer kaybederken dolar değer kazandı.",
-   "url": "https://www.bloomberght.com/hangi-yatirim-araci-ne-kazandirdi-3792464",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-24T15:09+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Alarko Carrier, Hatay'da kırsal mahalledeki okula çevre dostu iklimlendirme sistemi kurdu",
-   "ozet": "Alarko Carrier, Hatay'ın Altınözü ilçesinin kırsal mahallesindeki bir okula güneş panelleriyle iklimlendirme sağlayan çevre dostu sistem kurdu.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/alarko-carrier-hatayda-kirsal-mahalledeki-okula-cevre-dostu-iklimlendirme-sistemi-kurdu/4099462",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-24T15:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "\"Made in Europe\" stratejisi AB'yi otomotivde nereye götürür?",
-   "ozet": "Avrupa, ancak Türkiye gibi büyük bir otomotiv üretim üssünü sürecin içine dahil ederek rekabette elini güçlü tutabilir.",
-   "url": "https://www.bloomberght.com/made-in-europe-stratejisi-abyi-otomotivde-nereye-goturur-3792463",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-24T15:01+03:00",
-   "sektor": true
-  },
-  {
-   "baslik": "İstanbul dahil 10 şehirde 'Sansüre Hayır, Habere Özgürlük' yürüyüşleri",
-   "ozet": "İstanbul, Ankara, İzmir ve Diyarbakır dahil 10 şehirde basın özgürlüğü yürüşleri yapılıyor. Eş zamanlı olarak Milliyetçi Hareket Partisi Genel Başkan Yardımcısı Feti Yıldız \"yalan ve yanıltıcı haberlerler dünyanın her yerinde suçtur\" mesajl",
-   "url": "https://www.bbc.com/turkce/articles/cw77p30rplj3o?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-24T14:42+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kasımpaşa, deplasmandan 3 puanla döndü",
-   "ozet": "Kasımpaşa, Trendyol Süper Lig'in 9. haftasında konuk olduğu Eyüpspor'u 1-0 yendi.",
-   "url": "https://www.aa.com.tr/tr/spor/kasimpasa-deplasmandan-3-puanla-dondu/4099440",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-24T14:38+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Gençlik ve Spor Bakan Yardımcısı Hamza Yerlikaya, Trabzonspor Kulübünü ziyaret etti",
-   "ozet": "Gençlik ve Spor Bakan Yardımcısı Hamza Yerlikaya, Trabzonspor Kulübüne ziyarette bulundu.",
-   "url": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakan-yardimcisi-hamza-yerlikaya-trabzonspor-kulubunu-ziyaret-etti/4099427",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-24T14:22+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Beşiktaşlı futbolcu Ümit Akdağ'ın sağ elinde kırık tespit edildi",
-   "ozet": "Beşiktaş, savunma oyuncusu Ümit Akdağ'ın sağ elinde kırık tespit edildiğini duyurdu.",
-   "url": "https://www.aa.com.tr/tr/spor/besiktasli-futbolcu-umit-akdagin-sag-elinde-kirik-tespit-edildi/4099419",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-24T14:14+03:00",
    "sektor": false
   }
  ],
