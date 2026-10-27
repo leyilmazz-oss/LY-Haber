@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-27T03:23+03:00",
+ "guncelleme": "2026-10-27T08:33+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -15,43 +15,52 @@
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,64",
-   "degisim": "−%0,09",
+   "deger": "55,67",
+   "degisim": "−%0,04",
    "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.452 ₺",
-   "degisim": "−%2,82",
+   "deger": "6.432 ₺",
+   "degisim": "−%0,99",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "110,13 $",
-   "degisim": "+%1,20",
-   "yon": "up"
+   "deger": "109,73 $",
+   "degisim": "−%3,04",
+   "yon": "down"
   },
   {
    "ad": "Bitcoin",
-   "deger": "80.124 $",
-   "degisim": "+%0,12",
-   "yon": "up"
+   "deger": "79.644 $",
+   "degisim": "−%0,54",
+   "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.325 $",
-   "degisim": "−%0,12",
+   "deger": "2.306 $",
+   "degisim": "−%0,62",
    "yon": "down"
   }
  ],
  "sonDakika": [
   {
-   "baslik": "İstanbul için sel alarmı. Sabah saatlerine dikkat",
-   "ozet": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Özellikle sabah saat 05.00 ile 10.00 arası şiddetli sağanak bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+   "baslik": "30 ilde Daltonlar'a operasyon. 30'u çocuk 85 şüpheli gözaltında",
+   "ozet": "İstanbul merkezli 30 ilde Daltonlar suç örgütüne yönelik operasyon düzenlendi. Operasyonlarda 30'u suça sürüklenen çocuk olmak üzere 85 şüpheli gözaltına alındı.",
+   "url": "https://www.ntv.com.tr/turkiye/30-ilde-daltonlar-suc-orgutune-operasyon-85-supheli-gozaltina-alindi-1748116",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-27T03:18+03:00",
+   "zaman": "2026-10-27T08:31+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bakırköy Belediyesi'ne operasyon. 68 şüpheli için gözaltı kararı",
+   "ozet": "Bakırköy Belediyesi’ne yönelik ihalelerde usulsüzlük yapıldığı iddiasıyla başlatılan soruşturmada 68 kişi hakkında gözaltı kararı verilirken 37 şüpheli gözaltına alındı.",
+   "url": "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesine-operasyon-68-supheli-icin-gozalti-karari-1748114",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-27T08:31+03:00",
    "sektor": false
   },
   {
@@ -60,7 +69,169 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-ekim-2026-1748093",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-27T03:00+03:00",
+   "zaman": "2026-10-27T08:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail'de seçmenler genel seçimler için sandık başında",
+   "ozet": "İsrail'de Netanyahu hükümetinin bölgede dört yıldır sürdürdüğü saldırıların ardından seçmenler, 1988'den bu yana ilk kez zamanında düzenlenen genel seçim için sandık başında.",
+   "url": "https://www.aa.com.tr/tr/dunya/israilde-secmenler-genel-secimler-icin-sandik-basinda/4101884",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T08:02+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İstanbul için sel alarmı. Beklenen yağış başladı",
+   "ozet": "İstanbul'da art arda gelen kuvvetli yağış uyarılarının ardından sağanak etkiliyor. Şiddetli sağanağın saat 10.00'a kadar sürmesi bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
+   "url": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-27T08:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bakırköy Belediyesine yönelik soruşturmada 68 şüpheliye gözaltı kararı",
+   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin başlatılan soruşturma kapsamında 68 şüpheli hakkında gözaltı kararı verildiğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-68-supheliye-gozalti-karari/4101880",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T07:43+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Japonya Merkez Bankası'nın faizleri sabit tutması bekleniyor",
+   "ozet": "Japonya Merkez Bankası'nın (BOJ), cuma günü sona erecek iki günlük toplantısında politika faizini yüzde 1,25 seviyesinde sabit tutması bekleniyor.",
+   "url": "https://www.bloomberght.com/japonya-merkez-bankasinin-faizleri-sabit-tutmasi-bekleniyor-3792620",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-27T06:39+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çin'de sanayi kârları Eylül'de en hızlı artışı kaydetti",
+   "ozet": "Çin'de büyük sanayi şirketlerinin kârları, yapay zeka bağlantılı üretimdeki büyümenin zayıf iç talebin etkisini dengelemesiyle eylülde hazirandan bu yana en hızlı artışını kaydetti.",
+   "url": "https://www.bloomberght.com/cinde-sanayi-krlari-eylul-de-en-hizli-artisi-kaydetti-3792619",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-27T06:37+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Petrol, barış umuduyla geriledi",
+   "ozet": "Petrol, ABD ve İsrail'in İran'a karşı yürüttüğü savaşın sona erebileceğine yönelik umutların arz endişelerini hafifletmesiyle salı günü geriledi.",
+   "url": "https://www.bloomberght.com/petrol-baris-umuduyla-geriledi-3792618",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-27T06:33+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "CREA: Hürmüz kaynaklı petrol şokunda en ağır yakıt faturasını ABD ödedi",
+   "ozet": "Enerji ve Temiz Hava Araştırma Merkezinin (CREA) analizi, Hürmüz Boğazı kaynaklı küresel petrol şokunun ABD'yi yakıt maliyetlerindeki artıştan en fazla etkilenen ülke haline getirdiğini ortaya koydu.",
+   "url": "https://www.bloomberght.com/crea-hurmuz-kaynakli-petrol-sokunda-en-agir-yakit-faturasini-abd-odedi-3792617",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-27T06:19+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Ekonomi ve siyaset gündemi- 27 Ekim 2026",
+   "ozet": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+   "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-27-ekim-2026-3792616",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-27T06:13+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bahçelievler'de inşaatın istinat duvarı yıkıldı. 2 bina tahliye edildi",
+   "ozet": "Bahçelievler'de temel kazısı yapılan inşaatın istinat duvarının yıkılması sonucu bitişiğindeki 2 bina tedbir amacıyla tahliye edildi.",
+   "url": "https://www.ntv.com.tr/turkiye/bahcelievlerde-insaatin-istinat-duvari-yikildi-2-bina-tahliye-edildi-1748110",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-27T05:35+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "ozet": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
+   "url": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-27T05:04+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail, hükümeti belirlemek için sandık başına gidiyor. İşte tüm ayrıntılar",
+   "ozet": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki hükümetin bölgede saldırılara imza attığı dört yıllık döneminin ardından, 1988'den bu yana ilk kez zamanında genel seçim yapılacak.",
+   "url": "https://www.ntv.com.tr/dunya/israil-hukumeti-belirlemek-icin-sandik-basina-gidiyor-iste-tum-ayrintilar-1748055",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T04:54+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
+   "ozet": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern Münih ve İngiliz mill",
+   "url": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T04:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+   "ozet": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında bulundu.",
+   "url": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T04:23+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Dünyanın en büyük elektrikli gemisi sefere başladı: 2.100 yolcu ve 225 araç taşıyor",
+   "ozet": "130 metre uzunluğundaki China Zorrilla, Arjantin ile Uruguay arasında ticari seferlerine başladı. Bataryalarla çalışan feribot, aynı anda 2.100 yolcu ve 225 araç taşıyabiliyor.",
+   "url": "https://www.ntv.com.tr/dunya/dunyanin-en-buyuk-elektrikli-gemisi-sefere-basladi-2100-yolcu-ve-225-arac-tasiyor-1748108",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T04:17+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+   "ozet": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+   "url": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T03:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+   "ozet": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyo",
+   "url": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T03:46+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+   "url": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-27T03:44+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
+   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füze ve 4 insansız hava aracının (İHA) hava savunma sistemleri tarafından imha edildiği bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-fuze-ile-4-iha-imha-edildi/4101863",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T03:37+03:00",
    "sektor": false
   },
   {
@@ -70,15 +241,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-27T02:27+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
-   "ozet": "Futbol dünyasının en prestijli ödüllerinden sayılan Ballon d'Or (Altın Top) 2026 ödül töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde ödülün sahibi Bayern Münih ve İngiliz mill",
-   "url": "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T02:20+03:00",
    "sektor": false
   },
   {
@@ -109,15 +271,6 @@
    "sektor": false
   },
   {
-   "baslik": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-   "ozet": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren ve 22 Ekim'de TBMM Genel Kurulu'nda yasalaşan teklif, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla birlikte birlikte yatırımları 1 milyon lira ve 1 milyo",
-   "url": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T01:33+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Fransa'da öğrencilerden daha iyi eğitim koşulları için eylemleri sürdürme çağrısı",
    "ozet": "Fransa'da hükümet eğitim için yeni destekler açıklarken, daha iyi eğitim koşulları isteyen lise ve üniversite öğrencileri eylemlere devam etme çağrısında bulundu.",
    "url": "https://www.aa.com.tr/tr/dunya/fransada-ogrencilerden-daha-iyi-egitim-kosullari-icin-eylemleri-surdurme-cagrisi/4101837",
@@ -133,15 +286,6 @@
    "kaynak": "NTV",
    "kategori": "dunya",
    "zaman": "2026-10-27T00:56+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "CREA: Hürmüz kaynaklı petrol şokunda en ağır yakıt faturasını ABD ödedi",
-   "ozet": "Enerji ve Temiz Hava Araştırma Merkezinin (CREA) analizi, Hürmüz Boğazı kaynaklı küresel petrol şokunun ABD'yi yakıt maliyetlerindeki artıştan en fazla etkilenen ülke haline getirdiğini ortaya koydu.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/crea-hurmuz-kaynakli-petrol-sokunda-en-agir-yakit-faturasini-abd-odedi/4101832",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T00:50+03:00",
    "sektor": false
   },
   {
@@ -518,7 +662,7 @@
    "ozet": "Vatikan Devlet Başkanı Papa 14. Leo'nun, 13 Ekim'de geçirdiği akciğer ameliyatının ardından iyileşme sürecinin yolunda gittiği için Uruguay, Arjantin ve Peru'yu kapsayan 6-17 Kasım'daki Güney Amerika seyahatine çıkabileceği bildirildi.",
    "url": "https://www.aa.com.tr/tr/dunya/vatikan-akciger-ameliyati-geciren-papanin-kasimda-guney-amerikaya-gidecegini-teyit-etti/4101619",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-26T19:58+03:00",
    "sektor": false
   },
@@ -559,29 +703,11 @@
    "sektor": false
   },
   {
-   "baslik": "İstanbul'da akşam saatlerinde trafik yoğunluğu yaşanıyor",
-   "ozet": "İstanbul'da haftanın ilk iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu arttı.",
-   "url": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yasaniyor/4101586",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-26T19:30+03:00",
-   "sektor": true
-  },
-  {
    "baslik": "Tutuklanan Milas Belediye Başkanı Fevzi Topuz görevden uzaklaştırıldı",
    "ozet": "İçişleri Bakanlığı, rüşvet ve resmi belgede sahtecilik suçlamalarıyla yürütülen soruşturma kapsamında tutuklanan CHP'li Milas Belediye Başkanı Fevzi Topuz'un görevden uzaklaştırıldığını açıkladı.",
    "url": "https://www.ntv.com.tr/turkiye/milas-belediye-baskani-fevzi-topuz-gorevden-uzaklastirildi-1748078",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-26T19:28+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kurtulmuş: 'Terörsüz Türkiye' sürecini bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım",
-   "ozet": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu süreci bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım. Bunun için de dillerimize, eylemlerimize, yaptığımız işlere özen göstermek zorundayız.\"",
-   "url": "https://www.aa.com.tr/tr/gundem/kurtulmus-terorsuz-turkiye-surecini-bozmak-icin-provokasyon-yapmak-isteyeceklere-karsi-mutlaka-dikkatli-olmamiz-lazim/4101584",
-   "kaynak": "AA",
-   "kategori": "gundem",
    "zaman": "2026-10-26T19:28+03:00",
    "sektor": false
   },
@@ -721,15 +847,6 @@
    "sektor": false
   },
   {
-   "baslik": "Mısır meclisi Suudi Arabistan'a destek için asker gönderme talebini onayladı",
-   "ozet": "Mısır Temsilciler Meclisi, Cumhurbaşkanı Abdülfettah Sisi'nin, Suudi Arabistan'a askeri destek sağlamak üzere gerekli eylem ve tedbirleri alma yetkisi verilmesi yönündeki talebini üçte iki çoğunlukla onayladı.",
-   "url": "https://www.bbc.com/turkce/articles/cmkgk32knr2xo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T17:09+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Audi'den Trump mitinginde 4 milyar dolarlık sürpriz. Çalışanlar ayaklandı",
    "ozet": "Audi CEO'su Gernot Doellner, Trump ile mitinge katılıp 4 milyar dolarlık fabrika duyurunca Almanya'da kuralları çiğnemekle suçlandı.",
    "url": "https://www.ntv.com.tr/dunya/galeri-audiden-trump-mitinginde-4-milyar-dolarlik-surpriz-calisanlar-ayaklandi-1748061",
@@ -754,15 +871,6 @@
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-10-26T17:01+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Mısır Meclisi, Cumhurbaşkanı Sisi'ye Suudi Arabistan'ın savunmasına destek için yetki verdi",
-   "ozet": "Mısır Meclisi, Cumhurbaşkanı Abdulfettah es-Sisi'ye, Riyad'ın talebi halinde Suudi Arabistan'ın savunmasına destek için yetki verdi.",
-   "url": "https://www.ntv.com.tr/turkiye/misir-meclisi-cumhurbaskani-sisiye-suudi-arabistanin-savunmasina-destek-icin-yetki-verdi-1748066",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-26T16:56+03:00",
    "sektor": false
   },
   {
@@ -838,24 +946,6 @@
    "sektor": false
   },
   {
-   "baslik": "Cumhurbaşkanı Erdoğan, Aziz Sancar'ı kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Nobel ödüllü bilim insanı Prof. Dr. Aziz Sancar'ı kabul etti.",
-   "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-aziz-sancari-kabul-etti-1748057",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-26T16:20+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail, hükümeti belirlemek için yarın sandık başına gidiyor. İşte tüm ayrıntılar",
-   "ozet": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki hükümetin bölgede saldırılara imza attığı dört yıllık döneminin ardından, 1988'den bu yana yarın ilk kez zamanında genel seçim yapılacak.",
-   "url": "https://www.ntv.com.tr/dunya/israil-hukumeti-belirlemek-icin-yarin-sandik-basina-gidiyor-iste-tum-ayrintilar-1748055",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T16:20+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Son 5 yılda Tofaş'a 1 milyar dolarlık yatırım yapıldı",
    "ozet": "Tofaş, 300 milyon dolarlık K9 projesinde seri üretime başladı. Koç Holding Yönetim Kurulu Başkanı Ömer Koç, son 5 yılda Tofaş'a yapılan yatırımın 1 milyar dolara ulaştığını, bunun yarısının Ar-Ge ve inovasyon çalışmalarına ayrıldığını belir",
    "url": "https://www.bloomberght.com/son-5-yilda-tofas-a-1-milyar-dolarlik-yatirim-yapildi-3792566",
@@ -871,15 +961,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-26T16:18+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail seçimlerine hangi tartışmalar damga vuruyor, seçmen ne diyor?",
-   "ozet": "Güvenliğe yönelik tehditler ile demokrasiye yönelik tehditler arasındaki gerilim, İsrailli seçmenlerin uzun süredir karşı karşıya kaldığı siyasi fay hatlarından biri. Bu ayrım, 7 Ekim saldırıları ve İsrail tarihinin en sağcı hükümetinin dör",
-   "url": "https://www.bbc.com/turkce/articles/cmly0zyp0p5lo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T16:17+03:00",
    "sektor": false
   },
   {
@@ -964,24 +1045,6 @@
    "sektor": false
   },
   {
-   "baslik": "35 ilde siber suç operasyonu. 75 tutuklama",
-   "ozet": "İçişleri Bakanlığı, 35 ilde düzenlenen siber suçlarla mücadele operasyonlarında yakalanan 275 şüpheliden 75'inin tutuklandığını açıkladı.",
-   "url": "https://www.ntv.com.tr/turkiye/35-ilde-siber-suc-operasyonu-75-tutuklama-1748053",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-26T15:33+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail'in Batı Şeria'da \"zeytini\" hedef alan saldırıları son beş yıldır her hasat sezonunda artarak sürüyor",
-   "ozet": "Batı Şeria'da zeytin hasadı döneminde İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin saldırıları son beş yılda artarken, bu yıl sezonun başlangıcı olan eylülden 25 Ekim'e kadar 482 saldırı kaydedildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/israilin-bati-seriada-zeytini-hedef-alan-saldirilari-son-bes-yildir-her-hasat-sezonunda-artarak-suruyor/4101253",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T15:30+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "ABD'den 96 saat içinde saldırı iddiası",
    "ozet": "Orta Doğu'daki ABD güçlerinin, Başkan Donald Trump'tan emir almalarının ardından 96 saat içinde İran'a karşı yeni ve potansiyel büyük saldırılar başlatmaya hazır olduğu iddia edildi.",
    "url": "https://www.bloomberght.com/abd-den-96-saat-icinde-saldiri-iddiasi-3792552",
@@ -1004,15 +1067,6 @@
    "ozet": "Geçen yıl temmuz ayında hayatını kaybeden heavy metalin efsane ismi Ozzy Osbourne'un eşi Sharon Osbourne, 43 yıllık hayat arkadaşının mezarını her gün ziyaret ettiğini söyledi.",
    "url": "https://www.ntv.com.tr/dunya/galeri-sharon-osbourne-ozzynin-mezarini-her-gun-ziyaret-ediyorum-1748048",
    "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-26T15:17+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail'de anketler seçim sonrası muhtemel üç senaryoya işaret ediyor",
-   "ozet": "İsrail'de yarın yapılacak seçimler öncesinde kamuoyu yoklamalarının gösterdiği sonuçlar, İsrail'in geleceğine ilişkin yaşanması muhtemel üç senaryoya işaret ediyor.",
-   "url": "https://www.aa.com.tr/tr/dunya/israilde-anketler-secim-sonrasi-muhtemel-uc-senaryoya-isaret-ediyor/4101240",
-   "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-10-26T15:17+03:00",
    "sektor": false
@@ -1339,60 +1393,6 @@
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-10-26T11:12+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ticari kredi büyümesinde yukarı yönlü ivmelenme",
-   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu ile Macrohub verilerine dayanan 13 haftalık yıllıklandırılmış kredi büyüme göstergelerine göre, ticari kredilerde Temmuz ayında başlayan yükseliş Ekim ayında da devam etti.",
-   "url": "https://www.bloomberght.com/ticari-kredi-buyumesinde-yukari-yonlu-ivmelenme-3792519",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-10-26T11:09+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Üç büyük merkez bankası enflasyon riskleri altında faiz kararı alacak",
-   "ozet": "ABD Merkez Bankası (Fed), Avrupa Merkez Bankası (ECB) ve Japonya Merkez Bankası (BoJ) enflasyon risklerinin gölgesinde bu hafta para politikası kararları alacak.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/uc-buyuk-merkez-bankasi-enflasyon-riskleri-altinda-faiz-karari-alacak/4100815",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-26T11:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kasım indirimleriyle aylık e-ticaret hacminin 600 milyar liraya ulaşması bekleniyor",
-   "ozet": "Kasım ayında düzenlenecek alışveriş kampanyalarıyla e-ticaret hacminin bu dönemde 600 milyar liraya ulaşması öngörülüyor.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/kasim-indirimleriyle-aylik-e-ticaret-hacminin-600-milyar-liraya-ulasmasi-bekleniyor/4100812",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-26T11:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "ABD'de enflasyon endişeleri artarken dikkatler Fed'in bu haftaki faiz kararına çevrildi",
-   "ozet": "ABD Merkez Bankasının (Fed), 27-28 Ekim'de düzenlenecek toplantısında faiz oranlarını sabit bırakacağı beklentisi ağırlık kazanırken, eylülde ivme kazanan enflasyon faiz artırımı ihtimalini masada tutuyor.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-26T11:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Elektrik dağıtım altyapısında gelecek 10 yılda en az 50 milyar dolarlık yatırım ihtiyacı öngörülüyor",
-   "ozet": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Başkanı Barış Erdeniz, Türkiye'de elektrik dağıtım altyapısında gelecek 10 yılda en az 50 milyar dolarlık yatırım ihtiyacı öngördüklerini belirtti.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-altyapisinda-gelecek-10-yilda-en-az-50-milyar-dolarlik-yatirim-ihtiyaci-ongoruluyor/4100811",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-10-26T11:06+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bursaspor, Süper Lig hedefine \"zirvede\" ilerliyor",
-   "ozet": "Süper Lig'de 2009-2010 sezonunda kazandığı şampiyonlukla adını tarihe yazdıran Anadolu'nun köklü kulübü Bursaspor, üst lige geri dönmek için mücadele ettiği 1. Lig'deki performansıyla dikkati çekiyor.",
-   "url": "https://www.aa.com.tr/tr/spor/bursaspor-super-lig-hedefine-zirvede-ilerliyor/4100806",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-26T11:05+03:00",
    "sektor": false
   }
  ],
