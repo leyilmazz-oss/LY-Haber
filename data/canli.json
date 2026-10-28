@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-27T23:56+03:00",
+ "guncelleme": "2026-10-28T03:28+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -9,49 +9,184 @@
   },
   {
    "ad": "Dolar/TL",
-   "deger": "49,80",
-   "degisim": "+%0,43",
+   "deger": "49,83",
+   "degisim": "+%0,42",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,48",
-   "degisim": "−%0,37",
+   "deger": "55,45",
+   "degisim": "−%0,53",
    "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.522 ₺",
-   "degisim": "+%0,33",
+   "deger": "6.532 ₺",
+   "degisim": "+%0,42",
    "yon": "up"
   },
   {
    "ad": "Brent",
-   "deger": "109,77 $",
-   "degisim": "−%3,00",
+   "deger": "109,94 $",
+   "degisim": "−%2,85",
    "yon": "down"
   },
   {
    "ad": "Bitcoin",
-   "deger": "80.659 $",
-   "degisim": "+%1,12",
+   "deger": "80.676 $",
+   "degisim": "+%0,65",
    "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.341 $",
-   "degisim": "+%1,60",
+   "deger": "2.344 $",
+   "degisim": "+%0,78",
    "yon": "up"
   }
  ],
  "sonDakika": [
   {
-   "baslik": "İsrail'de sandık çıkış anketlerine göre hiçbir blok meclis çoğunluğunu sağlayamıyor",
+   "baslik": "İsrail seçimlerine rekor katılım. Milletvekili sayılarında eşitlik var",
+   "ozet": "İsrail'de tarihi katılımla gerçekleşen genel seçim sona erdi. Sandık çıkış anketlerine göre, Gadi Eisenkot liderliğindeki muhalefet ile Başbakan Binyamin Netanyahu'nun bloğu eşit milletvekili aldı.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-israil-secimleri-sandik-cikis-anketlerine-gore-hicbir-blok-cogunlugu-saglayamadi-1748259",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-28T03:26+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail seçimleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
    "ozet": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu gösteriyor.",
    "url": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
-   "zaman": "2026-10-27T23:55+03:00",
+   "zaman": "2026-10-28T03:22+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
+   "ozet": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin miktarında yaş, çalışma d",
+   "url": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-28T03:17+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-28-ekim-2026-1748262",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-28T03:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Beyoğlu'nda 4 katlı metruk bina çöktü",
+   "ozet": "Beyoğlu'nda 4 katlı binada çökme meydana geldi.",
+   "url": "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-28T02:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+   "ozet": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
+   "url": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-28T02:56+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Suriye ile Ürdün arasındaki Nasib Sınır Kapısı yeniden açılıyor",
+   "ozet": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu.",
+   "url": "https://www.aa.com.tr/tr/dunya/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor/4103205",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-28T02:43+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi",
+   "ozet": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı bina, tedbiren boşaltıldı.",
+   "url": "https://www.ntv.com.tr/turkiye/kocaelide-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-1748266",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-28T02:19+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Yapay zeka saldırıdan vazgeçmedi: Gerçek insanların hedefte olduğu uyarısı da durduramadı",
+   "ozet": "Bir yapay zeka modeline verilen görevi tamamlaması için tanınan hareket alanı, güvenlik sınırlarının aşılmasına yol açtı. Gerçek insanlara zarar verdiği uyarısına rağmen siber saldırıya devam etti.",
+   "url": "https://www.ntv.com.tr/dunya/yapay-zeka-saldiridan-vazgecmedi-gercek-insanlarin-hedefte-oldugu-uyarisi-da-durduramadi-1748265",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-28T02:08+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail ordusunun Gazze Şeridi'ne düzenlediği saldırılarda 4 Filistinli öldü",
+   "ozet": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridine-duzenledigi-saldirilarda-4-filistinli-oldu/4103175",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-28T01:20+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada 3 kişinin mal varlıklarına tedbir kararı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Fatih Erdoğan, Abdulkerim Fırat ve Mehmet Erdoğan'ın mal varlıklarına tedbir konuldu.",
+   "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-3-kisinin-mal-varliklarina-tedbir-karari/4103171",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-28T01:10+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu.",
+   "url": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-10-28T01:09+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
+   "ozet": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış olabileceğine yönelik speküla",
+   "url": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-28T00:55+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Google DeepMind, yapay zeka modeli Genie 4'ü tanıttı",
+   "ozet": "Google DeepMind, metin komutlarıyla gerçek zamanlı sanal dünya üreten yeni yapay zeka modeli Genie 4'ü tanıttı. Google DeepMind Genie 4, yapay zekanın sanal ortamlar oluşturma yeteneklerini bir adım ileri taşıyarak sanal dünyaya ses, doğal ",
+   "url": "https://www.bloomberght.com/google-deepmind-yapay-zeka-modeli-genie-4-u-tanitti-3792707",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-28T00:25+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada yakalanan 2 zanlı tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
+   "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanli-tutuklandi/4103142",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-28T00:15+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Resmi Gazete'de bugün (28.10.2026)",
+   "ozet": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+   "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-28102026-3792706",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-10-28T00:04+03:00",
    "sektor": false
   },
   {
@@ -62,6 +197,33 @@
    "kategori": "turkiye",
    "zaman": "2026-10-27T23:51+03:00",
    "sektor": false
+  },
+  {
+   "baslik": "Türkiye, 2026 Dakar Gençlik Olimpiyat Oyunları'na 34 sporcuyla katılacak",
+   "ozet": "Türkiye, Senegal'in başkenti Dakar'da 31 Ekim-13 Kasım tarihlerinde düzenlenecek 2026 Dakar Gençlik Olimpiyat Oyunları'nda 16 dalda 34 sporcuyla mücadele edecek.",
+   "url": "https://www.aa.com.tr/tr/spor/turkiye-2026-dakar-genclik-olimpiyat-oyunlarina-34-sporcuyla-katilacak/4103121",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T23:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Suriye'de Ürdün'ün hava saldırısında yakınlarını kaybeden Muhammed Selim adalet istiyor",
+   "ozet": "Ürdün savaş uçaklarının Suriye’nin Dera ilinde yerleşim alanına düzenlediği hava saldırısında üçü çocuk, 7 yakınını kaybeden Muhammed Selim, saldırıya sebep olanların hesap vermesini istiyor.",
+   "url": "https://www.aa.com.tr/tr/dunya/suriyede-urdunun-hava-saldirisinda-yakinlarini-kaybeden-muhammed-selim-adalet-istiyor/4103120",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T23:45+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD Başkan Yardımcısı Vance'in artan benzin fiyatlarıyla ilgili açıklaması tartışma yarattı",
+   "ozet": "ABD Başkan Yardımcısı JD Vance'in 3 Kasım ara seçimleri yaklaşırken bir mitingde artan benzin fiyatlarıyla ilgili açıklaması \"kendi yönetimlerini de hedef aldığı\" gerekçesiyle tartışmaya konu oldu.",
+   "url": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vancein-artan-benzin-fiyatlariyla-ilgili-aciklamasi-tartisma-yaratti/4103118",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-27T23:44+03:00",
+   "sektor": true
   },
   {
    "baslik": "Trump'a göre Venezuela bir gün \"ABD'nin 51. eyaleti\" olabilir",
@@ -91,27 +253,9 @@
    "sektor": false
   },
   {
-   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
-   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-27-ekim-2026-1748093",
-   "kaynak": "NTV",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T23:30+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail seçimleri. Sandık çıkış anketlerine göre hiçbir blok çoğunluğu sağlayamadı",
-   "ozet": "İsrail'de genel seçimlerin ardından açıklanan sandık çıkış anketleri, Başbakan Binyamin Netanyahu ile rakibi Gadi Eisenkot'un parlamentoda çoğunluğu sağlayamadığını gösterdi.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-israil-secimleri-sandik-cikis-anketlerine-gore-hicbir-blok-cogunlugu-saglayamadi-1748259",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T23:15+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail'de sandık çıkış anketlerine göre, iktidar için yarışan iki blok da hükümet kuracak sayıya erişemedi",
-   "ozet": "İsrail'de sandık çıkış anketlerine göre, eski İsrail Genelkurmay Başkanı Gadi Eisenkot liderliğindeki muhalefet, mevcut Başbakan Binyamin Netanyahu koalisyonunu geride bırakırken, hükümet kuracak çoğunluğa ulaşamadı.",
-   "url": "https://www.aa.com.tr/tr/dunya/israilde-sandik-cikis-anketlerine-gore-iktidar-icin-yarisan-iki-blok-da-hukumet-kuracak-sayiya-erisemedi/4103060",
+   "baslik": "İsrail'deki sandık çıkış anketlerine göre seçimlerin ardından koalisyon hükümeti belirsizliği çıktı",
+   "ozet": "Seçimlerin ardından açıklanan sandık çıkış anketlerine göre, ne Netanyahu ve destekçileri ne de muhalif blok, 120 sandalyeli Mecliste koalisyon hükümeti kurmak için gerekli 61 milletvekiline ulaşabilirken, ülkede hükümet belirsizliği ortaya",
+   "url": "https://www.aa.com.tr/tr/dunya/israildeki-sandik-cikis-anketlerine-gore-secimlerin-ardindan-koalisyon-hukumeti-belirsizligi-cikti/4103060",
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-27T23:10+03:00",
@@ -190,15 +334,6 @@
    "sektor": false
   },
   {
-   "baslik": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu.",
-   "url": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-27T22:20+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Putin ve Pezeşkiyan Moskova'da bölgesel gelişmeleri ve ilişkileri görüştü",
    "ozet": "Rusya Devlet Başkanı Vladimir Putin ile İran Cumhurbaşkanı Mesud Pezeşkiyan, Moskova'da bir araya gelerek bölgedeki gelişmeleri ve iki ülke arasındaki ilişkileri ele aldı.",
    "url": "https://www.aa.com.tr/tr/dunya/putin-ve-pezeskiyan-moskovada-bolgesel-gelismeleri-ve-iliskileri-gorustu/4103014",
@@ -223,15 +358,6 @@
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-10-27T22:13+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Brezilya'da seçimi kaybeden Bolsonaro'nun pasaportu iptal edildi",
-   "ozet": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış olabileceğine yönelik speküla",
-   "url": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T22:07+03:00",
    "sektor": false
   },
   {
@@ -397,24 +523,6 @@
    "sektor": false
   },
   {
-   "baslik": "Arif Ahmet Denizolgun'un ölümüne ilişkin doktoru Nurettin Demirkol'a hapis cezası",
-   "ozet": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin \"yalan tanıklık\" suçundan yargılanan doktor Nurettin Demirkol, 2 yıl 6 ay hapis cezasına çarptırılarak, yaşından dolayı cezasının ertelenmesine karar verildi.",
-   "url": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-olumune-iliskin-doktoru-nurettin-demirkola-hapis-cezasi/4102836",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T20:14+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Fidan, Ankara'da Genç Diplomasi Derneği mensuplarını kabul etti",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Genç Diplomasi Derneği mensuplarıyla Ankara'da bir araya geldi.",
-   "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ankarada-genc-diplomasi-dernegi-mensuplarini-kabul-etti/4102831",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T20:08+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "İstanbul Ticaret Odası meslek komitesi ve meclis üyeleri seçimleri tamamlandı",
    "ozet": "İTO Başkanı Şekib Avdagiç, 270 üyeden oluşan İTO Meclisi'nde 229 üyeyle çoğunluğu kazandıklarını belirterek, İTO'nun bir kez daha kazandığını söyledi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/istanbul-ticaret-odasi-meslek-komitesi-ve-meclis-uyeleri-secimleri-tamamlandi/4102825",
@@ -430,15 +538,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-27T20:06+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Altın Portakal'da \"Bir Anne Hakkında\" filminin ilk gösterimi yapıldı",
-   "ozet": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında \"Bir Anne Hakkında\" filmi ilk kez Türkiye'de izleyiciyle buluştu.",
-   "url": "https://www.aa.com.tr/tr/kultur/altin-portakalda-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi/4102806",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T19:54+03:00",
    "sektor": false
   },
   {
@@ -464,17 +563,8 @@
    "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Hakkaniyeti, adaleti gözeten yaklaşımla emeklilerimizin daha iyi koşullara kavuşması yönünde tüm gayretimizi sarfedeceğiz, imkanlarımızı bu yönde kullanacağız.\" dedi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-emeklilerimizin-daha-iyi-kosullara-kavusmasi-yonunde-tum-gayretimizi-sarfedecegiz/4102805",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-27T19:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Emekli maaşlarında artışın yanı sıra refah payı eklenmesi için çalışma başlatıldı",
-   "ozet": "Emekli maaşlarına yapılacak artışın yanı sıra refah payı eklenmesi ve en düşük emekli maaşı için tamamlayıcı bir düzenleme yapılması amacıyla çalışma başlatıldığı öğrenildi.",
-   "url": "https://www.aa.com.tr/tr/gundem/emekli-maaslarinda-artisin-yani-sira-refah-payi-eklenmesi-icin-calisma-baslatildi/4102802",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-10-27T19:45+03:00",
    "sektor": false
   },
   {
@@ -482,7 +572,7 @@
    "ozet": "ABD Başkanı Donald Trump'ın eşi Melania Trump, Ukrayna'nın Herson bölgesindeki Oleşki kentinde \"insani yardımların\" yapılabilmesi için bölgesel ateşkesin başladığını açıkladı.",
    "url": "https://www.aa.com.tr/tr/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu/4102797",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-27T19:43+03:00",
    "sektor": false
   },
@@ -491,7 +581,7 @@
    "ozet": "BM Raportörü Albanese, İsrail'in Gazze'de gazetecilere yönelik saldırı ve medya baskılarının soykırımı kolaylaştırdığını belirterek bu durumu \"medyakırım\" olarak nitelendirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/bm-raporu-israilin-gazetecilere-yonelik-saldirilari-medyakirimdir/4102792",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-27T19:38+03:00",
    "sektor": false
   },
@@ -500,7 +590,7 @@
    "ozet": "ABD'de bulunan ve birleştirilen yeni bir dinozor türüne ait iskelet 47,3 milyon dolara satıldı.",
    "url": "https://www.aa.com.tr/tr/dunya/abdde-dinozor-turune-ait-iskelet-47-3-milyon-dolara-satildi/4102786",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-10-27T19:32+03:00",
    "sektor": false
   },
@@ -538,15 +628,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-27T19:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
-   "ozet": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin miktarında yaş, çalışma d",
-   "url": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T18:57+03:00",
    "sektor": false
   },
   {
@@ -868,15 +949,6 @@
    "baslik": "İzmir'e yeni çevre yolu geliyor. \"Trafiği rahatlatacak\"",
    "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'la bir araya geldi.",
    "url": "https://www.ntv.com.tr/turkiye/galeri-izmire-yeni-cevre-yolu-geliyor-trafigi-rahatlatacak-1748228",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-27T15:45+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan, Bahçeli'yle bir araya geldi",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP Genel Başkanı Devlet Bahçeli, bugün saat 14.00'te Beştepe'de bir araya geldi.",
-   "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bahceliyle-bir-araya-geldi-1748205",
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-27T15:45+03:00",
@@ -1243,24 +1315,6 @@
    "sektor": false
   },
   {
-   "baslik": "Antalya'daki hortum felaketinde yeni ayrıntı: Galatasaray-Fenerbahçe derbisini izlerken yakalandılar",
-   "ozet": "Antalya'da meydana gelen hortumda yaşamını yitiren dört kişinin, olaya Galatasaray-Fenerbahçe derbisini izledikleri sırada yakalandıkları öğrenildi.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-antalyadaki-hortum-felaketinde-yeni-ayrinti-galatasaray-fenerbahce-derbisini-izlerken-yakalandilar-1748193",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-27T12:38+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "6 metre derinliğindeki kuyuya düştü, tesadüfen fark edildi",
-   "ozet": "İzmir’in Dikili ilçesinde yaklaşık 6 metre derinliğindeki kuyuya düşen köpek, zeytin toplamaya gidenler tarafından tesadüfen fark edildi. İtfaiye ekipleri, köpeği mahsur kaldığı kuyudan kurtardı.",
-   "url": "https://www.ntv.com.tr/turkiye/video-6-metre-derinligindeki-kuyuya-dustu-tesadufen-fark-edildi-1748194",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-10-27T12:35+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Çalışan bağlılığı dikkat çekti: Türkiye'de oran yüzde 8",
    "ozet": "PERYÖN'ün 34. İnsan Odağında Yönetim Kongresi'nde çalışma hayatının dönüşümü masaya yatırıldı. Yapay zekâdan liderliğe, gençlerin beklentilerinden kurum kültürüne uzanan gündemde, Gallup verilerine göre Türkiye'de çalışan bağlılığının yüzde",
    "url": "https://www.bloomberght.com/calisan-bagliligi-dikkat-cekti-turkiyede-oran-yuzde-8-3792657",
@@ -1315,15 +1369,6 @@
    "sektor": false
   },
   {
-   "baslik": "Almanya'da aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişi yaralandı",
-   "ozet": "Almanya'da Aşağı Saksonya eyaletinin Neustadt am Rübenberge kentinde bir aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişinin yaralandığı bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/almanyada-aracin-kasitli-olarak-kalabaligin-uzerine-surulmesi-sonucu-en-az-4-kisi-yaralandi/4102187",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T12:17+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "AB, dış ülkelerden gelen paketlerden ek ücret alacak",
    "ozet": "Avrupa Birliği (AB), 1 Kasım'dan itibaren Birlik dışından sipariş edilen küçük paketlere 2 avroluk işlem ücreti uygulamaya koyacak.",
    "url": "https://www.aa.com.tr/tr/ekonomi/ab-dis-ulkelerden-gelen-paketlerden-ek-ucret-alacak/4102184",
@@ -1348,51 +1393,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-10-27T12:08+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Atmosferdeki karbondioksit ve diğer temel sera gazları rekor seviyelere ulaştı",
-   "ozet": "Dünya Meteoroloji Örgütü (WMO), 2025'te atmosferdeki karbondioksit ve diğer temel sera gazlarının seviyelerinin benzeri görülmemiş zirvelere ulaştığını ve bu durumun, gezegenin uzun vadede daha fazla ısınmasını kaçınılmaz kıldığını bildirdi",
-   "url": "https://www.aa.com.tr/tr/dunya/atmosferdeki-karbondioksit-ve-diger-temel-sera-gazlari-rekor-seviyelere-ulasti/4102167",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T12:02+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ödeme güvenliği için siber güvenlik tedbiri alınacak",
-   "ozet": "Politika faizine ilişkin atılacak adımlar, enflasyon gerçekleşmeleri, ana eğilimi ve beklentiler göz önünde bulundurularak ara hedeflerle uyumlu biçimde dezenflasyonun gerektirdiği sıkılığı sağlayacak şekilde belirlenecek.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/odeme-guvenligi-icin-siber-guvenlik-tedbiri-alinacak/4102160",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-27T11:59+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsveç'te hükümet çalışanları yapay zeka araçları ChatGPT ve Claude'u kullanmayacak",
-   "ozet": "İsveç hükümeti çalışanlarının, güvenlik endişeleri nedeniyle iş bilgisayarlarında OpenAI'ın yapay zeka aracı ChatGPT ve ABD merkezli yapay zeka şirketi Anthropic'in geliştirdiği Claude modelinin sürümlerini kullanmayacakları belirtildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/isvecte-hukumet-calisanlari-yapay-zeka-araclari-chatgpt-ve-claudeu-kullanmayacak-/4102138",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T11:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Lula'nın WhatsApp 'ordusu' Brezilya'da seçimlerin kaderini nasıl değiştirdi?",
-   "ozet": "Luiz Inácio Lula da Silva'nın yeniden seçilme kampanyasını desteklemek amacıyla oluşturulan bir WhatsApp kanalı, Brezilya siyasetinin yakın dönemindeki en beklenmedik geri dönüşlerinden birinin gerçekleşmesinde rol sahibi olmuşa benziyor.",
-   "url": "https://www.bbc.com/turkce/articles/cmy0r3kpzn8do?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T11:35+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "El Halil kentindeki kuşatmayı 5. gününde sürdüren İsrail ordusu yaklaşık 5 bin Filistinliyi yerinden etti",
-   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde dayattığı kuşatmayı 5. gününde sürdürürken 4 bin 969 Filistinliyi zorla yerinden etti.",
-   "url": "https://www.aa.com.tr/tr/dunya/el-halil-kentindeki-kusatmayi-5-gununde-surduren-israil-ordusu-yaklasik-5-bin-filistinliyi-yerinden-etti/4102112",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-27T11:34+03:00",
    "sektor": false
   }
  ],
