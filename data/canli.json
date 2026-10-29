@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-29T02:11+03:00",
+ "guncelleme": "2026-10-29T05:49+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -10,38 +10,38 @@
   {
    "ad": "Dolar/TL",
    "deger": "49,83",
-   "degisim": "+%0,42",
+   "degisim": "+%0,20",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,62",
-   "degisim": "−%0,22",
+   "deger": "55,66",
+   "degisim": "−%0,34",
    "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.511 ₺",
-   "degisim": "+%1,40",
+   "deger": "6.493 ₺",
+   "degisim": "+%1,13",
    "yon": "up"
   },
   {
    "ad": "Brent",
-   "deger": "110,55 $",
-   "degisim": "−%5,29",
+   "deger": "110,64 $",
+   "degisim": "−%5,21",
    "yon": "down"
   },
   {
    "ad": "Bitcoin",
-   "deger": "81.225 $",
-   "degisim": "+%0,53",
-   "yon": "up"
+   "deger": "79.685 $",
+   "degisim": "−%1,41",
+   "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.359 $",
-   "degisim": "+%0,47",
-   "yon": "up"
+   "deger": "2.298 $",
+   "degisim": "−%2,41",
+   "yon": "down"
   }
  ],
  "sonDakika": [
@@ -51,7 +51,52 @@
    "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-29-ekim-2026-1748416",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-10-29T02:00+03:00",
+   "zaman": "2026-10-29T05:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Iraklı Bakan Ağa açıkladı. Kerkük Valiliği yıl sonuna kadar Türkmenlerde kalacak",
+   "ozet": "Irak hükümetinde Devlet Bakanı olarak görev yapan Muhammed Seman Ağa, Kerkük Valiliği'nin anlaşma gereği yıl sonuna kadar Türkmenlerde kalacağını belirtti.",
+   "url": "https://www.ntv.com.tr/dunya/irakli-bakan-aga-acikladi-kerkuk-valiligi-yil-sonuna-kadar-turkmenlerde-kalacak-1748419",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-29T04:42+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
+   "ozet": "İsrail seçimlerinde Başbakan Netanyahu'nun bloku öne geçti ancak taraflar hükümet kurmak için gereken 61 sandalyeye ulaşamadı. Arap partileri ise 19 sandalye ile rekora uzandı.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-10-29T03:53+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+   "ozet": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+   "url": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-10-29T03:07+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "BM raportörleri: Fransa'daki öğrenci protestolarına yönelik şiddet nedeniyle dehşete kapıldık",
+   "ozet": "Birleşmiş Milletler (BM) raportörleri, Fransa'da taleplerinin yerine getirilmesi için gösteri yapan öğrenciler ve gençlerin uğradığı şiddetin düzeyi nedeniyle dehşete kapıldıklarını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/bm-raportorleri-fransadaki-ogrenci-protestolarina-yonelik-siddet-nedeniyle-dehsete-kapildik/4104432",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-29T02:21+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail'de muhalefet lideri Eisenkot \"Siyonist askerlik hükümeti\" kuracaklarını belirtti",
+   "ozet": "İsrail'de muhalefet lideri Gadi Eisenkot, ülkede değişim gerçekleştirerek \"Siyonist askerlik hükümeti\" kuracaklarını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-lideri-eisenkot-siyonist-askerlik-hukumeti-kuracaklarini-belirtti/4104431",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-10-29T02:18+03:00",
    "sektor": false
   },
   {
@@ -509,7 +554,7 @@
    "ozet": "İspanya Kral Kupası'nda bugün oynanması planlanan 24 karşılaşma, Toledo kenti yakınlarında meydana gelen tren kazası nedeniyle ertelendi.",
    "url": "https://www.aa.com.tr/tr/spor/ispanya-kral-kupasinda-24-mac-tren-kazasi-nedeniyle-ertelendi/4104240",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-10-28T21:06+03:00",
    "sektor": false
   },
@@ -599,7 +644,7 @@
    "ozet": "SPK, yabancı finans kuruluşlarının yüksek kazanç elde ettikten sonra pozisyonlarını kapatıp belirli sermaye piyasası araçlarındaki varlıklarını elden çıkardığı yönündeki iddiaların gerçeği yansıtmadığını bildirdi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/spk-yabanci-finans-kuruluslarina-iliskin-iddialarin-gercegi-yansitmadigini-bildirdi/4104169",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-10-28T20:09+03:00",
    "sektor": false
   },
@@ -847,15 +892,6 @@
    "sektor": false
   },
   {
-   "baslik": "İngiltere Başbakanı Burnham, Brexit'in ekonomi ve göç açısından kötü olduğunu söyledi",
-   "ozet": "İngiltere Başbakanı Andy Burnham, ülkenin Avrupa Birliği'nden (AB) ayrılmasının 2016'daki Brexit referandumu öncesinde sözü verilenin aksine ekonomik büyüme ve göç kontrolü açısından kötü olduğunu söyledi.",
-   "url": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-brexitin-ekonomi-ve-goc-acisindan-kotu-oldugunu-soyledi/4103961",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-28T17:05+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "YTM'den Tera Yatırım Menkul Değerler'e ilişkin tasfiye süreci duyurusu",
    "ozet": "Yatırımcı Tazmin Merkezi (YTM) Tera Yatırım Menkul Değerler'in tedrici tasfiye süreciyle ilgili duyuru yayımladı.",
    "url": "https://www.bloomberght.com/ytm-den-tera-yatirim-menkul-degerler-e-iliskin-tasfiye-sureci-duyurusu-3792729",
@@ -865,30 +901,12 @@
    "sektor": false
   },
   {
-   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırıları düzenledi",
-   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
-   "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilari-duzenledi/4103954",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-10-28T17:00+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Beştepe Millet Ormanı açılıyor. Yaklaşık 92 futbol sahası büyüklüğünde",
    "ozet": "Beştepe Millet Ormanı, Cumhurbaşkanı Recep Tayyip Erdoğan ve Türk Devletleri Teşkilatı liderlerinin katılımıyla yarın Ankara'da açılacak.",
    "url": "https://www.ntv.com.tr/turkiye/galeri-bestepe-millet-ormani-aciliyor-yaklasik-92-futbol-sahasi-buyuklugunde-1748388",
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-10-28T16:54+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
-   "ozet": "İsrail seçimlerinde Başbakan Netanyahu'nun bloku öne geçti ancak taraflar hükümet kurmak için gereken 61 sandalyeye ulaşamadı. Arap partileri ise 19 sandalye ile rekora uzandı.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-28T16:43+03:00",
    "sektor": false
   },
   {
@@ -1375,24 +1393,6 @@
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-10-28T11:10+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İstanbul ve 4 ilde sel felaketinin sigorta maliyeti 12 milyar liraya dayandı",
-   "ozet": "İstanbul ve çevre illerde 14-15 Ekim'de etkili olan şiddetli yağış ve su baskınlarının ardından, 27 Ekim itibarıyla sigorta şirketlerine 10 bin 130 ihbar ulaşırken, gerçekleşen toplam hasar tutarı 11 milyar 992,45 milyon lira olarak belirle",
-   "url": "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-4-ilde-sel-felaketinin-sigorta-maliyeti-12-milyar-liraya-dayandi/4103422",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-28T11:07+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Milli sporcu Hakan'ın hedefi tekerlekli sandalye eskriminde kalıcı bir miras bırakmak",
-   "ozet": "Milli sporcu Hakan Akkaya, Los Angeles 2028'de altın madalya kazanmanın yanı sıra kendisinden sonra gelecek sporcular için kalıcı bir sistem oluşturmayı hedefliyor.",
-   "url": "https://www.aa.com.tr/tr/spor/milli-sporcu-hakanin-hedefi-tekerlekli-sandalye-eskriminde-kalici-bir-miras-birakmak-/4103417",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-10-28T11:06+03:00",
    "sektor": false
   }
  ],
