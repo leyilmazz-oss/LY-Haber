@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-01T21:32+03:00",
+ "guncelleme": "2026-11-02T01:23+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -9,19 +9,19 @@
   },
   {
    "ad": "Dolar/TL",
-   "deger": "49,94",
-   "degisim": "+%0,40",
+   "deger": "49,93",
+   "degisim": "+%0,39",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,75",
-   "degisim": "−%0,14",
+   "deger": "55,77",
+   "degisim": "−%0,12",
    "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.260 ₺",
+   "deger": "6.259 ₺",
    "degisim": "−%4,31",
    "yon": "down"
   },
@@ -33,25 +33,223 @@
   },
   {
    "ad": "Bitcoin",
-   "deger": "77.884 $",
-   "degisim": "+%0,32",
+   "deger": "77.651 $",
+   "degisim": "+%0,14",
    "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "2.263 $",
-   "degisim": "+%0,36",
-   "yon": "up"
+   "deger": "2.254 $",
+   "degisim": "−%0,27",
+   "yon": "down"
   }
  ],
  "sonDakika": [
   {
-   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
-   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-kasim-2026-1748829",
+   "baslik": "Bulgaristan, cumhurbaşkanını seçti. Yotova ülkenin ilk kadın cumhurbaşkanı olacak",
+   "ozet": "Bulgaristan'da Cumhurbaşkanlığı seçimini, sandık çıkış anketine göre iktidarın adayı İliyana Yotova kazandı. 61 yaşındaki Yotova, Bulgaristan'ın ilk kadın Cumhurbaşkanı olacak.",
+   "url": "https://www.ntv.com.tr/dunya/bulgaristan-cumhurbaskanini-secti-yotova-ulkenin-ilk-kadin-cumhurbaskani-olacak-1748869",
    "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-02T01:06+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-kasim-2026-1748963",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-02T01:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre İliyana Yotova kazandı",
+   "ozet": "Bulgaristan’da cumhurbaşkanlığı seçiminin ikinci turunda sandık çıkış anketleri, İliyana Yotova’nın yaklaşık yüzde 51 oyla önde olduğunu gösteriyor",
+   "url": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-02T00:56+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Florida’da özel jet şehrin ortasına düştü",
+   "ozet": "ABD’nin Florida eyaletinde 9 kişiyi taşıyan Learjet 60 tipi özel uçak, şehir merkezine düştü. Görüntülerde uçağın yere çarptığı be alev topuna döndüğü görülüyor.",
+   "url": "https://www.ntv.com.tr/dunya/video-floridada-ozel-jet-sehrin-ortasina-dustu-1748966",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-02T00:53+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Tarkan'dan COP31 için anlamlı şarkı",
+   "ozet": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+   "url": "https://www.ntv.com.tr/turkiye/tarkandan-cop31-icin-anlamli-sarki-1748964",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-02T00:45+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Yemen'deki Husilerin Taiz'e düzenlediği saldırıda 2 kişi öldü",
+   "ozet": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Taiz'de bir eve düzenlediği saldırıda 2 kişi hayatını kaybetti.",
+   "url": "https://www.aa.com.tr/tr/dunya/yemendeki-husilerin-taize-duzenledigi-saldirida-2-kisi-oldu/4108237",
+   "kaynak": "AA",
    "kategori": "gundem",
-   "zaman": "2026-11-01T21:30+03:00",
+   "zaman": "2026-11-02T00:27+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Emir Sarıgül'den ek ifade. Babasının Özgür Özel'e 350 bin dolar verdiğini iddia etti",
+   "ozet": "Kara para aklama soruşturmasında tutuklanan Mustafa Sarıgül'ün oğlu Emir Sarıgül'ün savcılık ifadesi ortaya çıktı. Sarıgül, babasının Yeni Parti Genel Başkanı Özel'e 350 bin dolar verdiğini iddia ett.",
+   "url": "https://www.ntv.com.tr/turkiye/galeri-emir-sarigulden-ek-ifade-babasinin-ozgur-ozele-350-bin-dolar-verdigini-iddia-etti-1748962",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-02T00:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD Dışişleri Bakanı Rubio'dan, \"Pakistan-Afganistan terör sorununa dair rol üstlenebilecekleri\" mesajı",
+   "ozet": "ABD Dışişleri Bakanı Marco Rubio, Pakistan'ın Afganistan'a ilişkin terör endişelerinden haberdar olduklarını ve bu konuda \"sahip olabilecekleri verimli bir rol varsa bu rolü üstlenmeye istekli olduklarını\" bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubiodan-pakistan-afganistan-teror-sorununa-dair-rol-ustlenebilecekleri-mesaji/4108234",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-02T00:11+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Michigan'da Demokrat siyasetçi, seçimlere günler kala Cumhuriyetçi Senato adayına destek verdi",
+   "ozet": "ABD’nin Michigan eyaletinde Demokrat Partili Haley Stevens’ın, kendi partisinin adayı Abdül El-Sayed ile yaşadığı gerilimin ardından Cumhuriyetçi aday Mike Rogers’a destek vermesi, kritik Senato seçimi öncesinde partisinde tepki çekti",
+   "url": "https://www.bbc.com/turkce/articles/cq0meyy9dlrpo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-02T00:10+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD'de 9 kişiyi taşıyan özel jetin düşüş anına ait görüntüler sosyal medyada yayıldı",
+   "ozet": "ABD'nin Florida eyaletinde 9 kişiyi taşıyan özel jetin yerleşim alanına düşerek alev aldığı anlara ilişkin görüntüler sosyal medyada paylaşıldı.",
+   "url": "https://www.aa.com.tr/tr/dunya/abdde-9-kisiyi-tasiyan-ozel-jetin-dusus-anina-ait-goruntuler-sosyal-medyada-yayildi/4108232",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T23:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova açık farkla kazandı",
+   "ozet": "Bulgaristan'daki cumhurbaşkanlığı seçimlerinde mevcut Cumhurbaşkanı İliyana Yotova ve cumhurbaşkanı yardımcısı adayı Kiril Valchev, zaferlerini ilan etti.",
+   "url": "https://www.aa.com.tr/tr/dunya/bulgaristandaki-cumhurbaskani-secimini-mevcut-cumhurbaskani-yotova-acik-farkla-kazandi/4108231",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T23:55+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
+   "ozet": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T23:21+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
+   "ozet": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli yakalandı.",
+   "url": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-01T23:20+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Bakan Çiftçi: İstanbul'da yeni nesil suç örgütlerine operasyonlarda bin 545 şüpheli tutuklandı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
+   "url": "https://www.ntv.com.tr/turkiye/bakan-ciftci-istanbulda-yeni-nesil-suc-orgutlerine-operasyonlarda-bin-545-supheli-tutuklandi-1748959",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-01T22:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T22:41+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail basınının iddiası. \"Netanyahu, Trump'tan İran'a yeni saldırı istiyor\"",
+   "ozet": "İsrail basınında, İsrail Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'tan ABD'de ara seçimlerinin ardından İran'a yönelik saldırıların yeniden başlatılmasını istediği iddia edildi.",
+   "url": "https://www.ntv.com.tr/dunya/israil-basininin-iddiasi-netanyahu-trumptan-irana-yeni-saldiri-istiyor-1748955",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-01T22:20+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Rusya: Zelenskiy'nin araması halinde Putin telefonu açacak",
+   "ozet": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin araması halinde, Rusya Devlet Başkanı Vladimir Putin'in telefonu açacağını belirterek, \"Putin, hiçbir zaman görüşmekten vazgeçmedi.\" dedi.",
+   "url": "https://www.aa.com.tr/tr/dunya/rusya-zelenskiynin-aramasi-halinde-putin-telefonu-acacak/4108201",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T22:13+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Binance, siber saldırıda çalınan 6,3 milyar dolarlık varlığın yüzde 90'ını yerine koyduğunu açıkladı",
+   "ozet": "Kripto para devi Binance, potansiyel bir siber saldırı sebebiyle 6,3 milyar dolar (yaklaşık 314 milyar lira) değerinde dijital varlığın etkilendiğini belirtti. İki analiz firması, olayın TraderTraitor adlı Kuzey Koreli bir siber saldırı bir",
+   "url": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-01T21:59+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Rusya: Zelenski'nin araması halinde Putin telefonu açacak",
+   "ozet": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Ukrayna Devlet Başkanı Volodimir Zelenski'nin araması halinde, Rusya Devlet Başkanı Vladimir Putin'in telefonu açacağını belirtti.",
+   "url": "https://www.ntv.com.tr/dunya/rusya-zelenskinin-aramasi-halinde-putin-telefonu-acacak-1748950",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-01T21:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "UKMTO: Hürmüz Boğazı'nda bir gemiye bilinmeyen cisim isabet etti",
+   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda bir gemiye bilinmeyen bir cismin isabet ettiğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemiye-bilinmeyen-cisim-isabet-etti/4108186",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-01T21:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Şehit askere ve Türk bayrağına hakaret eden şüpheli tutuklandı",
+   "ozet": "Balıkesir’de sosyal medya hesapları üzerinden şehit askere ve Türk bayrağına yönelik hakaret içerikli paylaşımlar yaptığı tespit edilen şahıs, çıkarıldığı mahkemece tutuklandı.",
+   "url": "https://www.ntv.com.tr/turkiye/sehit-askere-ve-turk-bayragina-hakaret-eden-supheli-tutuklandi-1748949",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-01T21:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
+   "url": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1748948",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-01T21:41+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti.",
+   "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-guney-koreye-gidiyor-1748902",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-01T21:36+03:00",
    "sektor": false
   },
   {
@@ -136,9 +334,9 @@
    "sektor": false
   },
   {
-   "baslik": "Kasımpaşa ile Beşiktaş, berabere kaldı",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa ile Beşiktaş, 2-2 berabere kaldı.",
-   "url": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-berabere-kaldi/4108160",
+   "baslik": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
+   "ozet": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa'ya konuk olan Beşiktaş, rakibiyle 2-2 berabere kaldı.",
+   "url": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-11-01T19:58+03:00",
@@ -154,9 +352,9 @@
    "sektor": false
   },
   {
-   "baslik": "Taha Akgül'den Dünya Güreş Şampiyonası sonrası özeleştiri",
+   "baslik": "Taha Akgül'den Dünya Güreş Şampiyonası sonrası öz eleştiri",
    "ozet": "Türkiye Güreş Federasyonu Başkanı Taha Akgül, 2026 Dünya Güreş Şampiyonası'nda beklentilerin uzağında kaldıklarını belirterek \"Gerekli değerlendirmeleri yapıp yolumuza daha sağlam ve emin adımlarla devam edeceğiz.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/spor/taha-akgulden-dunya-gures-sampiyonasi-sonrasi-ozelestiri/4108143",
+   "url": "https://www.aa.com.tr/tr/spor/taha-akgulden-dunya-gures-sampiyonasi-sonrasi-oz-elestiri/4108143",
    "kaynak": "AA",
    "kategori": "gundem",
    "zaman": "2026-11-01T19:30+03:00",
@@ -343,24 +541,6 @@
    "sektor": false
   },
   {
-   "baslik": "Fon soruşturması. Dünya gazetesinin ortaklarından Umut Güner gözaltına alındı",
-   "ozet": "Dünya gazetesinin bağlı olduğu Dünya Holding'in ortağı Umut Güner, fon soruşturmasında gözaltına alındı.",
-   "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-ortaklarindan-umut-guner-gozaltina-alindi-1748880",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T16:42+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fren diye gaza bastı, aracıyla bahçeye düştü",
-   "ozet": "Beşiktaş’ta alkollü olduğu iddia edilen sürücünün kullandığı otomobil, panikle fren yerine gaza basan sürücünün kullandığı otomobil, geri giderek yaklaşık 3 metre derinliğindeki bahçeye düştü.",
-   "url": "https://www.ntv.com.tr/turkiye/video-fren-diye-gaza-basti-araciyla-bahceye-dustu-1748857",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T16:39+03:00",
-   "sektor": true
-  },
-  {
    "baslik": "Trump: G20 Liderler Zirvesi'ne Zelenski'yi davet edebilirim",
    "ozet": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Volodimir Zelenski'yi de aralıkta ülkesinde düzenlenecek G20 Liderler Zirvesi'ne davet edebileceğini söyledi.",
    "url": "https://www.ntv.com.tr/dunya/trump-g20-liderler-zirvesine-zelenskiyi-davet-edebilirim-1748928",
@@ -398,10 +578,10 @@
   },
   {
    "baslik": "Anadolu Ajansı Spor Kulübü, İstanbul Maratonu'nda yer aldı",
-   "ozet": "Anadolu Ajansı Genel Yayın Yönetmeni Yusuf Özhan, \"Uluslararası turizm açısından, İstanbul'un tanıtımı açısından, Türkiye'mizin tanıtımı açısından İstanbul Maratonu, önemli bir değer.\" dedi.",
+   "ozet": "Anadolu Ajansı Genel Müdür Yardımcısı ve Genel Yayın Yönetmeni Yusuf Özhan, \"Uluslararası turizm açısından, İstanbul'un tanıtımı açısından, Türkiye'mizin tanıtımı açısından İstanbul Maratonu, önemli bir değer.\" dedi.",
    "url": "https://www.aa.com.tr/tr/spor/anadolu-ajansi-spor-kulubu-istanbul-maratonunda-yer-aldi/4108011",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-11-01T15:53+03:00",
    "sektor": false
   },
@@ -415,20 +595,11 @@
    "sektor": false
   },
   {
-   "baslik": "Bulgaristan, cumhurbaşkanı seçiminin ikinci turu için sandık başında",
-   "ozet": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gidiyor.",
-   "url": "https://www.ntv.com.tr/dunya/bulgaristan-cumhurbaskani-seciminin-ikinci-turu-icin-sandik-basinda-1748869",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T15:44+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Paris'te polisin eylemcilerin attığı molotofkokteyli ile yaralanmasına ilişkin \"cinayete teşebbüs\" soruşturması",
    "ozet": "Fransa'da dün düzenlenen Sarı Yelekliler eylemlerinde, protestocuların attığı molotofkokteyli nedeniyle bacağından yaralanan polis memuruyla ilgili cinayete teşebbüs soruşturması açıldığı bildirildi.",
    "url": "https://www.aa.com.tr/tr/dunya/pariste-polisin-eylemcilerin-attigi-molotofkokteyli-ile-yaralanmasina-iliskin-cinayete-tesebbus-sorusturmasi/4108000",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-01T15:34+03:00",
    "sektor": false
   },
@@ -437,7 +608,7 @@
    "ozet": "İsrail ordusu, İran'la çatışmaların yeniden başlayabileceğine ilişkin söylemlerin arttığı bir dönemde, ülkenin farklı bölgelerinde bir hafta sürecek askeri tatbikat başlattığını duyurdu.",
    "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-iranla-olasi-catismalarin-beklendigi-bir-donemde-askeri-tatbikat-baslatti/4107985",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-01T15:26+03:00",
    "sektor": false
   },
@@ -455,17 +626,8 @@
    "ozet": "Ticaret, turizm gibi birçok alanda işbirliğini geliştirmeye odaklanan Türkiye ile Güney Kore arasındaki ticaret hacmi, geçen yıl 11,4 milyar doları, bu yılın 9 ayında da 8,7 milyar doları yakaladı.",
    "url": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-guney-kore-yeni-ekonomik-isbirliklerine-odaklaniyor/4107983",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-11-01T15:23+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan Güney Kore'ye gidiyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine Seul'ü ziyaret edecek.",
-   "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-guney-koreye-gidiyor-1748902",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T15:18+03:00",
    "sektor": false
   },
   {
@@ -473,7 +635,7 @@
    "ozet": "Ticaret Bakanı Ömer Bolat, \"Yılın dokuz ayında Türkiye'nin İslam İşbirliği Teşkilatı (İİT) ülkeleriyle olan ticaret hacmi 108 milyar dolara ulaşmıştır.\" dedi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiyenin-iit-ulkeleriyle-olan-ticaret-hacmi-108-milyar-dolara-ulasmistir/4107973",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "finans",
    "zaman": "2026-11-01T15:17+03:00",
    "sektor": false
   },
@@ -482,7 +644,7 @@
    "ozet": "ABD'nin Alabama eyaletinde futbol maçı sonrası stadyum yakınındaki bir caddede yaşanan silahlı saldırıda bir kişi hayatını kaybetti, 8 kişi ise yaralandı.",
    "url": "https://www.aa.com.tr/tr/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi/4107971",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-01T15:14+03:00",
    "sektor": false
   },
@@ -500,17 +662,8 @@
    "ozet": "Bordo-mavili kulübün 31 Ağustos itibarıyla net borcu, 2 milyar 951 milyon 477 bin 836 lira olarak açıklandı.",
    "url": "https://www.aa.com.tr/tr/spor/trabzonspor-kulubu-61-olagan-divan-genel-kurulu-toplantisi-yapildi/4107965",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-11-01T14:59+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "TRT 2'de ödüllü yapımlar sinemaseverlerle buluşacak",
-   "ozet": "Kasım ayında \"Zamanın Kabuk Değiştirdiği Anlar\" temasıyla hazırlanan sinema seçkisi TRT 2'de ekrana gelecek.",
-   "url": "https://www.aa.com.tr/tr/kultur/trt-2de-odullu-yapimlar-sinemaseverlerle-bulusacak/4107958",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-01T14:41+03:00",
    "sektor": false
   },
   {
@@ -518,7 +671,7 @@
    "ozet": "Trendyol Süper Lig'in 10. haftasında Amed Sportif Faaliyetler, sahasında Eyüpspor'u 5-1 yendi.",
    "url": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasindan-3-puanla-ayrildi/4107953",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "spor",
    "zaman": "2026-11-01T14:34+03:00",
    "sektor": false
   },
@@ -694,30 +847,12 @@
    "sektor": false
   },
   {
-   "baslik": "Bolu Dağı Tüneli'nde tırın çarpıp kaçtığı kazanın görüntüleri ortaya çıktı",
-   "ozet": "Bolu Dağı Tüneli’nde TIR’ın otomobile çarpıp takla atmasına sebep olduğu kazada 4 kişi yaralandı.",
-   "url": "https://www.ntv.com.tr/turkiye/video-bolu-dagi-tunelinde-tirin-carpip-kactigi-kazanin-goruntuleri-ortaya-cikti-1748890",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T12:42+03:00",
-   "sektor": true
-  },
-  {
    "baslik": "Trump, G20 Liderler Zirvesi'ne Ukrayna lideri Zelenskiy'i davet edebileceğini bildirdi",
    "ozet": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Volodimir Zelenskiy'i de aralıkta ülkesinde düzenlenecek G20 Liderler Zirvesi'ne davet edebileceğini bildirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/trump-g20-liderler-zirvesine-ukrayna-lideri-zelenskiyi-davet-edebilecegini-bildirdi/4107880",
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-11-01T12:39+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yargıtay'dan \"çakal\" kararı. Polise yönelik kullanılan söz hakaret olarak sayılmadı",
-   "ozet": "Yargıtay \"çakal\" sözcüğünü hakaret saymadı, bu nedenle verilen 6 aylık hapis cezasını bozdu.",
-   "url": "https://www.ntv.com.tr/turkiye/yargitaydan-cakal-karari-polise-yonelik-kullanilan-soz-hakaret-olarak-sayilmadi-1748887",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T12:32+03:00",
    "sektor": false
   },
   {
@@ -736,15 +871,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-11-01T12:17+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "MHP'den \"100 il 1000 ilçe\" projesi. Bahçeli: 19 yeni il ve 78 yeni ilçe kurulmasını öneriyoruz",
-   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"100 il 1000 ilçe\" projesini gündeme getirdi. Bahçeli, 19 yeni il ve 78 yeni ilçe kurulması gerektiğini söyledi.",
-   "url": "https://www.ntv.com.tr/turkiye/mhpden-100-il-1000-ilce-projesi-bahceli-19-yeni-il-ve-78-yeni-ilce-kurulmasini-oneriyoruz-1748885",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T12:08+03:00",
    "sektor": false
   },
   {
@@ -781,15 +907,6 @@
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-11-01T11:55+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "E-Devlet yaş doğrulaması yapma ekranı. Sosyal medya yaş doğrulaması nasıl ve nereden yapılacak?",
-   "ozet": "Milyonlarca sosyal medya kullanıcısını doğrudan ilgilendiren yeni yönetmelik bugün yürürlüğe girdi. Artık Instagram, TikTok ve X gibi platformlarda hesap açarken e-Devlet üzerinden 'yaş doğrulama belirteci' şartı aranacak. Yaş doğrulaması s",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-e-devlet-yas-dogrulamasi-yapma-ekrani-sosyal-medya-yas-dogrulamasi-nasil-ve-nereden-yapilacak-1748860",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T11:50+03:00",
    "sektor": false
   },
   {
@@ -853,15 +970,6 @@
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
    "zaman": "2026-11-01T11:21+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Trump döneminde ABD ekonomisinin durumu nasıl?",
-   "ozet": "Ara seçimler öncesinde Trump, ABD ekonomisinin performansıyla övünmüştü. BBC Doğrulama Servisi Verify, ülkedeki enflasyon, istihdam ve ekonomik büyümeyi inceledi.",
-   "url": "https://www.bbc.com/turkce/articles/cw0k0rknd1pgo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T11:14+03:00",
    "sektor": false
   },
   {
@@ -982,15 +1090,6 @@
    "sektor": false
   },
   {
-   "baslik": "Bulgaristan'da halk cumhurbaşkanı seçiminin ikinci turu için sandık başında",
-   "ozet": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gitti.",
-   "url": "https://www.aa.com.tr/tr/dunya/bulgaristanda-halk-cumhurbaskani-seciminin-ikinci-turu-icin-sandik-basinda/4107763",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T10:25+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Brezilya'da seçimleri kaybeden Bolsonaro'nun Mossad'ın eski ajanıyla kaçtığı iddiası",
    "ozet": "Brezilya'da sağcı Senatör Flavio Bolsonaro'nun devlet başkanlığı seçimlerini kaybettikten sonra ABD'ye \"İsrail istihbarat servisi Mossad'ın eski ajanı eşliğinde kaçtığı\" iddia edildi.",
    "url": "https://www.aa.com.tr/tr/dunya/brezilyada-secimleri-kaybeden-bolsonaronun-mossadin-eski-ajaniyla-kactigi-iddiasi/4107762",
@@ -1009,39 +1108,12 @@
    "sektor": false
   },
   {
-   "baslik": "Kuzey Kore, taktik balistik füzeler için misket bombası başlığını test etti",
-   "ozet": "Kuzey Kore'nin, taktik balistik füzelerde kullanılmak üzere tasarlanan misket bombası başlığını test ettiği ve yıl sonuna kadar askeri birliklerin bu silahların 4 farklı türünü kullanabilmesini hedeflediği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T10:05+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Deniz Öncü, Dünya Moto2 Şampiyonası'nın Malezya ayağını tamamlayamadı",
    "ozet": "Milli motosikletçi Deniz Öncü, Dünya Moto2 Şampiyonası'nın Malezya ayağında kaza yaparak yarış dışı kaldı.",
    "url": "https://www.aa.com.tr/tr/spor/deniz-oncu-dunya-moto2-sampiyonasinin-malezya-ayagini-tamamlayamadi/4107743",
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-11-01T09:59+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Ersoy, Haydarpaşa ve Sirkeci için tarih verdi: İlk etapları 2027'de açmayı hedefliyoruz",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Haydarpaşa ile Sirkeci'yi İstanbul’un kültür ve sanat hayatına önemli katkılar sunacak iki yeni merkez olarak gördüklerini söyledi.",
-   "url": "https://www.ntv.com.tr/turkiye/bakan-ersoy-haydarpasa-ve-sirkeci-icin-tarih-verdi-ilk-etaplari-2027de-acmayi-hedefliyoruz-1748854",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T09:34+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "FBI, 6,3 milyar dolarlık kripto hırsızlığından Kuzey Kore'yi sorumlu tuttu",
-   "ozet": "ABD Federal Soruşturma Bürosu (FBI), Kuzey Kore'yi, kripto para borsası Binance'den 6,3 milyar dolar değerinde dijital varlık çalmakla suçladı.",
-   "url": "https://www.aa.com.tr/tr/dunya/fbi-6-3-milyar-dolarlik-kripto-hirsizligindan-kuzey-koreyi-sorumlu-tuttu/4107734",
-   "kaynak": "AA",
-   "kategori": "kripto",
-   "zaman": "2026-11-01T09:34+03:00",
    "sektor": false
   },
   {
@@ -1081,15 +1153,6 @@
    "sektor": false
   },
   {
-   "baslik": "Diyarbakır'a raylı sistem. 14 kilometre uzunluğundaki hat 20 duraktan oluşacak",
-   "ozet": "220 milyon euroya mal olması öngörülen yatırım için finansman anlaşması bekleniyor. Anlaşma sağlanırsa ilk kazma 2027 yılının başında vurulacak. (Haber: Nizamettin Kaplan)",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-diyarbakira-rayli-sistem-14-kilometre-uzunlugundaki-hat-20-duraktan-olusacak-1748849",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-01T09:11+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Bir maaş kiraya, bir maaş hayata",
    "ozet": "Türkiye'de kiralar ile çalışanların gelirleri arasındaki makas, barınmayı giderek daha ağır bir ekonomik yüke dönüştürdü. İstanbul'da iki kişinin çalıştığı bir hanenin toplam gelirinin yüzde 83'üne ulaşabilen kira bedelleri, büyük kentlerde",
    "url": "https://www.bloomberght.com/bir-maas-kiraya-bir-maas-hayata-3792996",
@@ -1099,48 +1162,12 @@
    "sektor": false
   },
   {
-   "baslik": "Bitcoin’de korku artarken düşüş riski sürüyor",
+   "baslik": "Bitcoin, korku tırmanırken daha fazla düşüş riskiyle karşı karşıya; Binance hack’i piyasaları sarstı",
    "ozet": "",
    "url": "https://tr.investing.com/news/cryptocurrency-news/bitcoinde-korku-artarken-dusus-riski-suruyor-4132005",
    "kaynak": "Investing.com",
    "kategori": "kripto",
    "zaman": "2026-11-01T08:19+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cadılar Bayramı partisine katıldı. \"Donald Trump olarak geldim\"",
-   "ozet": "Mar-a-Lago malikanesindeki geleneksel kostümlü Cadılar Bayramı partisine katılan ABD Başkanı Donald Trump, kıyafetini gösterdi ve \"Bu gece Donald Trump olarak geldim.\" diyerek espri yaptı.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-cadilar-bayrami-partisine-katildi-donald-trump-olarak-geldim-1748837",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T05:54+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kölelik krizi. Kral topu hükümete attı",
-   "ozet": "Başbakan Andy Burnham'ın, İngiltere'nin transatlantik köle ticaretindeki rolü için resmen özür dilemeye açık olduğu çıkışına Buckingham Sarayı'ndan yanıt geldi: Bu sarayın değil hükümetin sorumluluğu.",
-   "url": "https://www.ntv.com.tr/dunya/kolelik-krizi-kral-topu-hukumete-atti-1748836",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T04:40+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İngiltere kraliyet kaynakları: Kölelik için özür dilemek sarayın değil, hükümetin sorumluluğunda",
-   "ozet": "İngiltere Başbakanı Andy Burnham'ın Atlantik ötesi kölelikle ilgili özür talebine açık olduğunu belirtmesinin ardından kraliyete yakın kaynaklar, kölelik konusunda özür dileme sorumluluğunun Buckingham Sarayı'na değil, hükümete ait olduğunu",
-   "url": "https://www.aa.com.tr/tr/dunya/ingiltere-kraliyet-kaynaklari-kolelik-icin-ozur-dilemek-sarayin-degil-hukumetin-sorumlulugunda/4107701",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T03:45+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İngiltere'de yasaklanan Palestine Action'a destek eyleminde gözaltı sayısı 139'a çıktı",
-   "ozet": "İngiltere'nin başkenti Londra'da, ülkede İsrail ile iş yapan şirketlere yönelik eylemleri nedeniyle yasaklı örgüt ilan edilen Palestine Action'a destek için dün düzenlenen gösteride gözaltına alınanların sayısı 139'a yükseldi.",
-   "url": "https://www.aa.com.tr/tr/dunya/ingilterede-yasaklanan-palestine-actiona-destek-eyleminde-gozalti-sayisi-139a-cikti/4107695",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-01T02:43+03:00",
    "sektor": false
   },
   {
@@ -1177,15 +1204,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-11-01T00:16+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Avrupa'daki protesto dalgası Almanya'ya sıçradı, polis göstericiler müdahale etti",
-   "ozet": "Almanya'da 30'dan fazla kentte on binlerce kişi sokağa çıkarak artan yaşam maliyetlerini ve hükümetin askerlik düzenlemelerini protesto etti. Bazı kentlerde polisle çatışmalar yaşandı.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-avrupadaki-protesto-dalgasi-almanyaya-sicradi-polis-gostericiler-mudahale-etti-1748824",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-10-31T22:53+03:00",
    "sektor": false
   },
   {
@@ -1315,15 +1333,6 @@
    "sektor": false
   },
   {
-   "baslik": "BM Genel Sekreterliği yarışında Türkiye'nin hamlesi ne anlama geliyor?",
-   "ozet": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres'in görev süresi 31 Aralık 2026'da sona erecek. Yerine kimin seçileceğine dair yarışa Türkiye de katıldı. 31 Ekim'de adaylık başvurusunu yaptığı açıklayan Türkiye, Avrupa Güvenlik ve İşbir",
-   "url": "https://www.bbc.com/turkce/articles/cmy0e2x95l48o?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-10-31T16:44+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Rusya dizel ihracatı yasağını Ocak sonuna kadar uzattı",
    "ozet": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
    "url": "https://www.bloomberght.com/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti-3792987",
@@ -1375,24 +1384,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-10-31T13:39+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor",
-   "ozet": "Rekabet Kurumu Başkanı Birol Küle, \"Fındık alım-satım pazarının önde gelen 6 büyük teşebbüsü hakkında ciddi rekabet ihlali şüphesiyle 22 Ekim'de soruşturma açtık.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor/4107232",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-31T13:22+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Emine Erdoğan'dan Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin paylaşım",
-   "ozet": "Emine Erdoğan, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi'ne ilişkin paylaşım yaptı.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/emine-erdogandan-turk-devletleri-teskilati-13-zirvesine-iliskin-paylasim/4107224",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-10-31T13:17+03:00",
    "sektor": false
   }
  ],
