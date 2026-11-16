@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-15T23:59+03:00",
+ "guncelleme": "2026-11-16T03:58+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -9,42 +9,186 @@
   },
   {
    "ad": "Dolar/TL",
-   "deger": "50,35",
-   "degisim": "+%0,45",
+   "deger": "50,38",
+   "degisim": "+%0,34",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,58",
-   "degisim": "−%0,64",
+   "deger": "55,55",
+   "degisim": "−%1,42",
    "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "6.291 ₺",
-   "degisim": "−%3,57",
+   "deger": "6.312 ₺",
+   "degisim": "−%3,32",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "95,84 $",
-   "degisim": "+%4,75",
+   "deger": "95,33 $",
+   "degisim": "+%4,20",
    "yon": "up"
   },
   {
    "ad": "Bitcoin",
-   "deger": "65.121 $",
-   "degisim": "+%0,41",
+   "deger": "64.948 $",
+   "degisim": "+%2,37",
    "yon": "up"
   },
   {
    "ad": "Ethereum",
-   "deger": "1.826 $",
-   "degisim": "+%2,08",
+   "deger": "1.816 $",
+   "degisim": "+%4,37",
    "yon": "up"
   }
  ],
  "sonDakika": [
+  {
+   "baslik": "Yemen hükümet güçleri Babülmendep Boğazı civarından çekiliyor",
+   "ozet": "Yemen hükümet güçleri, Aden'deki ana üslerini savunmaya odaklanmak amacıyla Babülmendep Boğazı çevresindeki bölgelerden çekildiklerini açıkladı.",
+   "url": "https://www.bbc.com/turkce/articles/cm4gnznnnxvxo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-16T03:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 16 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-16-kasim-2026-1751040",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-16T03:30+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Teknik sorun giderildi, ABD'deki havacılık krizi bitmedi",
+   "ozet": "ABD'de hava ulaşımını felç eden kriz üçüncü gününe girdi. Teknik sorun giderildi ama dün de 5 bin 200'den fazla sefer iptal edildi ya da ertelendi. Uçuşların hafta başında normale dönmesi bekleniyor.",
+   "url": "https://www.ntv.com.tr/dunya/galeri-teknik-sorun-giderildi-abddeki-havacilik-krizi-bitmedi-1751050",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-16T03:29+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İngiltere'de Russell Brand davasının ardından cinsel rıza yaşı tartışması",
+   "ozet": "İngiltere'de komedyen ve aktör Russell Brand'ın tecavüz ve cinsel saldırı suçlarından 10 yıldan fazla hapis cezasına çarptırılmasının ardından, cinsel rıza yaşı tartışmaları başladı. Bir kampanya grubu 16 ve 17 yaşındakiler için kademeli rı",
+   "url": "https://www.bbc.com/turkce/articles/cvp8678kx3gzo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-16T03:06+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Otobüs ata çarptı. Yedek şoför hayatını kaybetti",
+   "ozet": "Nevşehir'de karayoluna çıkan ata çarpan şehirlerarası yolcu otobüsünün sürücüsü ile bir yolcu yaralandı, yedek sürücü hayatını kaybetti.",
+   "url": "https://www.ntv.com.tr/turkiye/otobus-ata-carpti-yedek-sofor-hayatini-kaybetti-1751047",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-16T02:00+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Husiler, Yemen'in Aden kentindeki askeri kampı balistik füzelerle hedef aldı",
+   "ozet": "Yemen'de İran destekli Husilerin, geçici başkent Aden'deki El-Kava Askeri Kampı'na balistik füzelerle saldırı düzenlediği bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/husiler-yemenin-aden-kentindeki-askeri-kampi-balistik-fuzelerle-hedef-aldi/4126069",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T01:37+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "UEFA Uluslar Ligi'nin 6. haftası 8 maçla başladı",
+   "ozet": "UEFA Uluslar Ligi'nin 6. haftası 8 maçla başladı. İngiltere deplasmanda İspanya'yı 3-2 mağlup ederek rakibinin 43 maçlık yenilmezlik serisine son verdi.",
+   "url": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-6-haftasi-8-macla-basladi/4126067",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T01:18+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor",
+   "ozet": "ABD ordusuna ait USS Theodore Roosevelt uçak gemisinin birkaç gün içinde Orta Doğu'ya ulaşarak görevine başlayacağı iddia edildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/nyt-uss-theodore-roosevelt-ucak-gemisi-orta-dogu-daki-gorevine-basliyor/4126063",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T01:07+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çekya'da yüz binlerce kişi kamu yayıncılarının finansmanının değiştirilmesini protesto etti",
+   "ozet": "Çekya'nın başkenti Prag'da, yüz binlerce kişi, hükümetin kamu yayıncılarının finansman sistemini değiştirmeyi öngören yasa tasarısını protesto etti.",
+   "url": "https://www.aa.com.tr/tr/dunya/cekyada-yuz-binlerce-kisi-kamu-yayincilarinin-finansmaninin-degistirilmesini-protesto-etti/4126062",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T01:02+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kasım SED ödemeleri hak sahiplerinin hesaplarına yatırıldı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayına ait Sosyal ve Ekonomik Destek (SED) ödemelerinin hesaplara yatırıldığını bildirdi.",
+   "url": "https://www.aa.com.tr/tr/gundem/kasim-sed-odemeleri-hak-sahiplerinin-hesaplarina-yatirildi/4126060",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T00:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD'de binlerce iç hat uçuşunun iptali ve rötarı devam ediyor",
+   "ozet": "ABD'de hava trafik kontrolündeki \"iletişim sorunu\" nedeniyle yaklaşık dört saat boyunca ülkede tüm hava trafiği durduruldu. FlightAware verilerine göre, süreçte 8.500'den fazla uçuş ertelendi ve yaklaşık 8.000 uçuş iptal edildi.",
+   "url": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-16T00:47+03:00",
+   "sektor": true
+  },
+  {
+   "baslik": "Türkiye, UEFA Uluslar Ligi'ni puansız tamamladı",
+   "ozet": "UEFA Uluslar A Ligi 1. Grup altıncı ve son maçında Fransa'ya 2-1 mağlup olan A Milli Futbol Takımı, grubu puansız son sırada bitirdi.",
+   "url": "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-ligini-puansiz-tamamladi/4126057",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T00:39+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Babülmendep'te kontrol Husilere geçiyor. Hükümet güçleri geri çekildi",
+   "ozet": "Yemen'de Suudi Arabistan destekli hükümet güçleri, İran destekli Husiler karşısında stratejik Babülmendep Boğazı çevresinden çekilerek Aden'in savunmasına yöneldi.",
+   "url": "https://www.ntv.com.tr/dunya/babulmendepte-kontrol-husilere-geciyor-hukumet-gucleri-geri-cekildi-1751041",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-16T00:38+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Hatay Mustafa Kemal Üniversitesi iklim krizine karşı geliştirdiği 8 projeyi COP31'de sunacak",
+   "ozet": "Hatay Mustafa Kemal Üniversitesi küresel iklim değişikliğiyle mücadele ve yeşil dönüşüm alanlarında geliştirdiği 8 projeyi, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda uluslararası kamuoyuna sunacak.",
+   "url": "https://www.aa.com.tr/tr/gundem/hatay-mustafa-kemal-universitesi-iklim-krizine-karsi-gelistirdigi-8-projeyi-cop31de-sunacak/4126055",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T00:35+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İşgal altındaki Batı Şeria'da İsrail askeri aracının çarptığı 2 Filistinli yaralandı",
+   "ozet": "İşgal altındaki Batı Şeria'nın Cenin kentinde İsrail güçlerine ait askeri aracın çarpması sonucu iki Filistinli yaralandı.",
+   "url": "https://www.aa.com.tr/tr/dunya/isgal-altindaki-bati-seriada-israil-askeri-aracinin-carptigi-2-filistinli-yaralandi/4126052",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-16T00:23+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Resmi Gazete'de bugün (16.11.2026)",
+   "ozet": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+   "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-16112026-3794684",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-11-16T00:04+03:00",
+   "sektor": false
+  },
   {
    "baslik": "Japonya'da tren rezervasyon sistemine siber saldırı. 3,37 milyon kişinin verisi risk altında",
    "ozet": "Japonya'da Skyliner ekspres tren hattının rezervasyon sistemine yetkisiz erişim sağlandığı ve yaklaşık 3,37 milyon müşterinin verilerinin sızdırılmış olabileceği bildirildi.",
@@ -79,15 +223,6 @@
    "kaynak": "NTV",
    "kategori": "dunya",
    "zaman": "2026-11-15T23:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
-   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
-   "kaynak": "NTV",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T23:30+03:00",
    "sektor": false
   },
   {
@@ -145,8 +280,8 @@
    "sektor": false
   },
   {
-   "baslik": "Trump, Putin ve Şi'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
-   "ozet": "ABD, Rusya ve Çin liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi arasında paralellikler ku",
+   "baslik": "Trump, Şi ve Putin'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
+   "ozet": "ABD, Çin ve Rusya liderlerinin tarihte ilk kez düzenlenecek üçlü toplantısına yönelik hazırlıklar Avrupa'nın dikkatini çekiyor. Bazıları bu durumla İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesi arasında paralellikler ku",
    "url": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
@@ -334,7 +469,7 @@
    "sektor": false
   },
   {
-   "baslik": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan PM'de kimler var?",
+   "baslik": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan Parti Meclisi'nde kimler var?",
    "ozet": "Yeni Parti'nin \"Türkiye Yenileniyor\" sloganıyla Ankara Spor Salonu'nda gerçekleştirdiği 1. Olağan Kurultayı'nın ikinci gününde Parti Meclisi (PM) ve 15 üyeli Yüksek Disiplin Kurulu (YDK) üyelikleri için seçim yapıldı.",
    "url": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
@@ -410,7 +545,7 @@
    "ozet": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki Kantara beldesi kırsalına hava saldırısı düzenlediği, Hadese beldesinde ise patlayıcılarla yıkım gerçekleştirdiği bildirildi.",
    "url": "https://www.aa.com.tr/tr/dunya/israil-ateskese-ragmen-lubnanin-guneyine-saldirdi/4125891",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-15T18:02+03:00",
    "sektor": false
   },
@@ -433,29 +568,11 @@
    "sektor": false
   },
   {
-   "baslik": "Hülya Koçyiğit ve Uğur Yücel COP31'de söyleşilere katıldı",
-   "ozet": "Oyuncular Hülya Koçyiğit ve Uğur Yücel, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen COP31 İklim Temalı Kısa Film Yarışması kapsamındaki söyleşilere katıldı.",
-   "url": "https://www.aa.com.tr/tr/kultur/hulya-kocyigit-ve-ugur-yucel-cop31de-soylesilere-katildi/4125885",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:55+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "TOBB, COP31'de yeşil dönüşümün ihtiyaç duyduğu yeni iş gücünü gündeme taşıdı",
-   "ozet": "Türkiye Odalar ve Borsalar Birliği (TOBB) koordinasyonunda COP31 Yeşil Alan'da hayata geçirilen Business Forum Hub, yeşil dönüşümün ihtiyaç duyduğu nitelikli iş gücünün yetiştirilmesine yönelik panele ev sahipliği yaptı.",
-   "url": "https://www.aa.com.tr/tr/gundem/tobb-cop31de-yesil-donusumun-ihtiyac-duydugu-yeni-is-gucunu-gundeme-tasidi/4125876",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:46+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Arap Koalisyonu: Mekke bölgesinde Husilere ait 2 İHA imha edildi",
    "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan'ın Mekke bölgesinde İran destekli Husiler tarafından fırlatılan 2 insansız hava aracının (İHA) havada engellenerek imha edildiğini açıkladı",
    "url": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-mekke-bolgesinde-husilere-ait-2-iha-imha-edildi/4125874",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-15T17:44+03:00",
    "sektor": false
   },
@@ -466,24 +583,6 @@
    "kaynak": "NTV",
    "kategori": "dunya",
    "zaman": "2026-11-15T17:43+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Orman Okulları 81 ile yaygınlaştırılacak",
-   "ozet": "Orman Genel Müdürü Bekir Karacabey, \"Milli Eğitim Bakanlığı ile yürütülen işbirliği kapsamında 2026 yılı yangın dönemi öncesinde yaklaşık 40 bin öğretmene eğitim verildi.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/gundem/orman-okullari-81-ile-yayginlastirilacak/4125872",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:42+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Uluslararası Ormancılık Eğitim Merkezi'ni 45 ülkeden katılımcı ziyaret etti",
-   "ozet": "COP31 dolayısıyla Antalya'ya gelen, aralarında yabancı ülkelerden bakanların da olduğu 45 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim Merkezi'ni gezdi.",
-   "url": "https://www.aa.com.tr/tr/gundem/uluslararasi-ormancilik-egitim-merkezini-45-ulkeden-katilimci-ziyaret-etti/4125871",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:40+03:00",
    "sektor": false
   },
   {
@@ -514,15 +613,6 @@
    "sektor": false
   },
   {
-   "baslik": "AK Parti Genel Başkan Yardımcısı Yalçın: Türk toplumu olarak dünyayı sömürülmesi gereken bir coğrafya olarak görmedik",
-   "ozet": "AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın, Türk toplumu olarak dünyayı hiçbir zaman kontrol edilmesi ve sömürülmesi gereken bir coğrafya olarak görmediklerini söyledi.",
-   "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-yalcin-turk-toplumu-olarak-dunyayi-somurulmesi-gereken-bir-cografya-olarak-gormedik/4125849",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:22+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Rize'de heyelan meydana geldi",
    "ozet": "Rize'nin Çayeli ilçesinde sağanağın ardından bazı noktalarda heyelan meydana geldi.",
    "url": "https://www.aa.com.tr/tr/gundem/rizede-heyelan-meydana-geldi/4125845",
@@ -538,15 +628,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-11-15T17:09+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bakan Kurum'dan Türkiye Pavilyonları paylaşımı",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31'deki Türkiye Pavilyonları'na ilişkin, \"COP31'de Türkiye'nin hikayesine yakından tanıklık etmek isteyen herkesi pavilyonlarımıza bekliyoruz.\" ifadelerini kulla",
-   "url": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-turkiye-pavilyonlari-paylasimi/4125840",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-15T17:01+03:00",
    "sektor": false
   },
   {
@@ -838,24 +919,6 @@
    "sektor": false
   },
   {
-   "baslik": "Bahçeli'den 50 maddede Terörsüz Türkiye",
-   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, 50 maddede Terörsüz Türkiye hedefini anlattı.",
-   "url": "https://www.ntv.com.tr/turkiye/bahceliden-50-maddede-terorsuz-turkiye-1750964",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-15T13:49+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yeni Parti kurultayında ilk gün neler yaşandı, Özgür Özel ne mesajlar verdi?",
-   "ozet": "Yeni Parti, ilk olağan \"Kuruluş Kurultayı\"nı 14-15 Kasım tarihlerinde Ankara'da gerçekleştiriyor. Kurultayın ilk gününde Özgür Özel konuşmasına, \"Bu salonda yenilgiyi kabul kaybetmeyenleri, teslim olmayanları görüyorum\" diyerek başladı. Öze",
-   "url": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T13:49+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Bakan Şimşek: Fonların tasfiyesinde, bugüne kadar 444 bin 987 kişiye 161 milyar lira ödendi",
    "ozet": "Hazine ve Maliye Bakanı Şimşek, olağan ve olağanüstü fonların tasfiyesinde, bugüne kadar toplamda 131 fonun 119'unda, 444 bin 987 kişiye 161 milyar lira ödendiğini söyledi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-fonlarin-tasfiyesinde-bugune-kadar-444-bin-987-kisiye-161-milyar-lira-odendi/4125708",
@@ -1027,39 +1090,12 @@
    "sektor": false
   },
   {
-   "baslik": "Belçika'nın Liege kentindeki öğrenci gösterilerinde polise 116 yasa dışı eylem suçlaması",
-   "ozet": "Belçika'nın Liege kentinde ekim ayında düzenlenen öğrenci gösterileri sırasında polisin 116 yasa dışı eylemde bulunduğu, bunların 47'sinin fiziksel şiddet içerdiği iddia edildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/belcikanin-liege-kentindeki-ogrenci-gosterilerinde-polise-116-yasa-disi-eylem-suclamasi/4125636",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T12:09+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "İspanya gerçekten bir 'öpüşme ülkesi' mi?",
    "ozet": "İspanya'da, insanların toplum içinde öpüşmesi gündelik bir manzara. Ancak ülkenin, kamusal alanda sevgi gösterilerinde bulunma konusundaki bu rahatlığı, baskı ve başkaldırıyla dolu şaşırtıcı bir geçmişi gözler önüne seriyor.",
    "url": "https://www.bbc.com/turkce/articles/cq36gnknx14lo?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
    "zaman": "2026-11-15T12:06+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Kanada Başbakanı Carney, ABD ile ticaret görüşmelerinde ilerleme kaydettiklerini söyledi",
-   "ozet": "Kanada Başbakanı Mark Carney, ABD ile ülkesi arasındaki ticaret müzakerelerinde ilerleme kaydedildiğini ancak tarafların henüz anlaşmaya varmadığını belirtti.",
-   "url": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-ile-ticaret-gorusmelerinde-ilerleme-kaydettiklerini-soyledi/4125628",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T12:01+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan KKTC'nin kuruluşunun 43. yıl dönümünü kutladı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) 43’üncü kuruluş yıl dönümünü tebrik etti.",
-   "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kktcnin-kurulusunun-43-yil-donumunu-kutladi-1750966",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-15T11:59+03:00",
    "sektor": false
   },
   {
@@ -1096,24 +1132,6 @@
    "kaynak": "AA",
    "kategori": "ekonomi",
    "zaman": "2026-11-15T11:15+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Fildişi Sahili'nde savaşın acı hatıraları barışın önemini ortaya koyuyor",
-   "ozet": "Fildişi Sahili'nde 1999 darbesi, 2002'de başlayan iç savaş ve 2010-2011 yıllarındaki seçim sonrası çatışmaların izleri toplumun hafızasında varlığını korurken, 15 Kasım Ulusal Barış Günü toplumsal uzlaşının güçlendirilmesi açısından önem ta",
-   "url": "https://www.aa.com.tr/tr/dunya/fildisi-sahilinde-savasin-aci-hatiralari-barisin-onemini-ortaya-koyuyor/4125590",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T11:13+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Vietnam'da istiridyeden mücevhere uzanan incinin yolculuğu yıllar sürüyor",
-   "ozet": "Ha Long Körfezi'nde deniz istiridyelerinde yetiştirilen ve oluşması beş yılı aşabilen inciler, kalitesine göre 5 bin dolara alıcı bulabiliyor.",
-   "url": "https://www.aa.com.tr/tr/dunya/vietnamda-istiridyeden-mucevhere-uzanan-incinin-yolculugu-yillar-suruyor/4125587",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T11:11+03:00",
    "sektor": false
   },
   {
@@ -1267,24 +1285,6 @@
    "kaynak": "Investing.com",
    "kategori": "kripto",
    "zaman": "2026-11-15T08:40+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İsrail basını: İran, Trump'ı İHA saldırısıyla hedef almayı planlıyor",
-   "ozet": "Mossad'ın, İran'ın, ABD Başkanı Donald Trump ve bazı üst düzey ABD'li yetkilileri İHA saldırılarıyla hedef almayı planladığı iddiasına ilişkin istihbaratı CIA ile paylaştığı ileri sürüldü.",
-   "url": "https://www.ntv.com.tr/dunya/israil-basini-iran-trumpi-iha-saldirisiyla-hedef-almayi-planliyor-1750915",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T08:34+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Almanya'da Z kuşağı eylemlerine polisten yumruklu müdahale",
-   "ozet": "Almanya’nın başkenti Berlin’de sosyal harcamalardaki kesintilere ve hükümetin zorunlu askerlik planına karşı düzenlenen eylemde polis göstericilere sert müdahale etti.",
-   "url": "https://www.ntv.com.tr/dunya/galeri-almanyada-z-kusagi-eylemlerine-polisten-yumruklu-mudahale-1750913",
-   "kaynak": "NTV",
-   "kategori": "dunya",
-   "zaman": "2026-11-15T08:19+03:00",
    "sektor": false
   },
   {
