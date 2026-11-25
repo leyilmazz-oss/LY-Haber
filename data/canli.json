@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-24T23:51+03:00",
+ "guncelleme": "2026-11-25T07:06+03:00",
  "piyasa": [
   {
    "ad": "BIST 100",
@@ -9,49 +9,301 @@
   },
   {
    "ad": "Dolar/TL",
-   "deger": "50,62",
-   "degisim": "+%0,36",
+   "deger": "50,67",
+   "degisim": "+%0,42",
    "yon": "up"
   },
   {
    "ad": "Euro/TL",
-   "deger": "55,59",
-   "degisim": "+%0,21",
-   "yon": "up"
+   "deger": "55,46",
+   "degisim": "−%0,06",
+   "yon": "down"
   },
   {
    "ad": "Gram altın",
-   "deger": "5.776 ₺",
-   "degisim": "−%3,71",
+   "deger": "5.780 ₺",
+   "degisim": "−%3,74",
    "yon": "down"
   },
   {
    "ad": "Brent",
-   "deger": "88,13 $",
-   "degisim": "−%4,19",
+   "deger": "87,49 $",
+   "degisim": "−%4,88",
    "yon": "down"
   },
   {
    "ad": "Bitcoin",
-   "deger": "59.604 $",
-   "degisim": "−%2,45",
+   "deger": "59.197 $",
+   "degisim": "−%1,77",
    "yon": "down"
   },
   {
    "ad": "Ethereum",
-   "deger": "1.673 $",
-   "degisim": "−%2,81",
+   "deger": "1.656 $",
+   "degisim": "−%2,23",
    "yon": "down"
   }
  ],
  "sonDakika": [
   {
-   "baslik": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
-   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
+   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T07:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kolombiya'da silahlı kişiler tarafından süpermarkette alıkonulan 30 kişiden 10'u serbest bırakıldı",
+   "ozet": "Kolombiya'nın kuzeyindeki Cartagena kentinde, silahlı kişiler tarafından bir süpermarkette alıkonulan 30 kişiden 10'unun serbest bırakıldığı bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/kolombiyada-silahli-kisiler-tarafindan-supermarkette-alikonulan-30-kisiden-10u-serbest-birakildi/4136560",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T07:00+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü",
+   "ozet": "Çorum'da boşanma aşamasında olduğu eşi Esin Özdemir’i 3 çocuğunun gözü önünde öldüren saldırgan, 11 saat polise direndikten sonra intihara teşebbüs etti.",
+   "url": "https://www.ntv.com.tr/turkiye/corumda-kadin-cinayeti-bosanma-asamasinda-oldugu-esini-3-cocugunun-onunde-oldurdu-1752453",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T06:28+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Kolombiya'da rehine krizi: Marketteki 30 kişiden 10’u serbest bırakıldı",
+   "ozet": "Kolombiya polisi, silahlı saldırganların başarısız bir soygun girişiminin ardından süpermarkette rehin aldıkları 30 kişiden 10'unu serbest bıraktığını açıkladı.",
+   "url": "https://www.ntv.com.tr/dunya/kolombiyada-rehine-krizi-marketteki-30-kisiden-10u-serbest-birakildi-1752452",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-25T06:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail ordusu, Batı Şeria'daki uygulamalarla on binlerce Filistinlinin hareket özgürlüğünü kısıtladı",
+   "ozet": "İsrail ordusunun, işgal altındaki Batı Şeria'nın El Halil kentinin batısında yer alan köylere 5 demir kapı yerleştirerek yaklaşık 70 bin Filistinlinin hareket özgürlüğünü kısıtladığı bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriadaki-uygulamalarla-on-binlerce-filistinlinin-hareket-ozgurlugunu-kisitladi/4136554",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T06:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Trabzon'da cadde ve sokaklar göle döndü",
+   "ozet": "Trabzon'un Ortahisar ilçesinde şiddetli yağış nedeniyle birçok noktada su baskınları yaşandı. Bir istinat duvarının çökmesi sonucu 5 araç zarar gördü. Sürmene ve Yomra' da dereler taştı.",
+   "url": "https://www.ntv.com.tr/turkiye/trabzonda-cadde-ve-sokaklar-gole-dondu-1752451",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T06:01+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "EOS 14% oranında geriledi",
+   "ozet": "",
+   "url": "https://tr.investing.com/news/cryptocurrency-news/eos-14-orannda-geriledi-4172209",
+   "kaynak": "Investing.com",
+   "kategori": "kripto",
+   "zaman": "2026-11-25T05:55+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
+   "ozet": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
+   "url": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T05:33+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı",
+   "ozet": "ABD merkezi istihbarat teşkilatı CIA bazı gizli olmayan verilerin sızmasına yol açan bir siber güvenlik ihlali tespit etti.",
+   "url": "https://www.ntv.com.tr/dunya/abdde-yeni-siber-saldiri-ciaden-bazi-gizli-olmayan-bilgiler-sizdirildi-1752449",
+   "kaynak": "NTV",
+   "kategori": "dunya",
+   "zaman": "2026-11-25T04:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
+   "ozet": "Çin'in Dünya yörüngesinde kurduğu Tiengong (Gök Sarayı) Uzay İstasyonu'nda görev yapacak yeni astronot ekibi yola çıktı.",
+   "url": "https://www.ntv.com.tr/turkiye/cin-tiengong-uzay-istasyonuna-yeni-astronot-ekibini-yolladi-1752448",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T04:16+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Sahte plakayla trafiğe çıkan sürücüye 650 bin TL ceza yazıldı",
+   "ozet": "Polis ekiplerinin \"dur\" ihtarına uymayarak, kaçan sürücü yakalanınca plakasının sahte olduğu anlaşıldı. Sürücüye 650 bin TL idari para cezası yazıldı.",
+   "url": "https://www.ntv.com.tr/turkiye/sahte-plakayla-trafige-cikan-surucuye-650-bin-tl-ceza-yazildi-1752447",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T03:24+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Ünlülere yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında Özcan Deniz ve Deniz Çakır da var.",
    "url": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
    "kaynak": "NTV",
    "kategori": "turkiye",
-   "zaman": "2026-11-24T23:45+03:00",
+   "zaman": "2026-11-25T02:58+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İngiltere'de bu yaz aşırı sıcaklığa bağlı 5 binden fazla kişi öldü",
+   "ozet": "İngiltere'de bu yaz aşırı sıcaklığa bağlı 5 bin 258 kişinin yaşamını yitirdiğinin tahmin edildiği ve bu sayının 2016'dan bu yana kaydedilen \"en yüksek seviye\" olduğu bildirildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/ingilterede-bu-yaz-asiri-sicakliga-bagli-5-binden-fazla-kisi-oldu/4136528",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T02:15+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "ozet": "Cumhurbaşkanlığı kararıyla 41 ilin valisi değişti, 14 ilin valisi merkeze alındı.",
+   "url": "https://www.bbc.com/turkce/articles/cmge3q17n44xo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-25T02:09+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
+   "ozet": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi.",
+   "url": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T01:48+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Gazze'de çadırlarda yaşayan 1,76 milyon Filistinli yeni soğuk hava dalgasının tehdidi altında",
+   "ozet": "Gazze'deki hükümet, birkaç gün içinde bölgede etkili olması beklenen sağanak ve soğuk hava dalgasının çadırlarda yaşayan 1,76 milyon yerinden edilmiş Filistinlinin hayatını tehdit ettiğini bildirdi.",
+   "url": "https://www.aa.com.tr/tr/dunya/gazzede-cadirlarda-yasayan-1-76-milyon-filistinli-yeni-soguk-hava-dalgasinin-tehdidi-altinda/4136509",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T01:02+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti",
+   "ozet": "Türk siyasetinin deneyimli isimlerinden, eski CHP Genel Başkanı ve TBMM Başkanı Hikmet Çetin hayatını kaybetti.",
+   "url": "https://www.ntv.com.tr/turkiye/eski-chp-genel-baskani-hikmet-cetin-hayatini-kaybetti-1752414",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T00:52+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Atama kararları yayımlandı. 41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "ozet": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile aralarında Muğla Valisi'nin de bulunduğu 14 vali merkeze çekildi.",
+   "url": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
+   "kaynak": "NTV",
+   "kategori": "turkiye",
+   "zaman": "2026-11-25T00:50+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
+   "ozet": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti. Kazanın sebebi henüz açıklanmadı.",
+   "url": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-25T00:47+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Mısır Dışişleri Bakanı Abdulati: ABD ile İran arasındaki arabuluculuk çalışmalarına katkı sunuyoruz",
+   "ozet": "Mısır Dışişleri Bakanı Bedr Abdulati, ülkesinin geçen şubat ayından bu yana ABD ile İran arasında süren savaşın durdurulması için yürütülen arabuluculuk çalışmalarına katkı sunduğunu belirtti.",
+   "url": "https://www.aa.com.tr/tr/dunya/misir-disisleri-bakani-abdulati-abd-ile-iran-arasindaki-arabuluculuk-calismalarina-katki-sunuyoruz/4136496",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T00:36+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Eski Fransa Cumhurbaşkanı Sarkozy ve eşi Carla Bruni yargılanacak",
+   "ozet": "Eski Fransa cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy, dönemin Libya lideri Muammer Kaddafi'nin 2007'de Fransa'daki seçim kampanyasına usulsüz şekilde mali destek sağladığı iddialarıyla ilgili gelecek yıl yargılanacak.",
+   "url": "https://www.bbc.com/turkce/articles/cmqj5qzzq02qo?at_medium=RSS&at_campaign=rss",
+   "kaynak": "BBC Türkçe",
+   "kategori": "dunya",
+   "zaman": "2026-11-25T00:21+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Huang, Trump'ın baskısıyla Nvidia'ya döndüğü iddiasını reddetti",
+   "ozet": "Nvidia CEO'su Jensen Huang, göreve dönüşünün Trump'ın baskısıyla değil, yönetim kurulunun değerlendirmesi sonucunda gerçekleştiğini söyledi. Çalışanlardan özür dileyen Huang, şirketin davranış kurallarını ihlal ettiğini kabul etti.",
+   "url": "https://www.bloomberght.com/huang-trump-in-baskisiyla-nvidia-ya-dondugu-iddiasini-reddetti-3795597",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-11-25T00:18+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Valiler Kararnamesi Resmi Gazete'de",
+   "ozet": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze çekildi, 41 ilin valisi değişti.",
+   "url": "https://www.aa.com.tr/tr/gundem/valiler-kararnamesi-resmi-gazetede/4136485",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T00:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "ABD bankacılık sektörünün net kârı üçüncü çeyrekte yüzde 5,9 düştü",
+   "ozet": "ABD bankacılık sektörünün net kârı, üçüncü çeyrekte önceki çeyreğe göre yüzde 5,9 azalarak 84,8 milyar dolara geriledi. Sektörün kârı yıllık bazda yüzde 7 artarken menkul kıymet portföylerindeki gerçekleşmemiş zararlar 486 milyar dolara yük",
+   "url": "https://www.bloomberght.com/abd-bankacilik-sektorunun-net-kri-ucuncu-ceyrekte-yuzde-5-9-dustu-3795596",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-11-25T00:12+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Resmi Gazete'de bugün (25.11.2026)",
+   "ozet": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+   "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-25112026-3795595",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-11-25T00:03+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Süper Lig'den 9 kulüp PFDK'ye sevk edildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "url": "https://www.aa.com.tr/tr/spor/super-ligden-9-kulup-pfdkye-sevk-edildi/4136475",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-25T00:01+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İsrail basını: Eisenkot gelecek hafta hükümeti kurduğunu açıklamayı planlıyor",
+   "ozet": "Eisenkot'un Herzog'dan 14 günlük ek süre talebinde bulunmayacağı ve İsrail vatandaşı Filistinlileri temsil eden partilerin dışarıdan desteğiyle bir azınlık hükümeti kurduğunu açıklayacağı iddia edildi.",
+   "url": "https://www.aa.com.tr/tr/dunya/israil-basini-eisenkot-gelecek-hafta-hukumeti-kurdugunu-aciklamayi-planliyor/4136469",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-24T23:54+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 23 zanlı yakalandı",
+   "ozet": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 23'ü gözaltına alındı.",
+   "url": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-23-zanli-yakalandi/4136467",
+   "kaynak": "AA",
+   "kategori": "gundem",
+   "zaman": "2026-11-24T23:51+03:00",
+   "sektor": false
+  },
+  {
+   "baslik": "Birleşik Krallık'tan yapay zeka destekli siber saldırılara karşı uyarı",
+   "ozet": "Birleşik Krallık hükümetinin siber güvenlik birimi, son aylarda yapay zeka destekli siber saldırılarda belirgin bir artış gözlemlediklerini açıkladı.",
+   "url": "https://www.bloomberght.com/birlesik-krallik-tan-yapay-zeka-destekli-siber-saldirilara-karsi-uyari-3795594",
+   "kaynak": "Bloomberg HT",
+   "kategori": "finans",
+   "zaman": "2026-11-24T23:48+03:00",
    "sektor": false
   },
   {
@@ -65,7 +317,7 @@
   },
   {
    "baslik": "Bazı illerde kar yağışı etkili oluyor",
-   "ozet": "Bazı illerde kar yağışı etkili olurken, ekipleri buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor.",
+   "ozet": "Bazı illerde kar yağışı etkili olurken, ekipler buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor.",
    "url": "https://www.aa.com.tr/tr/gundem/bazi-illerde-kar-yagisi-etkili-oluyor/4136461",
    "kaynak": "AA",
    "kategori": "gundem",
@@ -88,24 +340,6 @@
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-11-24T23:31+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
-   "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-24-kasim-2026-1752265",
-   "kaynak": "NTV",
-   "kategori": "gundem",
-   "zaman": "2026-11-24T23:30+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
-   "ozet": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti. Kazanın sebebi henüz açıklanmadı.",
-   "url": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
-   "kaynak": "BBC Türkçe",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T23:27+03:00",
    "sektor": false
   },
   {
@@ -181,15 +415,6 @@
    "sektor": false
   },
   {
-   "baslik": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
-   "ozet": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi.",
-   "url": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T22:54+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Ulaştırma Bakanı: HGS'yle ilgili usulsüz bütün ödemeleri geri iade ettireceğiz",
    "ozet": "Ulaştırma Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi'yle (HGS) ilgili \"usulüne uygun yapılmamış icra takiplerinde ödemelerin geri iade ettirileceğini\" açıkladı.",
    "url": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo?at_medium=RSS&at_campaign=rss",
@@ -232,15 +457,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-11-24T22:34+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-   "ozet": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
-   "url": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T22:26+03:00",
    "sektor": false
   },
   {
@@ -352,20 +568,11 @@
    "sektor": false
   },
   {
-   "baslik": "SpaceX, ABD Uzay Kuvvetleri için USSF-266 görevini gerçekleştirdi",
-   "ozet": "ABD merkezli uzay şirketi SpaceX'in, ABD Uzay Kuvvetleri için USSF-266 görevini Falcon 9 roketiyle gerçekleştirdiği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abd-uzay-kuvvetleri-icin-ussf-266-gorevini-gerceklestirdi/4136331",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-24T21:41+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Polonya, hava sahası ihlali nedeniyle Rusya'ya nota verdi",
    "ozet": "Polonya Dışişleri Bakanlığı, Rusya'nın Ukrayna'ya yönelik saldırısı sırasında Rusya'ya ait 3 seyir füzesinin Polonya hava sahasını ihlal ederek ülke topraklarına düşmesi nedeniyle Rusya'ya nota verdi.",
    "url": "https://www.aa.com.tr/tr/dunya/polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi/4136327",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-24T21:38+03:00",
    "sektor": false
   },
@@ -388,21 +595,12 @@
    "sektor": false
   },
   {
-   "baslik": "AKP Genel Başkan Yardımcısı Hayati Yazıcı görevlerinden istifa etti",
+   "baslik": "AKP Genel Başkan Yardımcısı Hayati Yazıcı neden istifa etti?",
    "ozet": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, oğlu Mustafa Yazıcı hakkındaki iddiaların ardından partideki görevlerinden istifa ettiğini açıkladı.",
    "url": "https://www.bbc.com/turkce/articles/c5vg2nxdkmdro?at_medium=RSS&at_campaign=rss",
    "kaynak": "BBC Türkçe",
    "kategori": "dunya",
    "zaman": "2026-11-24T21:11+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Türkiye ile Suriye, ortak tarihi ve kültürel mirasın korunması için atılabilecek adımları görüştü",
-   "ozet": "Türkiye'nin Şam Büyükelçisi Nuh Yılmaz, Suriye Kültür Bakanı Muhammed Yasin el-Salih ile iki ülkenin ortak tarihi ve kültürel mirasının korunmasına yönelik işbirliği imkanlarını ele aldı.",
-   "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-suriye-ortak-tarihi-ve-kulturel-mirasin-korunmasi-icin-atilabilecek-adimlari-gorustu/4136303",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-24T21:08+03:00",
    "sektor": false
   },
   {
@@ -437,7 +635,7 @@
    "ozet": "ABD'de Başkan Donald Trump yönetimi yetkililerinin, İran'da yönetimdeki üst düzey isimlere yönelik suikast düzenleyip düzenlememe konusunu tartıştığı öne sürüldü.",
    "url": "https://www.aa.com.tr/tr/dunya/nbc-trump-yonetimi-yetkilileri-iranli-ust-duzey-isimlere-suikasti-degerlendiriyor/4136288",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-24T20:50+03:00",
    "sektor": false
   },
@@ -446,7 +644,7 @@
    "ozet": "Halkbank Genel Müdürü Recep Süleyman Özdil, kadınların iş fikirleri geliştirmelerine ve yeni işbirlikleri kurmalarına katkı sağlamak amacıyla hayata geçirdikleri \"Halkbank Üreten Kadınlar Buluşmaları\" kapsamında girişimcilerle bir araya gel",
    "url": "https://www.aa.com.tr/tr/ekonomi/halkbank-ureten-kadinlar-bulusmalarinin-yeni-duragi-hatay-oldu/4136284",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-11-24T20:42+03:00",
    "sektor": false
   },
@@ -455,7 +653,7 @@
    "ozet": "Almanya'da aile içi şiddete maruz kalanların sayısının 2025'te bir yıl öncesine göre yüzde 2,8 oranında artarak 280 bin 129'a çıktığı bildirildi.",
    "url": "https://www.aa.com.tr/tr/dunya/almanyada-aile-ici-siddete-maruz-kalanlarin-sayisi-rekor-seviyeye-ulasti/4136281",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-24T20:41+03:00",
    "sektor": false
   },
@@ -469,20 +667,11 @@
    "sektor": false
   },
   {
-   "baslik": "Eskişehir'de kaza kırıma uğrayan helikopterde 5 asker şehit oldu",
-   "ozet": "Milli Savunma Bakanlığı, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan Hava Kuvvetleri Komutanlığına ait helikopterdeki 5 askerin şehit olduğunu bildirdi.",
-   "url": "https://www.aa.com.tr/tr/gundem/eskisehirde-kaza-kirima-ugrayan-helikopterde-5-asker-sehit-oldu/4136211",
-   "kaynak": "AA",
-   "kategori": "gundem",
-   "zaman": "2026-11-24T20:22+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "İsrail'in Gazze'de ateşkesi 6 bin 405 kez ihlal ettiği, 1690 Filistinliyi öldürdüğü açıklandı",
    "ozet": "Gazze'deki hükümet, İsrail'in ateşkes kapsamında insani yardım tırlarının girişine ilişkin yükümlülüklerini yüzde 33, sınır kapılarındaki geçişlere ilişkin taahhütlerini ise yüzde 37 oranında yerine getirdiğini bildirdi.",
    "url": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-1690-filistinliyi-oldurdugu-aciklandi-/4136191",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "dunya",
    "zaman": "2026-11-24T20:15+03:00",
    "sektor": false
   },
@@ -509,7 +698,7 @@
    "ozet": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'de verimlilik performansının son 3-4 yıldır istikrarlı şekilde iyileştiğini bildirdi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-verimlilik-artisi-istikrarli-sekilde-iyilesiyor/4136184",
    "kaynak": "AA",
-   "kategori": "gundem",
+   "kategori": "ekonomi",
    "zaman": "2026-11-24T20:04+03:00",
    "sektor": false
   },
@@ -658,18 +847,9 @@
    "sektor": false
   },
   {
-   "baslik": "Piyasa özeti: 24 Kasım 2026 Borsa, Döviz, Altın ve Kripto piyasalarındaki son durum",
-   "ozet": "Borsa İstanbul günü (24 Kasım 2026 Salı) düşüşle tamamladı. BIST 100 endeksi, yüzde -1.25 değer kaybederek 10.965.93 puanla günü kapattı. Dolar 50.63 TL'yi gördü. Kapalı Çarşı'da gram altın ise düne göre yüzde -0,79 düşüşle 5.865,44 TL oldu",
-   "url": "https://www.bloomberght.com/piyasa-ozeti-24-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3795567",
-   "kaynak": "Bloomberg HT",
-   "kategori": "kripto",
-   "zaman": "2026-11-24T18:30+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yemen'de Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
-   "ozet": "Yemen ordusu, Taiz vilayetinde Husilere ait mevzilere hava saldırıları düzenlediğini açıklarken, Husiler başkent Sana ve diğer 3 vilayetin Suudi Arabistan'ın hava saldırılarına maruz kaldığını iddia etti.",
-   "url": "https://www.aa.com.tr/tr/dunya/yemende-husiler-ile-hukumet-gucleri-arasindaki-catismalar-suruyor/4136082",
+   "baslik": "Yemen'deki Husiler: Suudi Arabistan, başkent Sana'ya, Amran'a ve Hudeyde Limanı'na hava saldırıları düzenledi",
+   "ozet": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın kontrollerindeki Sana ve Amran kentlerinin yanı sıra Kızıldeniz'e açılan Hudeyde Limanı'nı hava saldırısıyla hedef aldığını duyurdu.",
+   "url": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistan-baskent-sanaya-amrana-ve-hudeyde-limanina-hava-saldirilari-duzenledi/4136082",
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-11-24T18:26+03:00",
@@ -709,15 +889,6 @@
    "kaynak": "AA",
    "kategori": "dunya",
    "zaman": "2026-11-24T18:06+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti",
-   "ozet": "Türk siyasetinin deneyimli isimlerinden, eski CHP Genel Başkanı ve TBMM Başkanı Hikmet Çetin hayatını kaybetti.",
-   "url": "https://www.ntv.com.tr/otomobil/eski-chp-genel-baskani-hikmet-cetin-hayatini-kaybetti-1752414",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T18:02+03:00",
    "sektor": false
   },
   {
@@ -910,15 +1081,6 @@
    "sektor": false
   },
   {
-   "baslik": "Pezeşkiyan'dan ABD'nin İran'daki hedeflerine karşı ulusal birliğin güçlendirilmesi gerektiği mesajı",
-   "ozet": "İran Cumhurbaşkanı Mesud Pezeşkiyan, halkın ekonomik koşullarının iyileştirilmesi gerektiğini belirterek, ABD'nin İran'da \"kargaşa ve istikrarsızlık oluşturma hedeflerine\" karşı ulusal birlik ve dayanışmanın güçlendirilmesi gerektiğini söyl",
-   "url": "https://www.aa.com.tr/tr/dunya/pezeskiyandan-abdnin-irandaki-hedeflerine-karsi-ulusal-birligin-guclendirilmesi-gerektigi-mesaji/4135869",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T15:58+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Fransa, Çin'e bağımlılığı azaltmak için nadir toprak elementleri stoku oluşturacak",
    "ozet": "Fransa'nın, Çin tedarikine bağımlılığı azaltma çabaları kapsamında gelecek yıldan itibaren nadir toprak elementleri ve bazı kritik minerallerden oluşan stratejik rezervler oluşturacağı bildirildi.",
    "url": "https://www.ntv.com.tr/dunya/fransa-cine-bagimliligi-azaltmak-icin-nadir-toprak-elementleri-stoku-olusturacak-1752408",
@@ -955,48 +1117,12 @@
    "sektor": false
   },
   {
-   "baslik": "Rusya: Ukrayna konulu üçlü müzakerelerin sürdürülmesi gerektiği yönünde anlayış var",
-   "ozet": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna konulu Rusya, ABD ve Ukrayna arasındaki üçlü müzakerelerin bir sonraki turunun tarihinin henüz belirlenmediğini belirterek, \"Bu müzakerelerin devam etmesi gerektiği yönünde bir anlayış var.\" dedi.",
-   "url": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konulu-uclu-muzakerelerin-surdurulmesi-gerektigi-yonunde-anlayis-var/4135807",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T15:27+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "WSJ: Pentagon, İHA üretimini artırmak amacıyla otomotiv üreticileriyle görüşüyor",
-   "ozet": "ABD Savunma Bakanlığının (Pentagon), insansız hava aracı (İHA) üretimini artırmak amacıyla önde gelen otomotiv üreticileriyle görüşmeler yaptığı öne sürüldü.",
-   "url": "https://www.aa.com.tr/tr/dunya/wsj-pentagon-iha-uretimini-artirmak-amaciyla-otomotiv-ureticileriyle-gorusuyor/4135808",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T15:27+03:00",
-   "sektor": true
-  },
-  {
    "baslik": "Spotify çöktü mü, neden açılmıyor? 24 Kasım Spotify erişim sorunu",
    "ozet": "Dünyanın en popüler dijital müzik ve podcast platformu Spotify’da 24 Kasım 2026 Salı öğle saatlerinden itibaren kullanıcıları etkileyen bir erişim sorunu yaşanmaya başladı.",
    "url": "https://www.ntv.com.tr/turkiye/spotify-coktu-mu-neden-acilmiyor-24-kasim-spotify-erisim-sorunu-1752405",
    "kaynak": "NTV",
    "kategori": "turkiye",
    "zaman": "2026-11-24T15:26+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "71 ilde mali suç örgütlerine operasyon, 455 şüpheliye işlem",
-   "ozet": "İçişleri Bakanlığı, tefecilik, dolandırıcılık, rüşvet ve kara para aklama gibi suçlara yönelik 71 ilde 455 şüpheliye eş zamanlı operasyon düzenlendiğini duyurdu.",
-   "url": "https://www.ntv.com.tr/turkiye/71-ilde-mali-suc-orgutlerine-operasyon-455-supheliye-islem-1752398",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T15:19+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Ömer Çelik ve Efkan Ala'dan Yeni Parti'nin grup toplantısındaki sloganlara tepki",
-   "ozet": "AK Parti'nin üst düzey isimleri, Yeni Parti'nin Meclis'teki grup toplantısında Cumhurbaşkanı Erdoğan'la ilgili atılan sloganlara tepki gösterdi.",
-   "url": "https://www.ntv.com.tr/turkiye/omer-celik-ve-efkan-aladan-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-1752403",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T15:18+03:00",
    "sektor": false
   },
   {
@@ -1025,15 +1151,6 @@
    "kategori": "finans",
    "zaman": "2026-11-24T15:18+03:00",
    "sektor": true
-  },
-  {
-   "baslik": "ABD'de uzmanlardan tek doz aşı olan yetişkinlerin \"kızamık riski\" altında olduğu uyarısı",
-   "ozet": "ABD'de \"kızamığın ortadan kaldırıldığı ülke\" statüsünün kaybedilmesinin ardından uzmanlar, 1989 yılından önce doğan ve çocuklukta tek doz aşı olan milyonlarca yetişkinin \"yüksek risk altında\" olabileceği uyarısında bulundu.",
-   "url": "https://www.aa.com.tr/tr/dunya/abdde-uzmanlardan-tek-doz-asi-olan-yetiskinlerin-kizamik-riski-altinda-oldugu-uyarisi/4135792",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T15:14+03:00",
-   "sektor": false
   },
   {
    "baslik": "Gazprom, Çin'e yeni doğal gaz sevkiyatı için hazırlıklarını tamamlıyor",
@@ -1072,15 +1189,6 @@
    "sektor": false
   },
   {
-   "baslik": "Jared Kushner, Trump'ı Zelenskiy'e yönelik sert tutumundan vazgeçirmeye çalıştığını söyledi",
-   "ozet": "ABD Başkanı Donald Trump'ın damadı ve Özel Temsilcisi Jared Kushner, Trump'ı, Ukrayna Devlet Başkanı Volodimir Zelenskiy'e yönelik sert tutumundan vazgeçirmeye çalıştığını belirtti.",
-   "url": "https://www.aa.com.tr/tr/dunya/jared-kushner-trumpi-zelenskiye-yonelik-sert-tutumundan-vazgecirmeye-calistigini-soyledi/4135718",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T14:31+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "AB, bazı ülkelerden hibrit otomobil ithalatına geçici kota getirdi",
    "ozet": "Avrupa Birliği (AB) Komisyonu, birlik otomobil üreticilerini korumak amacıyla Çin, ABD, Japonya, Güney Kore, İngiltere ve Türkiye'nin de aralarında bulunduğu üçüncü ülkelerden hibrit otomobillerin ithalatına geçici kota getirdi.",
    "url": "https://www.aa.com.tr/tr/ekonomi/ab-bazi-ulkelerden-hibrit-otomobil-ithalatina-gecici-kota-getirdi/4135710",
@@ -1099,30 +1207,12 @@
    "sektor": false
   },
   {
-   "baslik": "Eski İsrail Başbakanı Olmert'in kızı, gözaltında İsrail polisi tarafından darbedildiğini söyledi",
-   "ozet": "Eski İsrail Başbakanı Ehud Olmert'in kızı Dana Olmert'in, Tel Aviv'de gözaltına alındığı sırada polis tarafından darbedildiği bildirildi.",
-   "url": "https://www.aa.com.tr/tr/dunya/eski-israil-basbakani-olmertin-kizi-gozaltinda-israil-polisi-tarafindan-darbedildigini-soyledi/4135699",
-   "kaynak": "AA",
-   "kategori": "dunya",
-   "zaman": "2026-11-24T14:24+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "FIFA'dan 2 Türk kulübüne transfer yasağı",
    "ozet": "FIFA, Trendyol Süper Lig ekibi Gençlerbirliği ve Trendyol 1. Lig takımlarından Orta Yapı Pendikspor'a transfer yasağı getirdi.",
    "url": "https://www.aa.com.tr/tr/spor/fifadan-2-turk-kulubune-transfer-yasagi/4135681",
    "kaynak": "AA",
    "kategori": "spor",
    "zaman": "2026-11-24T14:14+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Son dakika... Fatma Betül Sayan Kaya ev hapsi şartıyla tahliye edildi",
-   "ozet": "Fon soruşturmasında tutuklanan ve 18 gündür cezaevinde bulunan Fatma Betül Sayan Kaya ev hapsi şartıyla tahliye edildi.",
-   "url": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-fatma-betul-sayan-kaya-ev-hapsi-sartiyla-tahliye-edildi-1752387",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T14:04+03:00",
    "sektor": false
   },
   {
@@ -1279,33 +1369,6 @@
    "sektor": false
   },
   {
-   "baslik": "Beşiktaş'ta bir kişi devrilen ağacın altında kalmaktan son anda kurtuldu",
-   "ozet": "Beşiktaş'ta bir kişinin devrilen ağacın altında kalmaktan son anda kurtulması güvenlik kamerasınca kaydedildi.",
-   "url": "https://www.ntv.com.tr/turkiye/video-besiktasta-bir-kisi-devrilen-agacin-altinda-kalmaktan-son-anda-kurtuldu-1752374",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T12:26+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Bahis, dolandırıcılık ve mal varlığı değerlerini aklama suçlarına yönelik 5 soruşturmada 245 gözaltı",
-   "ozet": "Yasa dışı bahis, nitelikli dolandırıcılık ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarından yürütülen 5 ayrı soruşturmada 245 şüpheli gözaltına alındı.",
-   "url": "https://www.ntv.com.tr/turkiye/bahis-dolandiricilik-ve-mal-varligi-degerlerini-aklama-suclarina-yonelik-5-sorusturmada-245-gozalti-1752360",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T12:25+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Yurt dışında yakalanan 44 kişi Türkiye'ye getirildi",
-   "ozet": "İçişleri Bakanlığı 44 kişinin 9 ülkede yakalanarak Türkiye'ye getirildiğini duyurdu.",
-   "url": "https://www.ntv.com.tr/turkiye/yurt-disinda-yakalanan-44-kisi-turkiyeye-getirildi-1752361",
-   "kaynak": "NTV",
-   "kategori": "turkiye",
-   "zaman": "2026-11-24T12:25+03:00",
-   "sektor": false
-  },
-  {
    "baslik": "Sanofi'den biyoteknoloji şirketi için 41 milyar dolarlık imza",
    "ozet": "Fransa merkezli ilaç şirketi Sanofi, solunum yolu ve nadir hastalıklar alanındaki faaliyetlerini genişletmek amacıyla ABD merkezli biyoteknoloji şirketi Insmed'i yaklaşık 41 milyar dolar (37,6 milyar euro) nakit karşılığında satın alacağını",
    "url": "https://www.bloomberght.com/sanofi-den-biyoteknoloji-sirketi-icin-41-milyar-dolarlik-imza-3795536",
@@ -1330,69 +1393,6 @@
    "kaynak": "Bloomberg HT",
    "kategori": "finans",
    "zaman": "2026-11-24T12:03+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "AJet'ten Öğretmenler Günü'ne özel kampanya",
-   "ozet": "AJet, 24 Kasım Öğretmenler Günü'ne özel kampanya kapsamında yurt içi uçuşlarda biletleri vergiler hariç yüzde 25 indirimle satışa sundu.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/ajetten-ogretmenler-gunune-ozel-kampanya/4135479",
-   "kaynak": "AA",
-   "kategori": "ekonomi",
-   "zaman": "2026-11-24T11:52+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Güreşçi çocuklar için \"SEM Ligi\"",
-   "ozet": "Türkiye Güreş Federasyonu Başkanı Taha Akgül, Türk güreşine yeni yetenekler kazandırmak amacıyla 15 yıldır düzenlenmeyen Sporcu Eğitim Merkezi Ligi'ni yeniden başlattıkların söyledi.",
-   "url": "https://www.aa.com.tr/tr/spor/guresci-cocuklar-icin-sem-ligi/4135457",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-11-24T11:38+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Milli güreşçi Melisa'nın hedefi \"adını dünyaya duyurmak\"",
-   "ozet": "Milli güreşçi Melisa Sarıçiçek, Türkiye şampiyonluğunun ardından uluslararası müsabakalarda da başarı elde ederek adını dünyaya duyurmayı hedefliyor.",
-   "url": "https://www.aa.com.tr/tr/spor/milli-guresci-melisanin-hedefi-adini-dunyaya-duyurmak/4135450",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-11-24T11:32+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "Hürmüz Boğazı krizi, Körfez ülkelerinin enerji gelirlerinde milyarlarca dolarlık kayba yol açtı",
-   "ozet": "Hürmüz Boğazı'ndaki kriz, Körfez ülkelerinin enerji gelirlerinde milyarlarca dolarlık kayıplara yol açarken, alternatif ihracat güzergahlarına erişim ve yükselen enerji fiyatları ülkeler arasındaki farkı belirledi.",
-   "url": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazi-krizi-korfez-ulkelerinin-enerji-gelirlerinde-milyarlarca-dolarlik-kayba-yol-acti/4135446",
-   "kaynak": "AA",
-   "kategori": "finans",
-   "zaman": "2026-11-24T11:28+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "TCMB kredi kartı faizlerinde kullanılan referans oranı düşürdü",
-   "ozet": "Kasım 2023'ten bu yana yüzde 3,11 seviyesinde olan referans oran, 1 Aralık 2026 itibarıyla yüzde 2,94'e düşecek.",
-   "url": "https://www.bloomberght.com/tcmb-kredi-karti-faizlerinde-kullanilan-referans-orani-dusurdu-3795528",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-11-24T11:28+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "JPMorgan ve HSBC, Londra'da ilk kez dijital altın işlemi yaptı",
-   "ozet": "JPMorgan ve diğer büyük değerli metal tüccarları, Londra'da ilk kez yeni dijital altın türüyle işlem gerçekleştirdi.",
-   "url": "https://www.bloomberght.com/jpmorgan-ve-hsbc-londrada-ilk-kez-dijital-altin-islemi-yapti-3795527",
-   "kaynak": "Bloomberg HT",
-   "kategori": "finans",
-   "zaman": "2026-11-24T11:27+03:00",
-   "sektor": false
-  },
-  {
-   "baslik": "İki Türk teknik direktörün \"Şampiyonlar Ligi randevusu\"",
-   "ozet": "Arda Turan'ın ekibi Shakhtar Donetsk ile Emre Belözoğlu yönetimindeki Fenerbahçe, Şampiyonlar Ligi'nin 5. haftasında 25 Kasım Çarşamba günü karşı karşıya gelecek.",
-   "url": "https://www.aa.com.tr/tr/spor/iki-turk-teknik-direktorun-sampiyonlar-ligi-randevusu/4135445",
-   "kaynak": "AA",
-   "kategori": "spor",
-   "zaman": "2026-11-24T11:26+03:00",
    "sektor": false
   }
  ],
